@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_f80d688206d2ff94d6c75b9e292d329b {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_f80d688206d2ff94d6c75b9e292d329b" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_f80d688206d2ff94d6c75b9e292d329b = L.map(
+                "map_f80d688206d2ff94d6c75b9e292d329b",
+                {
+                    center: [20.0, 100.0],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 4,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_db309f637cc936a895b492b4c26951b5 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors", "detectRetina": false, "maxNativeZoom": 19, "maxZoom": 19, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            tile_layer_db309f637cc936a895b492b4c26951b5.addTo(map_f80d688206d2ff94d6c75b9e292d329b);
+        
+    
+            var marker_7eaeb909b15cc4e087e4ab12bf957d4c = L.marker(
+                [35.8617, 104.1954],
+                {}
+            ).addTo(map_f80d688206d2ff94d6c75b9e292d329b);
+        
+    
+            var icon_08942795b9e115ee3df07fa7478aad0d = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_7eaeb909b15cc4e087e4ab12bf957d4c.setIcon(icon_08942795b9e115ee3df07fa7478aad0d);
+        
+    
+        var popup_bf0fca33ad06305ac29cd42a31d86821 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_0564519a1a601cb9631700e3a8ec7b94 = $(`<div id="html_0564519a1a601cb9631700e3a8ec7b94" style="width: 100.0%; height: 100.0%;">         <b>Country:</b> China<br>         <b>Low Risk:</b> 232<br>         <b>Medium Risk:</b> 128<br>         <b>High Risk:</b> 2<br>         </div>`)[0];
+                popup_bf0fca33ad06305ac29cd42a31d86821.setContent(html_0564519a1a601cb9631700e3a8ec7b94);
+            
+        
+
+        marker_7eaeb909b15cc4e087e4ab12bf957d4c.bindPopup(popup_bf0fca33ad06305ac29cd42a31d86821)
+        ;
+
+        
+    
+    
+            var marker_e6e9b8244529dce701ca68c40b09fb4f = L.marker(
+                [20.5937, 78.9629],
+                {}
+            ).addTo(map_f80d688206d2ff94d6c75b9e292d329b);
+        
+    
+            var icon_c563cf294dbdf21f2f61b199599548ff = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_e6e9b8244529dce701ca68c40b09fb4f.setIcon(icon_c563cf294dbdf21f2f61b199599548ff);
+        
+    
+        var popup_22e7872b801ea4950d47c67510809e92 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_1ae5d335eb636f354a95278ac36ff500 = $(`<div id="html_1ae5d335eb636f354a95278ac36ff500" style="width: 100.0%; height: 100.0%;">         <b>Country:</b> India<br>         <b>Low Risk:</b> 234<br>         <b>Medium Risk:</b> 103<br>         <b>High Risk:</b> 1<br>         </div>`)[0];
+                popup_22e7872b801ea4950d47c67510809e92.setContent(html_1ae5d335eb636f354a95278ac36ff500);
+            
+        
+
+        marker_e6e9b8244529dce701ca68c40b09fb4f.bindPopup(popup_22e7872b801ea4950d47c67510809e92)
+        ;
+
+        
+    
+    
+            var marker_cd15ecc2fe8457ee589db9e026d73c82 = L.marker(
+                [-0.7893, 113.9213],
+                {}
+            ).addTo(map_f80d688206d2ff94d6c75b9e292d329b);
+        
+    
+            var icon_4a85b478062a9a30242120f21626b7d1 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_cd15ecc2fe8457ee589db9e026d73c82.setIcon(icon_4a85b478062a9a30242120f21626b7d1);
+        
+    
+        var popup_3db72a3503d268daaa7a0522aff5241b = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_9c4cf3af4e3d8938ee04889030e86e24 = $(`<div id="html_9c4cf3af4e3d8938ee04889030e86e24" style="width: 100.0%; height: 100.0%;">         <b>Country:</b> Indonesia<br>         <b>Low Risk:</b> 225<br>         <b>Medium Risk:</b> 91<br>         <b>High Risk:</b> 0<br>         </div>`)[0];
+                popup_3db72a3503d268daaa7a0522aff5241b.setContent(html_9c4cf3af4e3d8938ee04889030e86e24);
+            
+        
+
+        marker_cd15ecc2fe8457ee589db9e026d73c82.bindPopup(popup_3db72a3503d268daaa7a0522aff5241b)
+        ;
+
+        
+    
+    
+            var marker_de6d5c8e7993dbc24ccfa2a6207e53ea = L.marker(
+                [36.2048, 138.2529],
+                {}
+            ).addTo(map_f80d688206d2ff94d6c75b9e292d329b);
+        
+    
+            var icon_f759aaab0f45047598de42e5ea74b855 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_de6d5c8e7993dbc24ccfa2a6207e53ea.setIcon(icon_f759aaab0f45047598de42e5ea74b855);
+        
+    
+        var popup_3093afcb3226eab3bd99c59d0629878c = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_8b73c5ef25b8ce78dc1327c2ba63a389 = $(`<div id="html_8b73c5ef25b8ce78dc1327c2ba63a389" style="width: 100.0%; height: 100.0%;">         <b>Country:</b> Japan<br>         <b>Low Risk:</b> 193<br>         <b>Medium Risk:</b> 109<br>         <b>High Risk:</b> 3<br>         </div>`)[0];
+                popup_3093afcb3226eab3bd99c59d0629878c.setContent(html_8b73c5ef25b8ce78dc1327c2ba63a389);
+            
+        
+
+        marker_de6d5c8e7993dbc24ccfa2a6207e53ea.bindPopup(popup_3093afcb3226eab3bd99c59d0629878c)
+        ;
+
+        
+    
+    
+            var marker_4a5f786ee88eabbbf7bc373a7f52b98d = L.marker(
+                [4.2105, 101.9758],
+                {}
+            ).addTo(map_f80d688206d2ff94d6c75b9e292d329b);
+        
+    
+            var icon_622a0dc0acbb5a3493cce96a5bef54ee = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_4a5f786ee88eabbbf7bc373a7f52b98d.setIcon(icon_622a0dc0acbb5a3493cce96a5bef54ee);
+        
+    
+        var popup_a76794052e82f5b6ef48e4b086da6dbe = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_4134d012093e1bdbc9d6553cd9056ca5 = $(`<div id="html_4134d012093e1bdbc9d6553cd9056ca5" style="width: 100.0%; height: 100.0%;">         <b>Country:</b> Malaysia<br>         <b>Low Risk:</b> 257<br>         <b>Medium Risk:</b> 111<br>         <b>High Risk:</b> 3<br>         </div>`)[0];
+                popup_a76794052e82f5b6ef48e4b086da6dbe.setContent(html_4134d012093e1bdbc9d6553cd9056ca5);
+            
+        
+
+        marker_4a5f786ee88eabbbf7bc373a7f52b98d.bindPopup(popup_a76794052e82f5b6ef48e4b086da6dbe)
+        ;
+
+        
+    
+    
+            var marker_1dec607c0a676f127b620b6e09832448 = L.marker(
+                [12.8797, 121.774],
+                {}
+            ).addTo(map_f80d688206d2ff94d6c75b9e292d329b);
+        
+    
+            var icon_8de55fd87565056d6ba9080ea5d71b5e = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_1dec607c0a676f127b620b6e09832448.setIcon(icon_8de55fd87565056d6ba9080ea5d71b5e);
+        
+    
+        var popup_025e95455d8b69d58a48cae46a202360 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_b69bbb16ab2b3bfabb48cf8aac8af987 = $(`<div id="html_b69bbb16ab2b3bfabb48cf8aac8af987" style="width: 100.0%; height: 100.0%;">         <b>Country:</b> Philippines<br>         <b>Low Risk:</b> 240<br>         <b>Medium Risk:</b> 115<br>         <b>High Risk:</b> 2<br>         </div>`)[0];
+                popup_025e95455d8b69d58a48cae46a202360.setContent(html_b69bbb16ab2b3bfabb48cf8aac8af987);
+            
+        
+
+        marker_1dec607c0a676f127b620b6e09832448.bindPopup(popup_025e95455d8b69d58a48cae46a202360)
+        ;
+
+        
+    
+    
+            var marker_97e81326c5849e290f863dfddbb9ecb0 = L.marker(
+                [1.3521, 103.8198],
+                {}
+            ).addTo(map_f80d688206d2ff94d6c75b9e292d329b);
+        
+    
+            var icon_baa0e049678c8d0f7f19ed5c7911050e = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_97e81326c5849e290f863dfddbb9ecb0.setIcon(icon_baa0e049678c8d0f7f19ed5c7911050e);
+        
+    
+        var popup_8ce216bd8079f37f3aba6c3da5991ad8 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_158347d4303ea05d262245b6c5056d69 = $(`<div id="html_158347d4303ea05d262245b6c5056d69" style="width: 100.0%; height: 100.0%;">         <b>Country:</b> Singapore<br>         <b>Low Risk:</b> 246<br>         <b>Medium Risk:</b> 115<br>         <b>High Risk:</b> 2<br>         </div>`)[0];
+                popup_8ce216bd8079f37f3aba6c3da5991ad8.setContent(html_158347d4303ea05d262245b6c5056d69);
+            
+        
+
+        marker_97e81326c5849e290f863dfddbb9ecb0.bindPopup(popup_8ce216bd8079f37f3aba6c3da5991ad8)
+        ;
+
+        
+    
+    
+            var marker_5b6acc2c11d2be7a30c2e3438ded4bd9 = L.marker(
+                [35.9078, 127.7669],
+                {}
+            ).addTo(map_f80d688206d2ff94d6c75b9e292d329b);
+        
+    
+            var icon_fb441a02543dd3844141a0951556a5ea = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_5b6acc2c11d2be7a30c2e3438ded4bd9.setIcon(icon_fb441a02543dd3844141a0951556a5ea);
+        
+    
+        var popup_b24b5d968456aef43e89683fc70f3c3e = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_cd80ac2ac410d81dadfb2eb56825f02d = $(`<div id="html_cd80ac2ac410d81dadfb2eb56825f02d" style="width: 100.0%; height: 100.0%;">         <b>Country:</b> South Korea<br>         <b>Low Risk:</b> 246<br>         <b>Medium Risk:</b> 112<br>         <b>High Risk:</b> 0<br>         </div>`)[0];
+                popup_b24b5d968456aef43e89683fc70f3c3e.setContent(html_cd80ac2ac410d81dadfb2eb56825f02d);
+            
+        
+
+        marker_5b6acc2c11d2be7a30c2e3438ded4bd9.bindPopup(popup_b24b5d968456aef43e89683fc70f3c3e)
+        ;
+
+        
+    
+    
+            var marker_495d16a9d7adeb502c92a08b20494ba5 = L.marker(
+                [15.87, 100.9925],
+                {}
+            ).addTo(map_f80d688206d2ff94d6c75b9e292d329b);
+        
+    
+            var icon_9912afb0fc68f6552ac9982cc3fc60f4 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_495d16a9d7adeb502c92a08b20494ba5.setIcon(icon_9912afb0fc68f6552ac9982cc3fc60f4);
+        
+    
+        var popup_75812e06c913e6f9b4f763c8490d5423 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_400db4bfa910ed63540d950a9f946383 = $(`<div id="html_400db4bfa910ed63540d950a9f946383" style="width: 100.0%; height: 100.0%;">         <b>Country:</b> Thailand<br>         <b>Low Risk:</b> 238<br>         <b>Medium Risk:</b> 125<br>         <b>High Risk:</b> 1<br>         </div>`)[0];
+                popup_75812e06c913e6f9b4f763c8490d5423.setContent(html_400db4bfa910ed63540d950a9f946383);
+            
+        
+
+        marker_495d16a9d7adeb502c92a08b20494ba5.bindPopup(popup_75812e06c913e6f9b4f763c8490d5423)
+        ;
+
+        
+    
+    
+            var marker_a4d4b445b8fa8724c6107a34b5643c60 = L.marker(
+                [14.0583, 108.2772],
+                {}
+            ).addTo(map_f80d688206d2ff94d6c75b9e292d329b);
+        
+    
+            var icon_5096031f621f43eb28d59c9564ea8654 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_a4d4b445b8fa8724c6107a34b5643c60.setIcon(icon_5096031f621f43eb28d59c9564ea8654);
+        
+    
+        var popup_bcaa7f3e160fae559c2cefe877a3aef6 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_028cb0b1572f9ebbd5ca291091c8e772 = $(`<div id="html_028cb0b1572f9ebbd5ca291091c8e772" style="width: 100.0%; height: 100.0%;">         <b>Country:</b> Vietnam<br>         <b>Low Risk:</b> 240<br>         <b>Medium Risk:</b> 102<br>         <b>High Risk:</b> 5<br>         </div>`)[0];
+                popup_bcaa7f3e160fae559c2cefe877a3aef6.setContent(html_028cb0b1572f9ebbd5ca291091c8e772);
+            
+        
+
+        marker_a4d4b445b8fa8724c6107a34b5643c60.bindPopup(popup_bcaa7f3e160fae559c2cefe877a3aef6)
+        ;
+
+        
+    
+</script>
+</html>
