@@ -1,0 +1,4025 @@
+Age,Tumor Size,Reginol Node Positive,Progesterone Status,differentiate,Cluster,Cluster_Risiko,Country
+68,4,1,1,1,1,Risiko Menengah,Indonesia
+50,35,5,1,0,1,Risiko Menengah,Indonesia
+58,63,7,1,0,1,Risiko Menengah,South Korea
+58,18,1,1,1,1,Risiko Menengah,Thailand
+47,41,1,1,1,1,Risiko Menengah,Thailand
+51,20,2,1,0,1,Risiko Menengah,Thailand
+51,8,1,1,3,0,Risiko Rendah,Singapore
+40,30,1,1,0,1,Risiko Menengah,South Korea
+40,103,18,1,1,1,Risiko Menengah,Philippines
+69,32,12,1,3,0,Risiko Rendah,Japan
+68,13,1,1,0,1,Risiko Menengah,Malaysia
+46,59,3,0,1,2,Risiko Tinggi,Malaysia
+65,35,3,1,1,1,Risiko Menengah,Thailand
+48,15,7,1,1,1,Risiko Menengah,Singapore
+62,35,14,1,0,1,Risiko Menengah,China
+61,19,1,1,0,1,Risiko Menengah,Indonesia
+56,46,1,1,0,1,Risiko Menengah,Malaysia
+43,24,1,1,0,1,Risiko Menengah,China
+48,25,1,1,0,1,Risiko Menengah,Philippines
+60,29,1,0,0,2,Risiko Tinggi,Singapore
+48,30,2,1,3,0,Risiko Rendah,Vietnam
+57,40,5,1,0,1,Risiko Menengah,China
+55,29,1,1,1,1,Risiko Menengah,South Korea
+48,70,1,0,1,2,Risiko Tinggi,Singapore
+62,20,22,1,1,1,Risiko Menengah,Philippines
+63,22,17,1,0,1,Risiko Menengah,South Korea
+48,50,23,1,1,1,Risiko Menengah,Indonesia
+46,17,1,1,3,0,Risiko Rendah,Vietnam
+57,25,4,0,3,2,Risiko Tinggi,Indonesia
+66,21,1,1,1,1,Risiko Menengah,Vietnam
+47,40,1,1,3,0,Risiko Rendah,Indonesia
+53,15,1,1,0,1,Risiko Menengah,China
+59,15,1,1,0,1,Risiko Menengah,Thailand
+60,20,3,0,0,2,Risiko Tinggi,South Korea
+46,30,10,1,0,1,Risiko Menengah,Malaysia
+51,10,2,1,3,0,Risiko Rendah,Japan
+54,27,6,0,0,2,Risiko Tinggi,Malaysia
+51,18,2,1,0,1,Risiko Menengah,Singapore
+49,35,2,1,0,1,Risiko Menengah,South Korea
+51,23,5,1,0,1,Risiko Menengah,Singapore
+57,70,12,1,0,1,Risiko Menengah,Indonesia
+64,17,2,1,0,1,Risiko Menengah,Indonesia
+62,21,1,0,0,2,Risiko Tinggi,India
+53,23,6,0,1,2,Risiko Tinggi,Singapore
+55,5,2,1,0,1,Risiko Menengah,Japan
+66,51,5,1,0,1,Risiko Menengah,China
+42,9,2,0,0,2,Risiko Tinggi,Indonesia
+62,15,1,1,0,1,Risiko Menengah,Indonesia
+53,32,9,1,0,1,Risiko Menengah,Vietnam
+69,5,3,1,0,1,Risiko Menengah,China
+37,23,3,1,0,1,Risiko Menengah,Indonesia
+69,55,1,0,0,2,Risiko Tinggi,China
+60,120,1,0,1,2,Risiko Tinggi,Singapore
+63,77,2,0,3,2,Risiko Tinggi,Indonesia
+57,2,1,0,0,2,Risiko Tinggi,Japan
+55,11,1,1,0,1,Risiko Menengah,Japan
+62,25,1,1,0,1,Risiko Menengah,India
+50,18,1,0,0,2,Risiko Tinggi,South Korea
+50,15,1,1,0,1,Risiko Menengah,Vietnam
+55,12,2,1,0,1,Risiko Menengah,South Korea
+56,18,2,0,0,2,Risiko Tinggi,Philippines
+51,17,1,0,0,2,Risiko Tinggi,Malaysia
+42,26,1,1,0,1,Risiko Menengah,Japan
+59,75,2,1,0,1,Risiko Menengah,South Korea
+67,13,3,1,0,1,Risiko Menengah,Singapore
+46,15,1,1,1,1,Risiko Menengah,South Korea
+31,70,23,1,1,1,Risiko Menengah,Japan
+40,15,3,1,1,1,Risiko Menengah,Malaysia
+58,15,1,1,1,1,Risiko Menengah,Philippines
+52,17,3,1,0,1,Risiko Menengah,Philippines
+49,130,8,0,1,2,Risiko Tinggi,China
+64,34,20,0,1,2,Risiko Tinggi,Japan
+31,30,1,1,1,1,Risiko Menengah,Singapore
+66,10,1,1,0,1,Risiko Menengah,India
+67,22,16,0,0,2,Risiko Tinggi,Japan
+56,55,1,1,0,1,Risiko Menengah,India
+66,25,4,1,0,1,Risiko Menengah,Indonesia
+42,50,1,1,0,1,Risiko Menengah,Malaysia
+51,50,1,1,3,0,Risiko Rendah,Japan
+68,15,1,1,0,1,Risiko Menengah,Vietnam
+53,30,13,1,1,1,Risiko Menengah,Japan
+67,20,1,1,0,1,Risiko Menengah,Philippines
+66,22,2,1,0,1,Risiko Menengah,Philippines
+53,15,1,0,0,2,Risiko Tinggi,Singapore
+51,15,1,1,3,0,Risiko Rendah,Philippines
+46,40,11,0,1,2,Risiko Tinggi,Japan
+48,120,5,1,0,1,Risiko Menengah,Malaysia
+52,80,1,1,0,1,Risiko Menengah,India
+55,17,1,1,0,1,Risiko Menengah,Vietnam
+65,3,1,1,3,0,Risiko Rendah,Indonesia
+53,60,1,1,1,1,Risiko Menengah,Indonesia
+33,14,1,1,0,1,Risiko Menengah,India
+63,26,4,1,3,0,Risiko Rendah,India
+45,25,16,1,1,1,Risiko Menengah,China
+59,12,3,1,0,1,Risiko Menengah,Vietnam
+60,25,2,1,3,0,Risiko Rendah,Philippines
+50,30,2,0,0,2,Risiko Tinggi,India
+61,25,1,1,0,1,Risiko Menengah,India
+50,24,3,1,1,1,Risiko Menengah,Thailand
+68,27,1,1,3,0,Risiko Rendah,Japan
+38,70,24,1,0,1,Risiko Menengah,Thailand
+47,16,1,1,1,1,Risiko Menengah,India
+39,45,1,1,0,1,Risiko Menengah,Malaysia
+57,27,1,1,1,1,Risiko Menengah,Thailand
+52,23,3,1,0,1,Risiko Menengah,Thailand
+60,25,1,1,0,1,Risiko Menengah,South Korea
+54,40,1,0,1,2,Risiko Tinggi,China
+68,20,2,1,0,1,Risiko Menengah,Singapore
+38,21,2,1,0,1,Risiko Menengah,Philippines
+63,36,3,1,0,1,Risiko Menengah,China
+61,14,4,1,0,1,Risiko Menengah,Japan
+37,51,3,1,3,0,Risiko Rendah,Thailand
+46,50,10,1,0,1,Risiko Menengah,Philippines
+45,45,2,1,1,1,Risiko Menengah,Japan
+54,51,5,1,0,1,Risiko Menengah,Thailand
+53,19,3,1,0,1,Risiko Menengah,Thailand
+50,76,1,1,0,1,Risiko Menengah,India
+69,20,9,1,1,1,Risiko Menengah,Indonesia
+48,35,3,1,1,1,Risiko Menengah,Thailand
+53,27,2,1,1,1,Risiko Menengah,Indonesia
+67,35,2,1,3,0,Risiko Rendah,Philippines
+43,35,3,1,1,1,Risiko Menengah,Japan
+50,50,16,1,0,1,Risiko Menengah,Vietnam
+59,38,4,1,1,1,Risiko Menengah,China
+53,15,2,1,3,0,Risiko Rendah,China
+62,17,1,1,0,1,Risiko Menengah,Philippines
+39,25,2,1,0,1,Risiko Menengah,Malaysia
+59,19,1,0,1,2,Risiko Tinggi,Singapore
+56,15,2,1,1,1,Risiko Menengah,South Korea
+45,18,3,1,0,1,Risiko Menengah,Malaysia
+60,11,1,1,0,1,Risiko Menengah,Malaysia
+50,45,6,0,1,2,Risiko Tinggi,Thailand
+58,12,1,1,0,1,Risiko Menengah,Philippines
+50,20,1,1,0,1,Risiko Menengah,Malaysia
+55,45,7,0,1,2,Risiko Tinggi,South Korea
+37,18,5,1,0,1,Risiko Menengah,Indonesia
+46,25,1,1,3,0,Risiko Rendah,Malaysia
+65,21,1,0,3,2,Risiko Tinggi,Vietnam
+61,49,10,1,0,1,Risiko Menengah,Thailand
+52,70,9,0,1,2,Risiko Tinggi,South Korea
+54,7,1,1,3,0,Risiko Rendah,South Korea
+36,19,4,1,0,1,Risiko Menengah,Vietnam
+49,17,1,1,0,1,Risiko Menengah,South Korea
+62,38,3,1,0,1,Risiko Menengah,Singapore
+54,34,1,1,0,1,Risiko Menengah,Thailand
+61,30,1,1,0,1,Risiko Menengah,South Korea
+46,4,2,1,3,0,Risiko Rendah,Vietnam
+38,72,8,1,1,1,Risiko Menengah,Thailand
+66,18,1,1,0,1,Risiko Menengah,Malaysia
+59,25,3,1,0,1,Risiko Menengah,South Korea
+38,9,1,1,1,1,Risiko Menengah,Singapore
+67,21,2,1,0,1,Risiko Menengah,Thailand
+60,20,1,0,0,2,Risiko Tinggi,India
+61,15,5,1,0,1,Risiko Menengah,Japan
+67,18,2,1,1,1,Risiko Menengah,South Korea
+69,100,6,0,0,2,Risiko Tinggi,Malaysia
+47,17,1,0,1,2,Risiko Tinggi,Indonesia
+39,7,1,1,0,1,Risiko Menengah,Vietnam
+53,24,1,0,0,2,Risiko Tinggi,Thailand
+55,43,14,1,1,1,Risiko Menengah,Philippines
+59,30,4,1,0,1,Risiko Menengah,Vietnam
+53,7,1,1,0,1,Risiko Menengah,Malaysia
+59,18,1,1,1,1,Risiko Menengah,China
+57,12,2,1,1,1,Risiko Menengah,Indonesia
+61,25,6,1,0,1,Risiko Menengah,Thailand
+68,62,1,1,0,1,Risiko Menengah,Thailand
+54,20,7,1,0,1,Risiko Menengah,Japan
+37,70,17,1,0,1,Risiko Menengah,Indonesia
+48,37,1,1,0,1,Risiko Menengah,Malaysia
+53,13,1,1,0,1,Risiko Menengah,India
+69,40,2,1,0,1,Risiko Menengah,India
+63,70,3,0,1,2,Risiko Tinggi,Indonesia
+49,12,2,1,1,1,Risiko Menengah,Philippines
+63,9,1,1,3,0,Risiko Rendah,Thailand
+60,10,2,1,0,1,Risiko Menengah,Philippines
+41,55,1,1,0,1,Risiko Menengah,Thailand
+59,18,10,0,0,2,Risiko Tinggi,Vietnam
+43,15,2,1,0,1,Risiko Menengah,Singapore
+52,25,14,1,0,1,Risiko Menengah,Vietnam
+61,50,5,1,1,1,Risiko Menengah,Thailand
+60,10,1,1,3,0,Risiko Rendah,South Korea
+61,30,2,1,0,1,Risiko Menengah,Philippines
+63,13,1,0,0,2,Risiko Tinggi,Japan
+48,40,13,1,3,0,Risiko Rendah,Indonesia
+51,100,11,0,1,2,Risiko Tinggi,South Korea
+66,25,2,0,0,2,Risiko Tinggi,Singapore
+68,68,3,1,0,1,Risiko Menengah,China
+58,25,2,1,0,1,Risiko Menengah,Malaysia
+62,23,9,0,0,2,Risiko Tinggi,India
+46,15,1,1,0,1,Risiko Menengah,China
+58,22,1,1,0,1,Risiko Menengah,Vietnam
+60,7,1,1,0,1,Risiko Menengah,Indonesia
+62,16,4,1,1,1,Risiko Menengah,Singapore
+53,24,1,0,0,2,Risiko Tinggi,India
+42,75,13,1,0,1,Risiko Menengah,Indonesia
+63,11,1,1,3,0,Risiko Rendah,Vietnam
+55,35,2,1,1,1,Risiko Menengah,Japan
+50,60,5,1,1,1,Risiko Menengah,Vietnam
+52,30,2,1,1,1,Risiko Menengah,Singapore
+47,25,2,1,1,1,Risiko Menengah,China
+55,25,2,1,1,1,Risiko Menengah,Singapore
+60,25,4,1,0,1,Risiko Menengah,Indonesia
+66,12,1,0,0,2,Risiko Tinggi,Philippines
+50,25,12,1,1,1,Risiko Menengah,Vietnam
+64,17,1,1,3,0,Risiko Rendah,Malaysia
+67,11,1,1,0,1,Risiko Menengah,South Korea
+56,32,1,1,0,1,Risiko Menengah,Thailand
+60,21,1,1,3,0,Risiko Rendah,Indonesia
+56,25,1,0,0,2,Risiko Tinggi,Indonesia
+48,19,1,1,1,1,Risiko Menengah,Thailand
+44,75,4,1,0,1,Risiko Menengah,South Korea
+37,52,12,1,0,1,Risiko Menengah,Singapore
+52,9,17,0,3,2,Risiko Tinggi,China
+63,17,1,1,0,1,Risiko Menengah,India
+54,35,9,1,0,1,Risiko Menengah,Thailand
+63,85,4,0,1,2,Risiko Tinggi,China
+44,50,1,1,1,1,Risiko Menengah,India
+68,51,1,1,1,1,Risiko Menengah,China
+64,18,2,1,1,1,Risiko Menengah,Indonesia
+50,75,27,0,1,2,Risiko Tinggi,Singapore
+55,72,13,0,1,2,Risiko Tinggi,India
+66,35,7,1,0,1,Risiko Menengah,Philippines
+46,12,2,1,0,1,Risiko Menengah,Singapore
+43,23,3,1,0,1,Risiko Menengah,Malaysia
+43,16,1,1,1,1,Risiko Menengah,China
+43,16,2,1,1,1,Risiko Menengah,South Korea
+59,57,9,1,0,1,Risiko Menengah,Philippines
+55,50,1,1,1,1,Risiko Menengah,Indonesia
+61,17,1,1,0,1,Risiko Menengah,Japan
+66,32,4,1,0,1,Risiko Menengah,Vietnam
+55,21,1,1,0,1,Risiko Menengah,China
+65,11,7,1,0,1,Risiko Menengah,China
+69,40,5,1,0,1,Risiko Menengah,Thailand
+59,15,1,1,1,1,Risiko Menengah,Vietnam
+63,17,2,1,0,1,Risiko Menengah,India
+68,14,1,1,0,1,Risiko Menengah,India
+48,60,21,1,0,1,Risiko Menengah,Singapore
+61,55,1,0,1,2,Risiko Tinggi,Malaysia
+43,120,26,0,1,2,Risiko Tinggi,South Korea
+44,11,2,1,0,1,Risiko Menengah,China
+47,39,1,1,1,1,Risiko Menengah,Vietnam
+52,23,2,1,0,1,Risiko Menengah,Malaysia
+69,28,2,1,1,1,Risiko Menengah,Thailand
+39,37,15,1,0,1,Risiko Menengah,South Korea
+43,40,5,1,1,1,Risiko Menengah,Thailand
+64,9,1,0,1,2,Risiko Tinggi,Singapore
+66,8,1,1,3,0,Risiko Rendah,Singapore
+45,28,3,0,1,2,Risiko Tinggi,Thailand
+37,15,2,1,0,1,Risiko Menengah,Vietnam
+50,17,1,1,0,1,Risiko Menengah,Malaysia
+40,50,6,1,0,1,Risiko Menengah,Vietnam
+52,48,1,1,0,1,Risiko Menengah,Japan
+41,30,2,1,3,0,Risiko Rendah,Indonesia
+32,68,6,0,1,2,Risiko Tinggi,China
+65,110,2,1,0,1,Risiko Menengah,South Korea
+67,23,2,0,1,2,Risiko Tinggi,Japan
+57,12,2,1,1,1,Risiko Menengah,Vietnam
+63,13,1,1,0,1,Risiko Menengah,Vietnam
+42,40,1,1,3,0,Risiko Rendah,India
+57,30,1,1,0,1,Risiko Menengah,Thailand
+42,9,2,1,0,1,Risiko Menengah,South Korea
+46,22,1,1,0,1,Risiko Menengah,South Korea
+47,30,2,0,3,2,Risiko Tinggi,Singapore
+67,12,3,1,0,1,Risiko Menengah,China
+67,10,1,1,3,0,Risiko Rendah,Vietnam
+65,25,1,1,3,0,Risiko Rendah,Thailand
+65,16,1,1,0,1,Risiko Menengah,Malaysia
+33,65,3,1,0,1,Risiko Menengah,India
+64,22,1,1,3,0,Risiko Rendah,Indonesia
+66,17,10,1,0,1,Risiko Menengah,Thailand
+34,60,9,1,0,1,Risiko Menengah,Japan
+55,22,2,1,3,0,Risiko Rendah,Japan
+47,35,3,1,0,1,Risiko Menengah,Indonesia
+58,18,9,1,0,1,Risiko Menengah,Philippines
+38,34,1,0,1,2,Risiko Tinggi,Malaysia
+57,6,1,0,1,2,Risiko Tinggi,South Korea
+65,105,2,1,3,0,Risiko Rendah,Thailand
+52,100,17,1,2,0,Risiko Rendah,Singapore
+67,20,2,1,3,0,Risiko Rendah,India
+57,57,3,1,0,1,Risiko Menengah,Thailand
+61,10,1,1,3,0,Risiko Rendah,Philippines
+45,17,2,1,3,0,Risiko Rendah,Malaysia
+50,25,10,0,1,2,Risiko Tinggi,Philippines
+50,21,2,1,0,1,Risiko Menengah,Indonesia
+53,45,2,1,0,1,Risiko Menengah,India
+54,50,6,0,0,2,Risiko Tinggi,India
+58,35,2,1,0,1,Risiko Menengah,India
+56,38,11,1,1,1,Risiko Menengah,China
+68,16,28,0,0,2,Risiko Tinggi,Japan
+41,140,15,1,1,1,Risiko Menengah,Singapore
+61,25,1,1,1,1,Risiko Menengah,Japan
+65,18,1,1,0,1,Risiko Menengah,India
+69,18,1,1,0,1,Risiko Menengah,Singapore
+43,34,6,0,1,2,Risiko Tinggi,Japan
+47,65,14,1,0,1,Risiko Menengah,South Korea
+67,13,1,1,0,1,Risiko Menengah,Malaysia
+45,20,1,1,0,1,Risiko Menengah,South Korea
+65,29,4,1,1,1,Risiko Menengah,Malaysia
+53,10,1,1,3,0,Risiko Rendah,Vietnam
+67,62,3,1,0,1,Risiko Menengah,Japan
+43,50,1,0,0,2,Risiko Tinggi,Thailand
+47,29,2,1,0,1,Risiko Menengah,Vietnam
+48,15,3,1,0,1,Risiko Menengah,Vietnam
+62,15,14,1,1,1,Risiko Menengah,China
+68,42,5,1,3,0,Risiko Rendah,Philippines
+57,130,10,1,1,1,Risiko Menengah,Malaysia
+40,21,3,1,0,1,Risiko Menengah,China
+56,51,4,0,0,2,Risiko Tinggi,South Korea
+52,30,1,1,0,1,Risiko Menengah,Singapore
+40,35,3,1,0,1,Risiko Menengah,South Korea
+51,31,2,0,0,2,Risiko Tinggi,South Korea
+67,14,5,1,0,1,Risiko Menengah,Thailand
+54,15,6,1,3,0,Risiko Rendah,Japan
+56,60,17,1,0,1,Risiko Menengah,Thailand
+48,20,1,1,1,1,Risiko Menengah,Indonesia
+57,22,1,1,0,1,Risiko Menengah,Japan
+47,80,1,1,0,1,Risiko Menengah,Thailand
+54,15,3,1,0,1,Risiko Menengah,Thailand
+41,100,23,0,0,2,Risiko Tinggi,Vietnam
+65,30,1,1,0,1,Risiko Menengah,Singapore
+58,8,1,1,3,0,Risiko Rendah,Japan
+38,15,1,1,0,1,Risiko Menengah,Vietnam
+38,80,3,1,1,1,Risiko Menengah,Philippines
+60,30,7,0,0,2,Risiko Tinggi,South Korea
+58,25,1,1,3,0,Risiko Rendah,Malaysia
+63,24,6,1,0,1,Risiko Menengah,Thailand
+53,35,4,1,1,1,Risiko Menengah,India
+43,12,1,1,3,0,Risiko Rendah,Singapore
+60,45,1,1,1,1,Risiko Menengah,Vietnam
+60,25,9,1,3,0,Risiko Rendah,Indonesia
+47,35,1,1,1,1,Risiko Menengah,Malaysia
+48,28,2,0,1,2,Risiko Tinggi,Vietnam
+59,17,3,1,0,1,Risiko Menengah,Philippines
+56,15,1,0,0,2,Risiko Tinggi,Indonesia
+53,32,1,1,3,0,Risiko Rendah,South Korea
+48,15,2,1,0,1,Risiko Menengah,China
+52,60,1,1,0,1,Risiko Menengah,Indonesia
+61,90,2,1,0,1,Risiko Menengah,Indonesia
+66,11,3,1,0,1,Risiko Menengah,Philippines
+45,37,4,1,0,1,Risiko Menengah,India
+52,21,3,1,0,1,Risiko Menengah,Singapore
+67,2,9,1,1,1,Risiko Menengah,Malaysia
+40,70,1,1,1,1,Risiko Menengah,Vietnam
+50,8,1,1,0,1,Risiko Menengah,China
+65,22,5,1,1,1,Risiko Menengah,Malaysia
+55,40,12,1,0,1,Risiko Menengah,Thailand
+47,13,1,1,3,0,Risiko Rendah,China
+49,32,2,1,0,1,Risiko Menengah,South Korea
+53,5,9,1,1,1,Risiko Menengah,Thailand
+53,18,2,1,1,1,Risiko Menengah,China
+44,52,4,1,0,1,Risiko Menengah,Vietnam
+54,31,4,1,3,0,Risiko Rendah,China
+51,14,1,1,0,1,Risiko Menengah,India
+46,7,1,0,1,2,Risiko Tinggi,India
+47,12,1,1,1,1,Risiko Menengah,Philippines
+68,21,1,1,1,1,Risiko Menengah,India
+50,20,2,1,1,1,Risiko Menengah,Thailand
+67,26,2,1,0,1,Risiko Menengah,Vietnam
+47,16,1,1,3,0,Risiko Rendah,India
+68,15,1,1,3,0,Risiko Rendah,Indonesia
+55,25,2,1,1,1,Risiko Menengah,Indonesia
+47,20,1,1,1,1,Risiko Menengah,Philippines
+56,80,3,0,0,2,Risiko Tinggi,South Korea
+51,30,2,1,0,1,Risiko Menengah,Malaysia
+41,16,2,1,1,1,Risiko Menengah,China
+67,20,4,1,1,1,Risiko Menengah,China
+58,17,7,1,3,0,Risiko Rendah,Indonesia
+67,100,8,1,0,1,Risiko Menengah,Malaysia
+63,41,4,0,1,2,Risiko Tinggi,Japan
+69,16,6,1,1,1,Risiko Menengah,India
+59,25,11,0,0,2,Risiko Tinggi,Philippines
+44,108,14,1,0,1,Risiko Menengah,Philippines
+65,12,1,1,0,1,Risiko Menengah,Vietnam
+48,38,4,1,3,0,Risiko Rendah,South Korea
+39,24,13,1,0,1,Risiko Menengah,Vietnam
+55,45,13,0,1,2,Risiko Tinggi,Indonesia
+50,98,12,1,0,1,Risiko Menengah,Vietnam
+39,25,3,1,0,1,Risiko Menengah,India
+49,30,1,1,1,1,Risiko Menengah,Thailand
+58,90,9,1,0,1,Risiko Menengah,China
+34,27,2,1,1,1,Risiko Menengah,China
+49,47,4,0,0,2,Risiko Tinggi,Philippines
+52,30,4,0,0,2,Risiko Tinggi,Singapore
+62,25,6,1,0,1,Risiko Menengah,Vietnam
+55,17,1,1,1,1,Risiko Menengah,Vietnam
+57,22,1,0,0,2,Risiko Tinggi,China
+40,18,1,1,1,1,Risiko Menengah,Singapore
+52,18,3,1,0,1,Risiko Menengah,Vietnam
+63,25,2,1,0,1,Risiko Menengah,Thailand
+57,27,1,0,0,2,Risiko Tinggi,China
+40,25,17,1,1,1,Risiko Menengah,India
+55,70,12,1,0,1,Risiko Menengah,Philippines
+42,65,2,1,1,1,Risiko Menengah,South Korea
+52,22,9,1,0,1,Risiko Menengah,Thailand
+39,45,13,0,1,2,Risiko Tinggi,Malaysia
+53,20,1,1,0,1,Risiko Menengah,India
+47,65,4,1,0,1,Risiko Menengah,South Korea
+37,17,1,0,3,2,Risiko Tinggi,Japan
+63,15,8,0,1,2,Risiko Tinggi,Singapore
+62,15,1,1,0,1,Risiko Menengah,Vietnam
+50,19,2,1,0,1,Risiko Menengah,Philippines
+56,90,1,1,3,0,Risiko Rendah,Thailand
+56,10,1,1,0,1,Risiko Menengah,Singapore
+52,40,3,1,0,1,Risiko Menengah,Singapore
+38,31,1,1,1,1,Risiko Menengah,Malaysia
+57,30,2,1,0,1,Risiko Menengah,Japan
+56,26,2,0,0,2,Risiko Tinggi,South Korea
+42,25,2,1,1,1,Risiko Menengah,Philippines
+54,11,1,1,0,1,Risiko Menengah,India
+69,22,1,1,0,1,Risiko Menengah,India
+62,59,2,1,1,1,Risiko Menengah,Japan
+63,23,1,1,0,1,Risiko Menengah,India
+46,25,1,1,0,1,Risiko Menengah,South Korea
+47,18,1,1,1,1,Risiko Menengah,South Korea
+55,15,1,1,0,1,Risiko Menengah,Vietnam
+40,30,1,1,3,0,Risiko Rendah,Singapore
+47,25,2,1,1,1,Risiko Menengah,Philippines
+52,27,2,1,0,1,Risiko Menengah,China
+65,25,1,1,3,0,Risiko Rendah,Philippines
+63,24,1,1,0,1,Risiko Menengah,Indonesia
+57,24,1,1,1,1,Risiko Menengah,Malaysia
+45,20,5,0,1,2,Risiko Tinggi,Indonesia
+62,10,1,1,0,1,Risiko Menengah,Indonesia
+54,7,2,1,3,0,Risiko Rendah,India
+65,42,2,1,0,1,Risiko Menengah,India
+64,54,1,1,0,1,Risiko Menengah,China
+47,75,1,1,3,0,Risiko Rendah,Indonesia
+63,15,11,1,0,1,Risiko Menengah,Singapore
+66,22,2,0,1,2,Risiko Tinggi,Philippines
+69,20,1,1,0,1,Risiko Menengah,Japan
+48,65,5,1,0,1,Risiko Menengah,Malaysia
+60,61,14,1,1,1,Risiko Menengah,South Korea
+61,27,1,1,0,1,Risiko Menengah,Indonesia
+61,16,1,1,3,0,Risiko Rendah,Singapore
+43,35,1,1,0,1,Risiko Menengah,India
+49,55,13,0,1,2,Risiko Tinggi,Malaysia
+63,17,1,1,0,1,Risiko Menengah,Malaysia
+61,8,1,1,0,1,Risiko Menengah,China
+61,25,3,1,0,1,Risiko Menengah,Vietnam
+69,10,1,1,0,1,Risiko Menengah,Indonesia
+66,26,2,1,0,1,Risiko Menengah,Philippines
+39,120,17,1,0,1,Risiko Menengah,Thailand
+52,7,2,0,1,2,Risiko Tinggi,China
+49,18,2,1,0,1,Risiko Menengah,Philippines
+55,30,5,0,1,2,Risiko Tinggi,Malaysia
+62,70,3,0,0,2,Risiko Tinggi,Malaysia
+42,20,3,1,0,1,Risiko Menengah,South Korea
+50,80,1,1,3,0,Risiko Rendah,China
+52,30,1,1,0,1,Risiko Menengah,Philippines
+38,45,6,1,1,1,Risiko Menengah,Malaysia
+39,25,2,1,3,0,Risiko Rendah,China
+57,6,1,1,0,1,Risiko Menengah,China
+62,21,1,1,0,1,Risiko Menengah,Indonesia
+55,11,1,1,0,1,Risiko Menengah,Vietnam
+47,18,1,1,1,1,Risiko Menengah,Japan
+68,40,19,0,1,2,Risiko Tinggi,South Korea
+50,20,1,1,0,1,Risiko Menengah,South Korea
+42,12,11,1,0,1,Risiko Menengah,Philippines
+46,16,1,1,0,1,Risiko Menengah,Singapore
+42,10,1,1,0,1,Risiko Menengah,Japan
+46,20,2,1,0,1,Risiko Menengah,India
+50,20,2,1,0,1,Risiko Menengah,India
+62,25,1,1,1,1,Risiko Menengah,Philippines
+58,17,3,0,0,2,Risiko Tinggi,Thailand
+53,22,3,1,0,1,Risiko Menengah,South Korea
+46,20,3,1,1,1,Risiko Menengah,Vietnam
+38,20,1,1,0,1,Risiko Menengah,Philippines
+40,30,2,1,0,1,Risiko Menengah,Vietnam
+60,13,1,0,0,2,Risiko Tinggi,Japan
+63,15,1,1,0,1,Risiko Menengah,Singapore
+49,36,1,1,0,1,Risiko Menengah,Philippines
+57,8,1,1,3,0,Risiko Rendah,Singapore
+48,10,1,1,0,1,Risiko Menengah,India
+46,35,8,1,1,1,Risiko Menengah,Philippines
+61,70,1,1,0,1,Risiko Menengah,Indonesia
+61,35,6,1,0,1,Risiko Menengah,Indonesia
+53,74,3,0,3,2,Risiko Tinggi,Japan
+53,16,3,1,3,0,Risiko Rendah,South Korea
+42,70,4,1,3,0,Risiko Rendah,India
+57,21,6,1,3,0,Risiko Rendah,China
+56,100,8,0,1,2,Risiko Tinggi,Vietnam
+48,70,6,1,0,1,Risiko Menengah,Singapore
+59,12,24,1,1,1,Risiko Menengah,Singapore
+57,80,5,0,0,2,Risiko Tinggi,India
+56,25,1,1,3,0,Risiko Rendah,Malaysia
+64,19,1,1,0,1,Risiko Menengah,China
+50,25,7,1,0,1,Risiko Menengah,Malaysia
+40,16,1,1,0,1,Risiko Menengah,Philippines
+40,60,1,0,0,2,Risiko Tinggi,South Korea
+52,15,6,1,1,1,Risiko Menengah,Vietnam
+59,20,4,1,0,1,Risiko Menengah,Vietnam
+53,9,1,1,3,0,Risiko Rendah,Japan
+54,16,3,0,1,2,Risiko Tinggi,Thailand
+61,60,6,0,1,2,Risiko Tinggi,Singapore
+48,15,2,1,0,1,Risiko Menengah,Thailand
+41,12,2,1,3,0,Risiko Rendah,Thailand
+57,17,1,1,0,1,Risiko Menengah,Philippines
+40,25,1,1,0,1,Risiko Menengah,Thailand
+63,18,19,1,0,1,Risiko Menengah,Philippines
+62,15,2,1,3,0,Risiko Rendah,China
+62,45,5,1,3,0,Risiko Rendah,Philippines
+42,70,7,1,1,1,Risiko Menengah,Indonesia
+47,10,1,0,1,2,Risiko Tinggi,India
+53,9,2,0,0,2,Risiko Tinggi,Vietnam
+64,12,2,1,1,1,Risiko Menengah,South Korea
+51,15,7,0,1,2,Risiko Tinggi,Vietnam
+56,18,1,0,3,2,Risiko Tinggi,Japan
+50,12,3,1,0,1,Risiko Menengah,Thailand
+66,16,2,1,0,1,Risiko Menengah,South Korea
+56,15,1,1,0,1,Risiko Menengah,Singapore
+46,30,3,1,1,1,Risiko Menengah,Philippines
+66,20,2,0,0,2,Risiko Tinggi,China
+57,21,2,1,0,1,Risiko Menengah,Thailand
+55,10,2,1,3,0,Risiko Rendah,Philippines
+32,35,3,0,0,2,Risiko Tinggi,South Korea
+58,22,2,1,0,1,Risiko Menengah,India
+63,33,13,1,0,1,Risiko Menengah,Japan
+48,60,1,0,1,2,Risiko Tinggi,South Korea
+64,13,5,1,1,1,Risiko Menengah,Indonesia
+44,21,1,1,0,1,Risiko Menengah,Vietnam
+57,13,1,1,0,1,Risiko Menengah,Thailand
+61,39,12,1,0,1,Risiko Menengah,Philippines
+52,29,28,1,0,1,Risiko Menengah,Singapore
+45,35,20,1,0,1,Risiko Menengah,Japan
+52,18,1,1,0,1,Risiko Menengah,Thailand
+67,100,17,0,0,2,Risiko Tinggi,Thailand
+45,130,3,1,0,1,Risiko Menengah,India
+63,21,1,1,0,1,Risiko Menengah,India
+56,26,14,1,0,1,Risiko Menengah,Thailand
+46,50,1,1,0,1,Risiko Menengah,Singapore
+53,8,28,1,3,0,Risiko Rendah,South Korea
+62,16,1,1,3,0,Risiko Rendah,Vietnam
+47,16,4,1,0,1,Risiko Menengah,South Korea
+39,15,5,1,0,1,Risiko Menengah,India
+33,28,2,1,1,1,Risiko Menengah,Vietnam
+56,23,24,0,1,2,Risiko Tinggi,China
+55,1,1,0,0,2,Risiko Tinggi,China
+69,23,1,1,0,1,Risiko Menengah,Japan
+58,21,1,1,0,1,Risiko Menengah,India
+42,19,1,1,0,1,Risiko Menengah,Thailand
+58,87,5,1,1,1,Risiko Menengah,Thailand
+51,33,1,1,0,1,Risiko Menengah,Vietnam
+64,15,1,1,0,1,Risiko Menengah,South Korea
+62,13,3,1,0,1,Risiko Menengah,Thailand
+52,15,29,1,0,1,Risiko Menengah,South Korea
+43,25,1,1,0,1,Risiko Menengah,Japan
+65,60,5,1,1,1,Risiko Menengah,Malaysia
+59,30,4,1,3,0,Risiko Rendah,Thailand
+62,18,22,1,0,1,Risiko Menengah,Japan
+51,20,4,1,0,1,Risiko Menengah,Indonesia
+57,55,31,0,0,2,Risiko Tinggi,Indonesia
+46,60,3,1,3,0,Risiko Rendah,Japan
+40,11,2,1,1,1,Risiko Menengah,India
+49,11,4,1,1,1,Risiko Menengah,China
+46,40,2,1,1,1,Risiko Menengah,Thailand
+40,16,1,1,0,1,Risiko Menengah,China
+49,55,8,1,1,1,Risiko Menengah,Vietnam
+61,36,7,1,0,1,Risiko Menengah,Indonesia
+56,16,2,1,0,1,Risiko Menengah,South Korea
+50,25,4,1,1,1,Risiko Menengah,Japan
+55,30,5,1,0,1,Risiko Menengah,India
+60,19,1,1,0,1,Risiko Menengah,South Korea
+34,30,1,1,1,1,Risiko Menengah,Malaysia
+51,55,1,1,0,1,Risiko Menengah,Indonesia
+53,80,5,1,0,1,Risiko Menengah,Philippines
+58,50,4,0,1,2,Risiko Tinggi,China
+61,14,2,1,3,0,Risiko Rendah,China
+48,10,2,1,3,0,Risiko Rendah,Malaysia
+63,30,10,1,3,0,Risiko Rendah,Vietnam
+56,60,13,1,1,1,Risiko Menengah,China
+66,24,2,1,0,1,Risiko Menengah,Malaysia
+64,32,1,1,3,0,Risiko Rendah,Japan
+49,42,9,1,1,1,Risiko Menengah,Thailand
+56,35,5,1,1,1,Risiko Menengah,Thailand
+67,26,26,1,0,1,Risiko Menengah,Singapore
+42,30,7,1,1,1,Risiko Menengah,Philippines
+47,31,1,1,0,1,Risiko Menengah,China
+60,11,1,1,0,1,Risiko Menengah,South Korea
+43,26,2,1,0,1,Risiko Menengah,Japan
+42,18,1,1,1,1,Risiko Menengah,Japan
+60,43,10,1,0,1,Risiko Menengah,Thailand
+52,20,1,1,0,1,Risiko Menengah,Thailand
+63,35,3,1,1,1,Risiko Menengah,Singapore
+60,13,2,1,1,1,Risiko Menengah,India
+61,14,1,1,0,1,Risiko Menengah,Malaysia
+58,81,6,1,0,1,Risiko Menengah,Singapore
+52,10,1,1,3,0,Risiko Rendah,Malaysia
+64,10,1,1,3,0,Risiko Rendah,Philippines
+68,20,10,0,1,2,Risiko Tinggi,China
+47,30,1,1,0,1,Risiko Menengah,Philippines
+51,22,3,1,0,1,Risiko Menengah,Vietnam
+53,20,1,1,1,1,Risiko Menengah,Singapore
+63,28,4,1,0,1,Risiko Menengah,Indonesia
+50,80,15,1,0,1,Risiko Menengah,Japan
+45,37,2,1,1,1,Risiko Menengah,Philippines
+68,35,9,1,1,1,Risiko Menengah,Malaysia
+46,12,1,1,1,1,Risiko Menengah,India
+54,19,2,1,0,1,Risiko Menengah,China
+65,20,5,1,0,1,Risiko Menengah,Vietnam
+51,22,2,1,0,1,Risiko Menengah,India
+45,14,1,1,0,1,Risiko Menengah,Singapore
+45,32,4,1,1,1,Risiko Menengah,Malaysia
+57,80,15,1,0,1,Risiko Menengah,Japan
+35,21,5,1,1,1,Risiko Menengah,Singapore
+54,25,1,0,1,2,Risiko Tinggi,Vietnam
+68,21,3,1,3,0,Risiko Rendah,Indonesia
+58,15,2,1,0,1,Risiko Menengah,Thailand
+48,28,11,1,0,1,Risiko Menengah,Indonesia
+59,18,3,1,0,1,Risiko Menengah,Singapore
+47,27,1,1,0,1,Risiko Menengah,South Korea
+52,30,1,1,1,1,Risiko Menengah,Singapore
+46,25,2,1,0,1,Risiko Menengah,India
+34,35,3,0,0,2,Risiko Tinggi,Indonesia
+34,12,3,1,0,1,Risiko Menengah,Indonesia
+36,30,1,0,1,2,Risiko Tinggi,Thailand
+40,29,8,1,1,1,Risiko Menengah,Philippines
+38,70,1,1,2,0,Risiko Rendah,Vietnam
+61,21,1,1,3,0,Risiko Rendah,Malaysia
+37,60,2,1,2,0,Risiko Rendah,Vietnam
+60,25,1,1,0,1,Risiko Menengah,Philippines
+38,20,1,1,0,1,Risiko Menengah,Vietnam
+56,22,1,1,0,1,Risiko Menengah,India
+49,12,1,1,0,1,Risiko Menengah,Malaysia
+65,48,9,1,1,1,Risiko Menengah,South Korea
+61,31,1,1,1,1,Risiko Menengah,Japan
+69,27,1,0,3,2,Risiko Tinggi,Singapore
+53,18,8,1,1,1,Risiko Menengah,Singapore
+61,1,1,1,0,1,Risiko Menengah,Thailand
+47,40,6,1,0,1,Risiko Menengah,China
+62,26,1,1,0,1,Risiko Menengah,Japan
+62,80,2,1,0,1,Risiko Menengah,Philippines
+41,20,2,0,0,2,Risiko Tinggi,Vietnam
+41,27,1,1,0,1,Risiko Menengah,Indonesia
+48,20,46,0,1,2,Risiko Tinggi,Philippines
+48,30,1,1,0,1,Risiko Menengah,Philippines
+54,25,2,1,0,1,Risiko Menengah,India
+63,22,1,1,0,1,Risiko Menengah,Thailand
+44,63,1,1,1,1,Risiko Menengah,India
+51,10,1,1,0,1,Risiko Menengah,South Korea
+55,10,1,1,0,1,Risiko Menengah,Vietnam
+49,40,4,1,3,0,Risiko Rendah,India
+64,10,3,1,0,1,Risiko Menengah,Singapore
+63,40,1,1,1,1,Risiko Menengah,Malaysia
+46,20,9,1,3,0,Risiko Rendah,Japan
+46,30,19,1,0,1,Risiko Menengah,India
+61,6,2,1,3,0,Risiko Rendah,Japan
+52,22,2,0,0,2,Risiko Tinggi,Malaysia
+62,22,3,1,0,1,Risiko Menengah,India
+52,15,2,1,0,1,Risiko Menengah,Japan
+39,40,7,0,1,2,Risiko Tinggi,Malaysia
+36,45,1,1,3,0,Risiko Rendah,Philippines
+64,13,1,1,3,0,Risiko Rendah,China
+55,25,3,1,0,1,Risiko Menengah,Thailand
+65,11,2,1,0,1,Risiko Menengah,Vietnam
+45,58,2,0,1,2,Risiko Tinggi,Malaysia
+68,30,1,1,3,0,Risiko Rendah,South Korea
+57,23,22,1,1,1,Risiko Menengah,India
+44,9,2,1,0,1,Risiko Menengah,Vietnam
+51,32,10,1,1,1,Risiko Menengah,China
+50,35,16,0,1,2,Risiko Tinggi,India
+52,15,1,1,0,1,Risiko Menengah,Japan
+53,15,1,1,1,1,Risiko Menengah,Philippines
+49,21,27,1,1,1,Risiko Menengah,Malaysia
+65,51,3,0,0,2,Risiko Tinggi,Malaysia
+67,15,1,1,3,0,Risiko Rendah,Philippines
+63,60,5,0,0,2,Risiko Tinggi,China
+43,20,4,1,0,1,Risiko Menengah,China
+57,51,2,1,0,1,Risiko Menengah,South Korea
+63,25,1,1,0,1,Risiko Menengah,Malaysia
+52,30,1,1,0,1,Risiko Menengah,Malaysia
+61,11,1,0,0,2,Risiko Tinggi,Philippines
+58,40,1,0,1,2,Risiko Tinggi,Vietnam
+62,5,3,1,3,0,Risiko Rendah,Vietnam
+56,35,4,1,0,1,Risiko Menengah,Philippines
+48,38,2,1,0,1,Risiko Menengah,Philippines
+64,30,3,1,1,1,Risiko Menengah,Vietnam
+67,25,3,1,0,1,Risiko Menengah,Vietnam
+57,25,3,1,1,1,Risiko Menengah,Singapore
+41,27,3,1,0,1,Risiko Menengah,Malaysia
+62,25,4,1,0,1,Risiko Menengah,Malaysia
+51,18,1,1,0,1,Risiko Menengah,Thailand
+65,40,21,1,0,1,Risiko Menengah,Singapore
+51,40,1,1,3,0,Risiko Rendah,South Korea
+46,15,5,1,0,1,Risiko Menengah,Japan
+46,20,14,0,0,2,Risiko Tinggi,South Korea
+48,23,2,1,0,1,Risiko Menengah,China
+43,34,2,1,1,1,Risiko Menengah,Thailand
+59,16,1,1,0,1,Risiko Menengah,China
+49,18,1,1,0,1,Risiko Menengah,China
+56,50,1,1,0,1,Risiko Menengah,Philippines
+53,45,5,1,0,1,Risiko Menengah,Indonesia
+58,100,2,1,1,1,Risiko Menengah,Thailand
+51,18,2,1,0,1,Risiko Menengah,South Korea
+55,23,4,1,0,1,Risiko Menengah,Thailand
+54,25,1,0,0,2,Risiko Tinggi,Singapore
+34,32,6,1,0,1,Risiko Menengah,Thailand
+42,30,17,1,0,1,Risiko Menengah,China
+45,30,11,1,1,1,Risiko Menengah,Vietnam
+46,30,6,1,0,1,Risiko Menengah,Singapore
+62,18,1,1,0,1,Risiko Menengah,Singapore
+49,24,6,1,3,0,Risiko Rendah,Thailand
+38,70,5,1,0,1,Risiko Menengah,India
+30,28,7,1,0,1,Risiko Menengah,Philippines
+68,20,2,0,1,2,Risiko Tinggi,Malaysia
+59,35,10,1,0,1,Risiko Menengah,China
+49,117,4,1,0,1,Risiko Menengah,South Korea
+57,10,6,1,0,1,Risiko Menengah,South Korea
+49,70,2,0,0,2,Risiko Tinggi,India
+65,35,15,1,0,1,Risiko Menengah,China
+47,11,1,1,3,0,Risiko Rendah,Japan
+40,27,4,1,1,1,Risiko Menengah,Indonesia
+45,12,3,1,0,1,Risiko Menengah,Japan
+54,26,1,1,0,1,Risiko Menengah,South Korea
+55,76,2,1,3,0,Risiko Rendah,Thailand
+57,32,3,1,0,1,Risiko Menengah,Singapore
+67,18,1,1,0,1,Risiko Menengah,Japan
+51,23,2,1,3,0,Risiko Rendah,India
+54,10,1,1,3,0,Risiko Rendah,Malaysia
+52,18,4,1,0,1,Risiko Menengah,Singapore
+63,23,1,1,0,1,Risiko Menengah,Philippines
+48,25,4,0,0,2,Risiko Tinggi,Vietnam
+49,32,11,1,0,1,Risiko Menengah,Singapore
+46,18,3,0,0,2,Risiko Tinggi,South Korea
+46,17,1,1,1,1,Risiko Menengah,South Korea
+46,52,5,1,0,1,Risiko Menengah,Philippines
+65,27,3,1,0,1,Risiko Menengah,Singapore
+69,7,1,1,3,0,Risiko Rendah,Japan
+59,70,2,1,0,1,Risiko Menengah,India
+48,26,7,1,0,1,Risiko Menengah,South Korea
+43,55,22,1,1,1,Risiko Menengah,Philippines
+55,20,4,0,1,2,Risiko Tinggi,China
+59,15,2,1,0,1,Risiko Menengah,India
+67,20,1,1,1,1,Risiko Menengah,Indonesia
+69,20,2,1,0,1,Risiko Menengah,Malaysia
+54,61,3,1,0,1,Risiko Menengah,Malaysia
+69,8,1,0,0,2,Risiko Tinggi,Japan
+60,15,4,1,0,1,Risiko Menengah,South Korea
+45,12,2,1,0,1,Risiko Menengah,Thailand
+48,40,1,1,1,1,Risiko Menengah,India
+60,25,3,1,0,1,Risiko Menengah,Singapore
+49,140,2,1,0,1,Risiko Menengah,Singapore
+33,12,3,0,0,2,Risiko Tinggi,South Korea
+60,21,2,1,0,1,Risiko Menengah,South Korea
+68,23,1,1,1,1,Risiko Menengah,South Korea
+67,20,3,1,1,1,Risiko Menengah,India
+50,17,1,1,0,1,Risiko Menengah,Vietnam
+46,65,6,1,0,1,Risiko Menengah,Japan
+39,80,2,1,0,1,Risiko Menengah,South Korea
+55,19,4,1,0,1,Risiko Menengah,Philippines
+59,12,1,1,0,1,Risiko Menengah,China
+32,11,3,1,3,0,Risiko Rendah,India
+63,40,1,1,1,1,Risiko Menengah,Japan
+53,26,2,1,1,1,Risiko Menengah,India
+54,30,2,1,0,1,Risiko Menengah,Malaysia
+50,50,6,1,0,1,Risiko Menengah,Indonesia
+45,44,3,1,0,1,Risiko Menengah,Thailand
+46,21,3,1,0,1,Risiko Menengah,Thailand
+46,35,1,1,1,1,Risiko Menengah,Singapore
+67,22,2,1,0,1,Risiko Menengah,Philippines
+58,55,6,1,0,1,Risiko Menengah,Indonesia
+60,17,1,1,0,1,Risiko Menengah,Thailand
+55,1,1,1,0,1,Risiko Menengah,China
+46,23,2,1,0,1,Risiko Menengah,India
+62,25,1,1,0,1,Risiko Menengah,Thailand
+59,14,1,1,3,0,Risiko Rendah,China
+59,25,6,1,1,1,Risiko Menengah,India
+44,35,1,1,0,1,Risiko Menengah,Vietnam
+69,20,3,1,2,0,Risiko Rendah,Vietnam
+43,25,1,1,1,1,Risiko Menengah,South Korea
+63,90,2,1,0,1,Risiko Menengah,Vietnam
+43,13,6,1,0,1,Risiko Menengah,Thailand
+36,12,8,0,0,2,Risiko Tinggi,China
+63,45,1,1,0,1,Risiko Menengah,Malaysia
+60,15,1,1,0,1,Risiko Menengah,China
+56,35,5,0,0,2,Risiko Tinggi,Philippines
+44,17,1,1,0,1,Risiko Menengah,Vietnam
+69,24,13,1,0,1,Risiko Menengah,Philippines
+50,55,3,1,3,0,Risiko Rendah,Singapore
+55,16,2,1,1,1,Risiko Menengah,Singapore
+65,20,1,1,0,1,Risiko Menengah,Singapore
+47,18,1,1,0,1,Risiko Menengah,Vietnam
+62,32,5,1,0,1,Risiko Menengah,South Korea
+60,30,1,1,1,1,Risiko Menengah,Singapore
+62,30,8,1,0,1,Risiko Menengah,Malaysia
+62,19,3,1,1,1,Risiko Menengah,South Korea
+63,24,1,1,1,1,Risiko Menengah,Singapore
+61,18,18,1,0,1,Risiko Menengah,Thailand
+55,25,1,0,0,2,Risiko Tinggi,India
+66,19,1,1,3,0,Risiko Rendah,Indonesia
+69,30,2,1,0,1,Risiko Menengah,Vietnam
+60,32,9,1,0,1,Risiko Menengah,Malaysia
+61,16,1,0,0,2,Risiko Tinggi,Japan
+51,2,2,0,0,2,Risiko Tinggi,Japan
+49,30,8,1,0,1,Risiko Menengah,Indonesia
+58,27,1,0,0,2,Risiko Tinggi,South Korea
+60,10,1,1,0,1,Risiko Menengah,Singapore
+48,10,1,1,0,1,Risiko Menengah,Japan
+63,18,1,1,0,1,Risiko Menengah,South Korea
+40,30,2,1,0,1,Risiko Menengah,Singapore
+69,22,1,1,0,1,Risiko Menengah,India
+67,40,10,1,0,1,Risiko Menengah,Singapore
+41,65,16,0,1,2,Risiko Tinggi,Singapore
+67,13,1,0,0,2,Risiko Tinggi,Thailand
+45,6,1,1,3,0,Risiko Rendah,Vietnam
+66,40,1,1,1,1,Risiko Menengah,Singapore
+55,19,1,1,0,1,Risiko Menengah,South Korea
+48,20,1,1,1,1,Risiko Menengah,China
+58,45,4,1,0,1,Risiko Menengah,Vietnam
+61,31,3,1,0,1,Risiko Menengah,Singapore
+59,30,1,0,1,2,Risiko Tinggi,Japan
+51,14,1,1,1,1,Risiko Menengah,Thailand
+44,35,1,1,1,1,Risiko Menengah,Indonesia
+59,10,1,1,3,0,Risiko Rendah,Malaysia
+58,25,3,1,1,1,Risiko Menengah,Indonesia
+43,40,10,0,0,2,Risiko Tinggi,China
+52,45,20,1,1,1,Risiko Menengah,Philippines
+57,21,14,1,3,0,Risiko Rendah,Singapore
+52,28,1,1,0,1,Risiko Menengah,Malaysia
+56,4,1,1,0,1,Risiko Menengah,Vietnam
+69,25,1,0,0,2,Risiko Tinggi,Indonesia
+49,15,1,1,0,1,Risiko Menengah,China
+64,61,1,0,0,2,Risiko Tinggi,Thailand
+48,22,1,1,0,1,Risiko Menengah,Japan
+41,27,2,1,1,1,Risiko Menengah,Philippines
+51,19,4,1,0,1,Risiko Menengah,Thailand
+45,25,6,1,0,1,Risiko Menengah,Indonesia
+53,8,1,1,0,1,Risiko Menengah,South Korea
+47,23,5,1,0,1,Risiko Menengah,Japan
+60,80,2,0,3,2,Risiko Tinggi,Philippines
+62,7,1,1,0,1,Risiko Menengah,Japan
+50,15,1,1,0,1,Risiko Menengah,Vietnam
+55,13,1,1,1,1,Risiko Menengah,Japan
+60,30,9,1,0,1,Risiko Menengah,South Korea
+65,50,4,1,0,1,Risiko Menengah,South Korea
+64,31,3,0,0,2,Risiko Tinggi,Philippines
+64,30,1,1,0,1,Risiko Menengah,India
+67,15,1,1,0,1,Risiko Menengah,Thailand
+57,15,2,1,0,1,Risiko Menengah,Thailand
+38,50,33,1,0,1,Risiko Menengah,Indonesia
+52,25,2,1,0,1,Risiko Menengah,Indonesia
+36,30,18,1,0,1,Risiko Menengah,Indonesia
+49,60,5,1,1,1,Risiko Menengah,South Korea
+67,21,1,1,3,0,Risiko Rendah,India
+64,51,1,1,0,1,Risiko Menengah,Indonesia
+61,18,1,1,0,1,Risiko Menengah,South Korea
+68,25,15,1,1,1,Risiko Menengah,Vietnam
+56,50,3,0,1,2,Risiko Tinggi,Singapore
+47,8,1,1,1,1,Risiko Menengah,Thailand
+31,40,1,1,0,1,Risiko Menengah,Malaysia
+55,16,1,1,3,0,Risiko Rendah,Singapore
+62,18,1,1,1,1,Risiko Menengah,Indonesia
+48,13,7,1,0,1,Risiko Menengah,Philippines
+46,35,3,1,0,1,Risiko Menengah,Singapore
+62,12,1,1,1,1,Risiko Menengah,China
+61,50,1,1,0,1,Risiko Menengah,Japan
+56,29,8,1,1,1,Risiko Menengah,China
+65,20,4,1,0,1,Risiko Menengah,South Korea
+38,7,3,0,0,2,Risiko Tinggi,Thailand
+57,21,3,1,3,0,Risiko Rendah,South Korea
+62,20,3,0,1,2,Risiko Tinggi,Malaysia
+57,22,2,1,3,0,Risiko Rendah,Singapore
+63,31,5,1,1,1,Risiko Menengah,India
+62,45,1,0,1,2,Risiko Tinggi,South Korea
+49,25,10,1,0,1,Risiko Menengah,Singapore
+31,35,2,1,0,1,Risiko Menengah,Indonesia
+67,15,14,1,1,1,Risiko Menengah,China
+39,22,6,0,0,2,Risiko Tinggi,China
+48,15,10,1,0,1,Risiko Menengah,Singapore
+38,16,3,1,1,1,Risiko Menengah,Vietnam
+47,26,3,1,0,1,Risiko Menengah,Indonesia
+47,35,1,1,0,1,Risiko Menengah,South Korea
+53,30,1,1,0,1,Risiko Menengah,Japan
+46,23,5,1,1,1,Risiko Menengah,Japan
+38,18,4,1,0,1,Risiko Menengah,Philippines
+52,123,7,1,1,1,Risiko Menengah,Vietnam
+46,16,1,1,0,1,Risiko Menengah,India
+61,11,2,1,0,1,Risiko Menengah,Indonesia
+38,75,3,0,0,2,Risiko Tinggi,India
+50,60,2,1,1,1,Risiko Menengah,India
+40,20,1,0,0,2,Risiko Tinggi,Malaysia
+51,15,4,1,0,1,Risiko Menengah,Vietnam
+61,27,3,1,0,1,Risiko Menengah,China
+42,9,1,1,0,1,Risiko Menengah,Vietnam
+63,60,5,1,1,1,Risiko Menengah,Vietnam
+64,7,1,0,3,2,Risiko Tinggi,Thailand
+66,19,3,1,1,1,Risiko Menengah,Japan
+42,15,2,1,0,1,Risiko Menengah,South Korea
+51,40,1,0,1,2,Risiko Tinggi,India
+45,19,3,0,0,2,Risiko Tinggi,Indonesia
+46,130,5,1,1,1,Risiko Menengah,South Korea
+55,30,9,1,0,1,Risiko Menengah,India
+49,70,8,1,0,1,Risiko Menengah,Thailand
+65,24,22,1,1,1,Risiko Menengah,Thailand
+58,110,2,1,0,1,Risiko Menengah,India
+47,133,4,1,3,0,Risiko Rendah,Thailand
+65,22,2,1,3,0,Risiko Rendah,Singapore
+67,55,9,1,1,1,Risiko Menengah,Thailand
+39,95,3,0,1,2,Risiko Tinggi,Vietnam
+59,25,5,0,0,2,Risiko Tinggi,India
+38,13,1,1,0,1,Risiko Menengah,China
+41,12,1,1,0,1,Risiko Menengah,Vietnam
+65,17,2,1,0,1,Risiko Menengah,China
+52,10,1,1,3,0,Risiko Rendah,Indonesia
+49,70,1,1,1,1,Risiko Menengah,China
+58,30,2,1,0,1,Risiko Menengah,India
+55,20,2,1,0,1,Risiko Menengah,Philippines
+64,107,12,1,0,1,Risiko Menengah,Thailand
+53,40,23,0,0,2,Risiko Tinggi,China
+39,30,1,0,0,2,Risiko Tinggi,South Korea
+54,90,29,1,1,1,Risiko Menengah,Thailand
+67,16,2,1,0,1,Risiko Menengah,Indonesia
+65,47,19,1,0,1,Risiko Menengah,Indonesia
+45,30,1,1,0,1,Risiko Menengah,India
+63,7,1,1,0,1,Risiko Menengah,Malaysia
+56,30,1,1,3,0,Risiko Rendah,India
+38,20,2,1,0,1,Risiko Menengah,Indonesia
+47,60,1,1,0,1,Risiko Menengah,Malaysia
+46,30,5,0,1,2,Risiko Tinggi,Singapore
+66,14,1,1,0,1,Risiko Menengah,Japan
+51,20,3,0,1,2,Risiko Tinggi,Indonesia
+63,27,2,1,3,0,Risiko Rendah,Vietnam
+43,40,11,1,0,1,Risiko Menengah,Philippines
+49,92,27,1,0,1,Risiko Menengah,Malaysia
+69,7,2,1,0,1,Risiko Menengah,Vietnam
+51,20,2,1,1,1,Risiko Menengah,Singapore
+49,22,2,1,3,0,Risiko Rendah,Japan
+44,8,1,1,3,0,Risiko Rendah,Philippines
+45,50,3,0,3,2,Risiko Tinggi,Japan
+64,22,1,1,0,1,Risiko Menengah,Philippines
+60,14,1,1,3,0,Risiko Rendah,Japan
+60,30,2,1,1,1,Risiko Menengah,Japan
+60,50,3,1,0,1,Risiko Menengah,Singapore
+53,15,1,0,1,2,Risiko Tinggi,India
+63,25,2,1,0,1,Risiko Menengah,Indonesia
+53,18,3,1,0,1,Risiko Menengah,Singapore
+53,35,7,1,1,1,Risiko Menengah,Malaysia
+46,13,3,1,1,1,Risiko Menengah,Malaysia
+65,100,9,0,0,2,Risiko Tinggi,Indonesia
+30,105,6,0,1,2,Risiko Tinggi,Singapore
+43,20,7,1,0,1,Risiko Menengah,Thailand
+61,15,22,1,0,1,Risiko Menengah,Japan
+67,30,7,1,0,1,Risiko Menengah,Singapore
+42,12,1,1,1,1,Risiko Menengah,Thailand
+68,50,1,0,1,2,Risiko Tinggi,China
+58,20,20,1,3,0,Risiko Rendah,Indonesia
+57,7,3,1,0,1,Risiko Menengah,China
+43,42,2,1,0,1,Risiko Menengah,Thailand
+39,19,9,1,0,1,Risiko Menengah,Malaysia
+53,27,4,1,0,1,Risiko Menengah,Philippines
+55,14,15,0,1,2,Risiko Tinggi,Singapore
+66,17,1,0,0,2,Risiko Tinggi,Thailand
+58,15,1,1,1,1,Risiko Menengah,China
+41,13,2,1,1,1,Risiko Menengah,Philippines
+50,12,1,1,3,0,Risiko Rendah,Vietnam
+39,26,2,1,0,1,Risiko Menengah,Malaysia
+37,20,1,1,0,1,Risiko Menengah,Thailand
+46,17,2,1,0,1,Risiko Menengah,Malaysia
+55,20,2,1,0,1,Risiko Menengah,China
+42,24,2,1,0,1,Risiko Menengah,Indonesia
+53,30,9,1,0,1,Risiko Menengah,Indonesia
+66,16,1,1,0,1,Risiko Menengah,Malaysia
+55,18,1,0,1,2,Risiko Tinggi,India
+48,30,9,1,0,1,Risiko Menengah,China
+49,52,5,0,0,2,Risiko Tinggi,South Korea
+60,60,16,1,0,1,Risiko Menengah,South Korea
+61,21,1,1,1,1,Risiko Menengah,Vietnam
+63,33,3,1,0,1,Risiko Menengah,Singapore
+61,6,3,1,0,1,Risiko Menengah,Philippines
+47,25,4,0,1,2,Risiko Tinggi,Philippines
+53,15,4,1,0,1,Risiko Menengah,Malaysia
+45,14,1,1,0,1,Risiko Menengah,Singapore
+62,105,11,1,0,1,Risiko Menengah,Vietnam
+47,35,2,1,3,0,Risiko Rendah,Japan
+40,57,9,0,0,2,Risiko Tinggi,Japan
+63,20,1,0,1,2,Risiko Tinggi,South Korea
+42,20,1,1,1,1,Risiko Menengah,Philippines
+47,28,3,1,1,1,Risiko Menengah,Singapore
+51,60,1,1,0,1,Risiko Menengah,Vietnam
+51,25,1,1,0,1,Risiko Menengah,China
+50,12,1,1,3,0,Risiko Rendah,Malaysia
+46,69,3,0,3,2,Risiko Tinggi,Japan
+47,55,9,1,3,0,Risiko Rendah,Indonesia
+46,60,6,1,0,1,Risiko Menengah,Malaysia
+56,20,1,1,0,1,Risiko Menengah,Vietnam
+64,13,2,0,1,2,Risiko Tinggi,Malaysia
+49,100,3,1,1,1,Risiko Menengah,South Korea
+66,2,1,0,0,2,Risiko Tinggi,Japan
+60,20,19,1,1,1,Risiko Menengah,Vietnam
+60,38,3,1,3,0,Risiko Rendah,Indonesia
+53,24,37,1,0,1,Risiko Menengah,Singapore
+63,25,1,1,0,1,Risiko Menengah,Indonesia
+61,15,1,1,0,1,Risiko Menengah,Vietnam
+45,25,2,1,0,1,Risiko Menengah,Malaysia
+47,51,3,1,3,0,Risiko Rendah,Vietnam
+55,35,11,1,0,1,Risiko Menengah,Vietnam
+35,25,4,0,1,2,Risiko Tinggi,India
+55,45,1,1,0,1,Risiko Menengah,Singapore
+60,21,2,1,3,0,Risiko Rendah,Thailand
+31,19,3,1,0,1,Risiko Menengah,Indonesia
+51,40,1,1,0,1,Risiko Menengah,Singapore
+58,9,1,1,0,1,Risiko Menengah,Malaysia
+50,22,2,1,0,1,Risiko Menengah,India
+48,38,5,1,1,1,Risiko Menengah,Indonesia
+57,50,7,0,0,2,Risiko Tinggi,Japan
+69,30,22,1,1,1,Risiko Menengah,Singapore
+57,23,3,1,3,0,Risiko Rendah,Singapore
+44,21,1,1,1,1,Risiko Menengah,China
+60,140,5,1,0,1,Risiko Menengah,India
+56,60,5,1,0,1,Risiko Menengah,Philippines
+55,17,3,0,1,2,Risiko Tinggi,Japan
+68,55,1,1,1,1,Risiko Menengah,India
+42,17,5,1,0,1,Risiko Menengah,Japan
+47,29,1,1,0,1,Risiko Menengah,India
+59,40,9,0,2,2,Risiko Tinggi,Malaysia
+65,17,7,1,0,1,Risiko Menengah,China
+32,30,1,0,1,2,Risiko Tinggi,Indonesia
+49,32,2,1,0,1,Risiko Menengah,Malaysia
+60,40,16,1,0,1,Risiko Menengah,China
+55,15,1,1,0,1,Risiko Menengah,Vietnam
+64,35,3,1,0,1,Risiko Menengah,India
+43,32,4,1,1,1,Risiko Menengah,Singapore
+61,21,1,1,3,0,Risiko Rendah,Indonesia
+42,25,3,0,1,2,Risiko Tinggi,Indonesia
+58,33,2,0,0,2,Risiko Tinggi,Malaysia
+51,22,5,1,0,1,Risiko Menengah,China
+68,15,2,1,0,1,Risiko Menengah,Indonesia
+58,32,2,1,0,1,Risiko Menengah,Philippines
+62,6,1,1,0,1,Risiko Menengah,Singapore
+66,30,3,1,0,1,Risiko Menengah,Philippines
+52,14,5,1,1,1,Risiko Menengah,Indonesia
+69,10,1,1,3,0,Risiko Rendah,Malaysia
+64,12,3,1,0,1,Risiko Menengah,Philippines
+66,15,2,1,0,1,Risiko Menengah,Philippines
+62,21,11,0,1,2,Risiko Tinggi,China
+55,20,1,1,0,1,Risiko Menengah,South Korea
+55,20,1,0,1,2,Risiko Tinggi,Singapore
+57,15,1,1,0,1,Risiko Menengah,Indonesia
+54,54,1,0,1,2,Risiko Tinggi,India
+67,21,1,1,3,0,Risiko Rendah,Thailand
+62,22,28,0,0,2,Risiko Tinggi,Singapore
+66,22,22,1,0,1,Risiko Menengah,Singapore
+56,17,8,1,0,1,Risiko Menengah,Thailand
+64,25,4,1,0,1,Risiko Menengah,South Korea
+67,22,11,1,0,1,Risiko Menengah,Malaysia
+41,45,2,1,0,1,Risiko Menengah,China
+65,11,2,1,0,1,Risiko Menengah,Singapore
+51,17,2,0,0,2,Risiko Tinggi,Singapore
+49,17,1,1,0,1,Risiko Menengah,Philippines
+56,40,8,0,3,2,Risiko Tinggi,Malaysia
+44,5,1,1,1,1,Risiko Menengah,Japan
+56,13,1,1,0,1,Risiko Menengah,China
+48,19,2,1,0,1,Risiko Menengah,Thailand
+54,19,7,1,0,1,Risiko Menengah,South Korea
+62,35,3,0,0,2,Risiko Tinggi,Philippines
+53,16,2,1,0,1,Risiko Menengah,China
+45,15,6,1,0,1,Risiko Menengah,Singapore
+50,23,8,1,0,1,Risiko Menengah,Japan
+54,15,3,1,0,1,Risiko Menengah,China
+32,19,3,1,1,1,Risiko Menengah,Philippines
+65,18,1,1,0,1,Risiko Menengah,Singapore
+63,16,18,1,0,1,Risiko Menengah,South Korea
+67,21,17,1,2,0,Risiko Rendah,Japan
+62,32,8,1,0,1,Risiko Menengah,Indonesia
+67,13,1,0,1,2,Risiko Tinggi,India
+42,16,2,1,1,1,Risiko Menengah,Malaysia
+60,40,3,1,0,1,Risiko Menengah,India
+48,50,5,1,0,1,Risiko Menengah,Indonesia
+60,35,9,1,0,1,Risiko Menengah,Indonesia
+69,16,3,1,1,1,Risiko Menengah,Indonesia
+54,35,17,1,1,1,Risiko Menengah,Malaysia
+56,36,9,0,1,2,Risiko Tinggi,Singapore
+48,35,8,1,0,1,Risiko Menengah,India
+45,55,7,1,0,1,Risiko Menengah,Thailand
+59,25,4,1,0,1,Risiko Menengah,South Korea
+59,22,1,1,1,1,Risiko Menengah,Thailand
+49,17,1,0,0,2,Risiko Tinggi,South Korea
+64,55,9,0,1,2,Risiko Tinggi,Singapore
+47,10,3,0,0,2,Risiko Tinggi,India
+46,23,4,1,0,1,Risiko Menengah,Japan
+63,25,2,1,1,1,Risiko Menengah,Japan
+61,5,11,1,1,1,Risiko Menengah,Indonesia
+65,16,20,1,0,1,Risiko Menengah,South Korea
+64,55,11,0,1,2,Risiko Tinggi,Japan
+53,24,2,1,1,1,Risiko Menengah,China
+42,21,2,1,1,1,Risiko Menengah,India
+49,13,2,1,0,1,Risiko Menengah,Philippines
+66,22,1,1,0,1,Risiko Menengah,Indonesia
+36,14,1,1,1,1,Risiko Menengah,Malaysia
+46,30,2,1,1,1,Risiko Menengah,Malaysia
+53,18,15,0,0,2,Risiko Tinggi,Malaysia
+62,16,1,0,1,2,Risiko Tinggi,India
+55,56,6,1,1,1,Risiko Menengah,South Korea
+53,31,17,1,0,1,Risiko Menengah,Indonesia
+57,14,2,1,3,0,Risiko Rendah,Philippines
+58,15,1,1,0,1,Risiko Menengah,Philippines
+68,82,16,1,0,1,Risiko Menengah,Indonesia
+41,16,9,1,0,1,Risiko Menengah,Singapore
+69,16,3,1,0,1,Risiko Menengah,China
+61,16,2,1,3,0,Risiko Rendah,Japan
+46,16,1,1,0,1,Risiko Menengah,Vietnam
+60,50,10,1,0,1,Risiko Menengah,Japan
+63,25,1,1,0,1,Risiko Menengah,Vietnam
+45,18,3,1,0,1,Risiko Menengah,Vietnam
+60,25,3,1,0,1,Risiko Menengah,Japan
+50,18,1,1,0,1,Risiko Menengah,Singapore
+64,30,5,1,0,1,Risiko Menengah,China
+51,65,14,0,1,2,Risiko Tinggi,India
+58,1,22,1,1,1,Risiko Menengah,Vietnam
+63,25,1,1,0,1,Risiko Menengah,Japan
+61,20,9,1,3,0,Risiko Rendah,Malaysia
+49,30,3,1,0,1,Risiko Menengah,Singapore
+57,30,1,1,0,1,Risiko Menengah,China
+51,18,1,1,0,1,Risiko Menengah,South Korea
+60,16,3,1,1,1,Risiko Menengah,Malaysia
+66,50,6,1,0,1,Risiko Menengah,Malaysia
+50,52,1,1,0,1,Risiko Menengah,Philippines
+53,37,24,1,0,1,Risiko Menengah,Singapore
+33,25,4,1,0,1,Risiko Menengah,India
+45,40,3,1,1,1,Risiko Menengah,Vietnam
+57,50,15,0,0,2,Risiko Tinggi,Malaysia
+52,15,30,1,3,0,Risiko Rendah,Malaysia
+52,25,2,1,3,0,Risiko Rendah,China
+58,80,7,1,0,1,Risiko Menengah,Thailand
+60,13,1,1,0,1,Risiko Menengah,Singapore
+59,25,2,1,1,1,Risiko Menengah,Indonesia
+43,40,1,1,0,1,Risiko Menengah,China
+47,15,1,1,1,1,Risiko Menengah,Thailand
+52,19,1,1,0,1,Risiko Menengah,Philippines
+63,65,37,1,0,1,Risiko Menengah,Singapore
+51,18,2,1,1,1,Risiko Menengah,Philippines
+63,15,1,0,0,2,Risiko Tinggi,Vietnam
+49,16,2,1,0,1,Risiko Menengah,Malaysia
+61,23,7,0,0,2,Risiko Tinggi,Philippines
+64,21,1,1,1,1,Risiko Menengah,Japan
+57,10,2,1,0,1,Risiko Menengah,Malaysia
+58,20,7,1,0,1,Risiko Menengah,India
+55,40,10,1,1,1,Risiko Menengah,China
+54,31,1,0,0,2,Risiko Tinggi,Malaysia
+67,15,1,1,0,1,Risiko Menengah,Japan
+57,11,2,1,0,1,Risiko Menengah,Vietnam
+37,55,5,1,0,1,Risiko Menengah,Thailand
+61,15,1,1,0,1,Risiko Menengah,Singapore
+46,37,9,1,0,1,Risiko Menengah,South Korea
+31,42,3,1,0,1,Risiko Menengah,Japan
+59,22,1,1,3,0,Risiko Rendah,Vietnam
+50,48,1,0,1,2,Risiko Tinggi,Thailand
+59,15,2,1,3,0,Risiko Rendah,China
+41,7,1,1,3,0,Risiko Rendah,South Korea
+64,40,1,1,1,1,Risiko Menengah,Japan
+60,12,7,1,0,1,Risiko Menengah,Singapore
+68,12,1,1,0,1,Risiko Menengah,China
+46,65,10,1,0,1,Risiko Menengah,Singapore
+43,15,1,1,1,1,Risiko Menengah,South Korea
+49,16,1,1,0,1,Risiko Menengah,South Korea
+56,22,4,1,1,1,Risiko Menengah,Philippines
+60,35,4,1,0,1,Risiko Menengah,India
+67,25,1,1,1,1,Risiko Menengah,Vietnam
+67,20,2,1,0,1,Risiko Menengah,China
+50,18,1,1,0,1,Risiko Menengah,Philippines
+68,85,1,1,0,1,Risiko Menengah,India
+66,25,5,1,1,1,Risiko Menengah,China
+40,100,1,1,1,1,Risiko Menengah,Vietnam
+45,15,5,1,1,1,Risiko Menengah,Japan
+61,18,2,1,0,1,Risiko Menengah,India
+68,14,2,1,0,1,Risiko Menengah,Philippines
+59,23,1,0,0,2,Risiko Tinggi,Philippines
+65,40,8,1,1,1,Risiko Menengah,Malaysia
+50,17,4,0,1,2,Risiko Tinggi,Philippines
+62,21,4,1,0,1,Risiko Menengah,China
+59,22,1,1,0,1,Risiko Menengah,South Korea
+56,31,7,0,0,2,Risiko Tinggi,Malaysia
+46,11,2,1,0,1,Risiko Menengah,Singapore
+41,19,1,1,0,1,Risiko Menengah,Philippines
+45,35,1,1,0,1,Risiko Menengah,Japan
+44,9,1,1,3,0,Risiko Rendah,South Korea
+47,21,2,0,1,2,Risiko Tinggi,China
+66,6,6,0,1,2,Risiko Tinggi,Vietnam
+56,20,1,1,0,1,Risiko Menengah,Vietnam
+49,60,3,0,1,2,Risiko Tinggi,Singapore
+64,38,12,1,1,1,Risiko Menengah,Japan
+66,9,1,0,0,2,Risiko Tinggi,Philippines
+45,11,3,1,0,1,Risiko Menengah,Thailand
+65,30,6,0,0,2,Risiko Tinggi,Thailand
+54,22,2,0,0,2,Risiko Tinggi,Indonesia
+48,25,3,1,0,1,Risiko Menengah,Malaysia
+49,13,1,0,0,2,Risiko Tinggi,China
+40,30,1,1,1,1,Risiko Menengah,Vietnam
+64,25,4,0,0,2,Risiko Tinggi,China
+61,25,1,1,0,1,Risiko Menengah,Malaysia
+61,48,5,1,0,1,Risiko Menengah,Vietnam
+55,6,7,1,3,0,Risiko Rendah,Singapore
+43,14,3,1,1,1,Risiko Menengah,Thailand
+63,7,1,1,0,1,Risiko Menengah,Vietnam
+48,90,1,1,3,0,Risiko Rendah,Thailand
+46,25,1,0,0,2,Risiko Tinggi,South Korea
+63,15,1,1,0,1,Risiko Menengah,Philippines
+43,120,9,0,1,2,Risiko Tinggi,China
+46,14,1,1,0,1,Risiko Menengah,Philippines
+35,15,1,1,0,1,Risiko Menengah,Thailand
+68,35,27,1,3,0,Risiko Rendah,Indonesia
+47,30,1,1,0,1,Risiko Menengah,Singapore
+43,16,2,1,0,1,Risiko Menengah,Singapore
+57,9,6,1,0,1,Risiko Menengah,Indonesia
+64,23,2,0,1,2,Risiko Tinggi,South Korea
+61,17,1,1,0,1,Risiko Menengah,India
+44,43,4,1,0,1,Risiko Menengah,China
+50,19,3,1,0,1,Risiko Menengah,Thailand
+49,21,2,1,1,1,Risiko Menengah,Philippines
+67,17,2,1,3,0,Risiko Rendah,Singapore
+46,45,8,1,1,1,Risiko Menengah,Thailand
+51,18,1,1,0,1,Risiko Menengah,South Korea
+58,43,22,0,1,2,Risiko Tinggi,Vietnam
+46,61,10,0,1,2,Risiko Tinggi,Thailand
+59,27,1,1,3,0,Risiko Rendah,Thailand
+53,15,2,0,0,2,Risiko Tinggi,Malaysia
+62,25,4,0,1,2,Risiko Tinggi,Malaysia
+57,31,2,1,1,1,Risiko Menengah,Malaysia
+51,50,1,1,3,0,Risiko Rendah,India
+69,30,2,1,0,1,Risiko Menengah,Thailand
+47,38,2,0,0,2,Risiko Tinggi,China
+57,5,1,1,1,1,Risiko Menengah,Malaysia
+55,11,2,1,1,1,Risiko Menengah,Philippines
+52,35,6,0,1,2,Risiko Tinggi,China
+45,7,2,1,3,0,Risiko Rendah,India
+39,14,1,1,1,1,Risiko Menengah,South Korea
+56,120,2,1,0,1,Risiko Menengah,Philippines
+45,14,1,1,3,0,Risiko Rendah,Philippines
+41,33,1,1,0,1,Risiko Menengah,Indonesia
+63,19,2,1,3,0,Risiko Rendah,Thailand
+68,19,1,1,0,1,Risiko Menengah,Singapore
+64,15,1,1,3,0,Risiko Rendah,Malaysia
+49,18,7,1,1,1,Risiko Menengah,Singapore
+68,47,3,1,0,1,Risiko Menengah,India
+46,13,1,1,0,1,Risiko Menengah,Indonesia
+59,25,1,1,3,0,Risiko Rendah,Singapore
+40,28,2,0,1,2,Risiko Tinggi,Thailand
+47,16,1,1,0,1,Risiko Menengah,India
+53,31,1,1,0,1,Risiko Menengah,China
+59,4,1,1,0,1,Risiko Menengah,Japan
+50,31,1,1,0,1,Risiko Menengah,Malaysia
+47,30,4,1,1,1,Risiko Menengah,Singapore
+46,55,1,1,3,0,Risiko Rendah,Philippines
+46,30,2,1,0,1,Risiko Menengah,China
+67,14,1,1,0,1,Risiko Menengah,Singapore
+51,17,6,1,1,1,Risiko Menengah,Philippines
+65,21,6,1,0,1,Risiko Menengah,South Korea
+56,70,26,0,0,2,Risiko Tinggi,Malaysia
+68,30,9,1,3,0,Risiko Rendah,Malaysia
+57,15,3,1,3,0,Risiko Rendah,Malaysia
+49,40,5,1,1,1,Risiko Menengah,Thailand
+48,8,1,1,0,1,Risiko Menengah,India
+67,7,1,1,3,0,Risiko Rendah,Japan
+64,40,3,0,0,2,Risiko Tinggi,Japan
+53,35,2,1,3,0,Risiko Rendah,Malaysia
+42,16,2,1,0,1,Risiko Menengah,Singapore
+50,30,2,1,0,1,Risiko Menengah,Indonesia
+56,18,1,1,0,1,Risiko Menengah,China
+53,30,18,1,0,1,Risiko Menengah,Thailand
+59,15,1,0,3,2,Risiko Tinggi,Indonesia
+67,12,1,1,3,0,Risiko Rendah,Japan
+45,40,2,1,1,1,Risiko Menengah,China
+45,57,20,1,1,1,Risiko Menengah,Vietnam
+49,60,1,1,0,1,Risiko Menengah,China
+65,38,3,1,0,1,Risiko Menengah,Malaysia
+45,55,3,1,1,1,Risiko Menengah,Thailand
+56,24,13,0,1,2,Risiko Tinggi,China
+60,20,1,1,0,1,Risiko Menengah,India
+57,40,35,0,1,2,Risiko Tinggi,Philippines
+54,38,2,1,0,1,Risiko Menengah,India
+50,70,2,1,0,1,Risiko Menengah,Philippines
+63,18,1,1,0,1,Risiko Menengah,Malaysia
+41,25,1,1,0,1,Risiko Menengah,Philippines
+51,74,2,1,0,1,Risiko Menengah,Malaysia
+65,60,1,1,0,1,Risiko Menengah,Malaysia
+59,60,1,1,3,0,Risiko Rendah,South Korea
+66,23,5,1,1,1,Risiko Menengah,Vietnam
+41,45,2,1,0,1,Risiko Menengah,South Korea
+66,21,8,1,1,1,Risiko Menengah,Thailand
+67,14,22,0,1,2,Risiko Tinggi,Thailand
+40,13,1,1,0,1,Risiko Menengah,Philippines
+39,20,7,1,1,1,Risiko Menengah,Thailand
+66,21,1,1,3,0,Risiko Rendah,Indonesia
+58,25,9,1,1,1,Risiko Menengah,Malaysia
+45,22,3,1,0,1,Risiko Menengah,Singapore
+65,8,1,1,0,1,Risiko Menengah,Vietnam
+43,25,7,1,0,1,Risiko Menengah,Malaysia
+57,25,10,1,3,0,Risiko Rendah,India
+47,70,1,1,0,1,Risiko Menengah,Malaysia
+44,11,1,1,0,1,Risiko Menengah,South Korea
+46,80,2,0,0,2,Risiko Tinggi,Indonesia
+64,16,1,1,0,1,Risiko Menengah,Malaysia
+59,18,3,1,0,1,Risiko Menengah,China
+51,15,1,1,1,1,Risiko Menengah,Malaysia
+66,26,1,1,3,0,Risiko Rendah,Indonesia
+46,20,2,1,0,1,Risiko Menengah,Vietnam
+52,18,2,1,1,1,Risiko Menengah,Singapore
+49,18,1,1,3,0,Risiko Rendah,China
+42,14,1,1,0,1,Risiko Menengah,India
+63,42,2,1,0,1,Risiko Menengah,South Korea
+66,58,2,0,1,2,Risiko Tinggi,Malaysia
+48,18,3,1,0,1,Risiko Menengah,Malaysia
+66,25,1,1,1,1,Risiko Menengah,Philippines
+41,9,1,1,0,1,Risiko Menengah,Malaysia
+61,19,1,1,1,1,Risiko Menengah,Malaysia
+55,11,2,1,0,1,Risiko Menengah,Singapore
+62,15,4,1,1,1,Risiko Menengah,Philippines
+35,21,1,0,0,2,Risiko Tinggi,Philippines
+59,52,16,1,1,1,Risiko Menengah,Philippines
+54,40,1,1,0,1,Risiko Menengah,India
+64,11,2,1,3,0,Risiko Rendah,Thailand
+64,20,1,1,3,0,Risiko Rendah,Thailand
+38,33,1,1,0,1,Risiko Menengah,Malaysia
+60,14,1,1,0,1,Risiko Menengah,Indonesia
+55,28,1,0,0,2,Risiko Tinggi,Indonesia
+41,20,3,1,1,1,Risiko Menengah,China
+67,19,1,1,0,1,Risiko Menengah,South Korea
+53,100,10,1,0,1,Risiko Menengah,Thailand
+53,9,5,0,1,2,Risiko Tinggi,South Korea
+34,25,1,1,0,1,Risiko Menengah,Vietnam
+39,15,1,1,0,1,Risiko Menengah,Japan
+31,60,12,0,1,2,Risiko Tinggi,Indonesia
+64,76,3,1,0,1,Risiko Menengah,China
+40,16,4,0,1,2,Risiko Tinggi,Vietnam
+59,20,1,1,0,1,Risiko Menengah,India
+55,45,1,1,1,1,Risiko Menengah,Malaysia
+46,35,1,1,1,1,Risiko Menengah,Japan
+58,18,1,0,1,2,Risiko Tinggi,Vietnam
+66,20,1,1,0,1,Risiko Menengah,India
+56,26,1,1,0,1,Risiko Menengah,Japan
+47,35,15,1,3,0,Risiko Rendah,Malaysia
+39,40,9,1,1,1,Risiko Menengah,India
+46,30,1,1,0,1,Risiko Menengah,Japan
+62,12,1,1,0,1,Risiko Menengah,Japan
+46,19,1,1,0,1,Risiko Menengah,Indonesia
+60,28,12,1,1,1,Risiko Menengah,Philippines
+36,28,1,1,3,0,Risiko Rendah,China
+51,22,2,1,3,0,Risiko Rendah,India
+60,8,1,1,0,1,Risiko Menengah,Vietnam
+63,32,1,1,1,1,Risiko Menengah,South Korea
+65,45,2,1,0,1,Risiko Menengah,Singapore
+59,55,11,1,0,1,Risiko Menengah,Singapore
+50,9,1,1,3,0,Risiko Rendah,Singapore
+53,23,2,1,0,1,Risiko Menengah,Malaysia
+46,20,3,0,0,2,Risiko Tinggi,India
+46,35,1,1,0,1,Risiko Menengah,Thailand
+46,23,2,1,0,1,Risiko Menengah,India
+47,80,4,1,0,1,Risiko Menengah,Singapore
+61,15,1,1,0,1,Risiko Menengah,Japan
+52,9,1,1,0,1,Risiko Menengah,Japan
+57,30,1,1,1,1,Risiko Menengah,Philippines
+59,20,2,0,0,2,Risiko Tinggi,South Korea
+63,66,3,1,0,1,Risiko Menengah,India
+48,22,3,1,0,1,Risiko Menengah,Thailand
+59,16,7,0,0,2,Risiko Tinggi,South Korea
+58,14,5,1,3,0,Risiko Rendah,China
+47,80,1,1,1,1,Risiko Menengah,Singapore
+56,25,2,1,0,1,Risiko Menengah,Indonesia
+44,10,1,1,1,1,Risiko Menengah,South Korea
+44,22,1,1,3,0,Risiko Rendah,Japan
+33,12,2,1,3,0,Risiko Rendah,Indonesia
+54,19,1,1,0,1,Risiko Menengah,India
+45,17,2,1,0,1,Risiko Menengah,China
+60,25,1,1,3,0,Risiko Rendah,Singapore
+62,9,1,1,0,1,Risiko Menengah,Thailand
+53,9,2,1,3,0,Risiko Rendah,China
+41,33,1,1,1,1,Risiko Menengah,Japan
+39,37,2,1,0,1,Risiko Menengah,Indonesia
+44,24,1,1,3,0,Risiko Rendah,South Korea
+57,18,2,1,0,1,Risiko Menengah,Malaysia
+33,75,4,1,1,1,Risiko Menengah,Singapore
+68,25,3,0,1,2,Risiko Tinggi,India
+49,10,1,1,3,0,Risiko Rendah,Malaysia
+50,36,4,1,0,1,Risiko Menengah,China
+60,26,8,1,0,1,Risiko Menengah,Singapore
+50,14,1,1,0,1,Risiko Menengah,South Korea
+40,82,7,1,0,1,Risiko Menengah,Malaysia
+46,30,2,1,0,1,Risiko Menengah,South Korea
+49,12,10,1,3,0,Risiko Rendah,Indonesia
+69,22,16,0,1,2,Risiko Tinggi,Indonesia
+54,16,1,1,0,1,Risiko Menengah,China
+51,16,2,1,0,1,Risiko Menengah,Indonesia
+51,40,3,0,1,2,Risiko Tinggi,South Korea
+68,20,25,1,0,1,Risiko Menengah,South Korea
+41,28,1,1,1,1,Risiko Menengah,Thailand
+58,21,14,0,0,2,Risiko Tinggi,Japan
+62,24,1,1,0,1,Risiko Menengah,China
+42,55,1,1,3,0,Risiko Rendah,Thailand
+46,31,9,0,0,2,Risiko Tinggi,Thailand
+54,24,17,1,0,1,Risiko Menengah,Thailand
+54,37,1,1,0,1,Risiko Menengah,Singapore
+47,30,2,1,3,0,Risiko Rendah,Indonesia
+66,20,13,1,1,1,Risiko Menengah,Vietnam
+42,14,1,1,3,0,Risiko Rendah,Indonesia
+55,20,1,1,0,1,Risiko Menengah,Japan
+60,27,4,1,1,1,Risiko Menengah,South Korea
+52,12,1,1,0,1,Risiko Menengah,Vietnam
+61,80,11,1,0,1,Risiko Menengah,China
+48,23,2,1,0,1,Risiko Menengah,South Korea
+58,14,1,1,0,1,Risiko Menengah,Vietnam
+44,10,2,1,0,1,Risiko Menengah,Japan
+43,22,10,0,1,2,Risiko Tinggi,China
+53,15,1,1,1,1,Risiko Menengah,India
+48,27,1,1,0,1,Risiko Menengah,Malaysia
+63,20,3,1,0,1,Risiko Menengah,Singapore
+64,31,1,1,3,0,Risiko Rendah,India
+39,14,1,1,0,1,Risiko Menengah,Vietnam
+59,40,10,1,0,1,Risiko Menengah,Malaysia
+51,25,3,1,0,1,Risiko Menengah,Malaysia
+39,35,3,1,1,1,Risiko Menengah,Vietnam
+56,20,2,1,0,1,Risiko Menengah,India
+51,42,2,0,0,2,Risiko Tinggi,China
+49,25,24,0,0,2,Risiko Tinggi,Singapore
+68,50,3,1,0,1,Risiko Menengah,Singapore
+51,20,1,1,0,1,Risiko Menengah,South Korea
+54,13,5,0,1,2,Risiko Tinggi,Philippines
+64,6,8,1,0,1,Risiko Menengah,Vietnam
+43,16,6,1,0,1,Risiko Menengah,Vietnam
+39,60,15,1,1,1,Risiko Menengah,India
+69,23,2,1,0,1,Risiko Menengah,Japan
+66,15,1,1,1,1,Risiko Menengah,South Korea
+55,14,10,1,3,0,Risiko Rendah,Thailand
+69,9,1,1,0,1,Risiko Menengah,Japan
+51,16,1,1,0,1,Risiko Menengah,South Korea
+57,42,1,1,3,0,Risiko Rendah,Singapore
+63,40,6,1,1,1,Risiko Menengah,Vietnam
+55,25,9,1,0,1,Risiko Menengah,India
+55,25,2,1,0,1,Risiko Menengah,India
+59,37,3,1,0,1,Risiko Menengah,Indonesia
+61,23,1,1,1,1,Risiko Menengah,China
+49,30,3,1,1,1,Risiko Menengah,Vietnam
+60,12,20,1,0,1,Risiko Menengah,India
+50,35,1,1,1,1,Risiko Menengah,Philippines
+61,47,3,1,3,0,Risiko Rendah,Singapore
+47,28,16,1,0,1,Risiko Menengah,Vietnam
+55,63,1,0,0,2,Risiko Tinggi,Philippines
+57,8,1,1,3,0,Risiko Rendah,Singapore
+53,35,4,0,1,2,Risiko Tinggi,Philippines
+44,60,1,1,0,1,Risiko Menengah,Singapore
+63,30,8,1,1,1,Risiko Menengah,Indonesia
+62,22,8,1,0,1,Risiko Menengah,South Korea
+43,13,1,1,1,1,Risiko Menengah,China
+69,42,13,0,0,2,Risiko Tinggi,Malaysia
+46,45,10,0,1,2,Risiko Tinggi,Singapore
+53,25,17,1,0,1,Risiko Menengah,Thailand
+40,10,2,1,3,0,Risiko Rendah,South Korea
+63,35,1,1,0,1,Risiko Menengah,South Korea
+64,37,3,1,0,1,Risiko Menengah,Vietnam
+57,35,6,1,3,0,Risiko Rendah,South Korea
+43,40,5,1,1,1,Risiko Menengah,Japan
+60,17,6,0,1,2,Risiko Tinggi,Thailand
+42,12,2,1,1,1,Risiko Menengah,India
+40,15,1,1,0,1,Risiko Menengah,India
+43,30,19,1,1,1,Risiko Menengah,Thailand
+57,60,4,1,0,1,Risiko Menengah,Singapore
+68,19,3,1,3,0,Risiko Rendah,Vietnam
+65,27,1,1,1,1,Risiko Menengah,Philippines
+60,10,1,1,0,1,Risiko Menengah,Thailand
+67,12,1,1,0,1,Risiko Menengah,South Korea
+39,70,4,1,2,0,Risiko Rendah,Japan
+59,44,16,1,1,1,Risiko Menengah,South Korea
+52,45,19,1,0,1,Risiko Menengah,South Korea
+58,17,1,0,0,2,Risiko Tinggi,Philippines
+48,80,7,1,0,1,Risiko Menengah,Philippines
+61,16,1,1,0,1,Risiko Menengah,Singapore
+34,24,1,1,1,1,Risiko Menengah,Indonesia
+56,8,1,1,0,1,Risiko Menengah,Malaysia
+59,51,2,1,0,1,Risiko Menengah,Philippines
+52,70,2,1,0,1,Risiko Menengah,Malaysia
+57,60,3,0,1,2,Risiko Tinggi,Japan
+67,45,3,1,0,1,Risiko Menengah,Singapore
+65,1,1,1,0,1,Risiko Menengah,South Korea
+48,27,9,1,1,1,Risiko Menengah,South Korea
+64,35,8,1,0,1,Risiko Menengah,Malaysia
+64,72,1,0,1,2,Risiko Tinggi,Philippines
+57,45,2,1,0,1,Risiko Menengah,Thailand
+47,20,1,0,0,2,Risiko Tinggi,Vietnam
+49,30,1,1,1,1,Risiko Menengah,Vietnam
+40,30,1,1,1,1,Risiko Menengah,Singapore
+57,13,3,1,0,1,Risiko Menengah,Singapore
+47,120,9,1,0,1,Risiko Menengah,Japan
+63,15,1,1,1,1,Risiko Menengah,China
+43,61,2,1,1,1,Risiko Menengah,China
+66,15,1,1,0,1,Risiko Menengah,Vietnam
+66,30,8,1,0,1,Risiko Menengah,Malaysia
+44,18,1,1,1,1,Risiko Menengah,Philippines
+64,28,1,1,3,0,Risiko Rendah,Singapore
+45,8,1,1,0,1,Risiko Menengah,Thailand
+68,22,2,1,1,1,Risiko Menengah,China
+55,40,7,0,0,2,Risiko Tinggi,Japan
+54,15,1,1,0,1,Risiko Menengah,Thailand
+66,20,2,0,0,2,Risiko Tinggi,Singapore
+59,15,4,1,0,1,Risiko Menengah,Japan
+61,23,4,1,0,1,Risiko Menengah,Singapore
+58,20,5,1,1,1,Risiko Menengah,Philippines
+51,17,2,0,1,2,Risiko Tinggi,India
+68,21,2,1,0,1,Risiko Menengah,Thailand
+41,52,1,1,1,1,Risiko Menengah,Japan
+59,30,6,0,0,2,Risiko Tinggi,Malaysia
+64,22,2,1,0,1,Risiko Menengah,Singapore
+63,19,4,1,0,1,Risiko Menengah,Thailand
+65,18,1,1,3,0,Risiko Rendah,Philippines
+51,47,2,0,0,2,Risiko Tinggi,Singapore
+66,15,1,0,0,2,Risiko Tinggi,China
+35,15,1,1,0,1,Risiko Menengah,Thailand
+42,21,1,1,0,1,Risiko Menengah,Vietnam
+49,40,2,1,1,1,Risiko Menengah,Japan
+47,17,3,1,0,1,Risiko Menengah,Indonesia
+66,14,1,1,3,0,Risiko Rendah,Philippines
+49,23,5,1,0,1,Risiko Menengah,Indonesia
+47,68,13,1,0,1,Risiko Menengah,India
+45,25,1,1,0,1,Risiko Menengah,India
+55,50,10,1,0,1,Risiko Menengah,Philippines
+63,140,8,1,0,1,Risiko Menengah,Indonesia
+51,28,1,1,0,1,Risiko Menengah,China
+59,7,1,1,0,1,Risiko Menengah,Indonesia
+43,23,2,1,1,1,Risiko Menengah,Vietnam
+59,7,22,1,3,0,Risiko Rendah,South Korea
+55,10,1,1,0,1,Risiko Menengah,China
+49,15,2,1,1,1,Risiko Menengah,Vietnam
+45,11,1,1,0,1,Risiko Menengah,Malaysia
+41,12,10,1,1,1,Risiko Menengah,Philippines
+63,28,1,1,0,1,Risiko Menengah,India
+41,80,3,1,1,1,Risiko Menengah,Japan
+59,25,11,1,0,1,Risiko Menengah,South Korea
+62,28,1,1,3,0,Risiko Rendah,China
+65,15,1,1,0,1,Risiko Menengah,Indonesia
+47,30,2,0,0,2,Risiko Tinggi,Malaysia
+67,15,1,1,3,0,Risiko Rendah,China
+53,22,1,1,0,1,Risiko Menengah,Indonesia
+46,28,2,1,0,1,Risiko Menengah,South Korea
+56,16,1,1,3,0,Risiko Rendah,Vietnam
+63,95,12,1,1,1,Risiko Menengah,Thailand
+67,27,1,1,3,0,Risiko Rendah,Vietnam
+63,56,11,0,0,2,Risiko Tinggi,Vietnam
+47,50,12,1,0,1,Risiko Menengah,Indonesia
+63,21,2,1,0,1,Risiko Menengah,India
+48,21,19,1,1,1,Risiko Menengah,Philippines
+61,40,8,1,0,1,Risiko Menengah,India
+39,18,6,1,1,1,Risiko Menengah,South Korea
+68,55,14,0,1,2,Risiko Tinggi,Philippines
+51,90,15,1,1,1,Risiko Menengah,South Korea
+69,28,13,1,2,0,Risiko Rendah,Vietnam
+39,55,4,1,1,1,Risiko Menengah,China
+48,21,2,1,0,1,Risiko Menengah,Vietnam
+30,9,1,1,0,1,Risiko Menengah,Vietnam
+40,35,1,1,0,1,Risiko Menengah,Singapore
+39,13,2,1,0,1,Risiko Menengah,South Korea
+44,55,2,1,1,1,Risiko Menengah,Japan
+58,51,5,1,1,1,Risiko Menengah,South Korea
+38,34,1,1,0,1,Risiko Menengah,Singapore
+47,5,1,1,0,1,Risiko Menengah,Singapore
+59,60,4,1,3,0,Risiko Rendah,Malaysia
+53,45,3,1,0,1,Risiko Menengah,South Korea
+41,38,3,1,0,1,Risiko Menengah,Indonesia
+52,48,6,1,0,1,Risiko Menengah,Vietnam
+54,35,1,0,1,2,Risiko Tinggi,Vietnam
+51,32,7,0,1,2,Risiko Tinggi,Thailand
+41,25,8,1,1,1,Risiko Menengah,Philippines
+58,60,1,1,0,1,Risiko Menengah,Malaysia
+49,12,2,1,0,1,Risiko Menengah,South Korea
+58,19,7,0,2,2,Risiko Tinggi,Malaysia
+42,40,2,1,1,1,Risiko Menengah,Japan
+68,50,14,0,1,2,Risiko Tinggi,Thailand
+35,55,2,1,0,1,Risiko Menengah,Vietnam
+46,28,2,1,0,1,Risiko Menengah,South Korea
+53,18,2,0,0,2,Risiko Tinggi,Malaysia
+40,21,16,0,1,2,Risiko Tinggi,Singapore
+66,37,29,1,0,1,Risiko Menengah,Japan
+62,11,1,1,3,0,Risiko Rendah,China
+53,20,1,0,0,2,Risiko Tinggi,China
+37,30,1,1,1,1,Risiko Menengah,Japan
+53,15,1,1,0,1,Risiko Menengah,China
+50,55,6,0,0,2,Risiko Tinggi,Vietnam
+64,17,1,1,0,1,Risiko Menengah,Singapore
+66,17,2,1,0,1,Risiko Menengah,India
+65,25,1,1,1,1,Risiko Menengah,Malaysia
+64,22,3,1,0,1,Risiko Menengah,South Korea
+49,35,8,1,0,1,Risiko Menengah,South Korea
+53,20,1,1,0,1,Risiko Menengah,Singapore
+50,20,3,1,0,1,Risiko Menengah,Thailand
+61,39,3,1,0,1,Risiko Menengah,Malaysia
+57,33,8,0,0,2,Risiko Tinggi,South Korea
+62,18,3,1,1,1,Risiko Menengah,Philippines
+52,40,2,1,1,1,Risiko Menengah,India
+47,24,1,0,1,2,Risiko Tinggi,China
+64,35,1,0,3,2,Risiko Tinggi,Malaysia
+34,40,3,1,1,1,Risiko Menengah,Singapore
+61,11,1,0,3,2,Risiko Tinggi,Thailand
+61,26,2,1,1,1,Risiko Menengah,Vietnam
+58,18,5,0,1,2,Risiko Tinggi,Singapore
+52,15,6,1,0,1,Risiko Menengah,Japan
+50,25,3,1,0,1,Risiko Menengah,Malaysia
+66,21,5,1,0,1,Risiko Menengah,Singapore
+66,18,3,1,0,1,Risiko Menengah,Singapore
+43,55,10,1,0,1,Risiko Menengah,India
+41,15,2,1,0,1,Risiko Menengah,Japan
+56,18,1,1,0,1,Risiko Menengah,South Korea
+53,20,1,1,0,1,Risiko Menengah,China
+53,15,3,1,1,1,Risiko Menengah,Malaysia
+43,20,3,1,0,1,Risiko Menengah,South Korea
+64,70,4,1,0,1,Risiko Menengah,Thailand
+51,13,4,1,0,1,Risiko Menengah,Philippines
+58,55,1,0,0,2,Risiko Tinggi,Vietnam
+68,55,2,1,0,1,Risiko Menengah,India
+66,24,21,1,1,1,Risiko Menengah,South Korea
+51,50,8,1,0,1,Risiko Menengah,Vietnam
+55,30,3,1,0,1,Risiko Menengah,China
+62,10,2,1,0,1,Risiko Menengah,Philippines
+62,18,1,1,0,1,Risiko Menengah,Thailand
+42,18,2,1,1,1,Risiko Menengah,Malaysia
+55,45,4,1,1,1,Risiko Menengah,China
+59,15,1,1,3,0,Risiko Rendah,Singapore
+66,16,1,0,1,2,Risiko Tinggi,Indonesia
+57,45,3,0,1,2,Risiko Tinggi,Malaysia
+46,18,17,0,1,2,Risiko Tinggi,Singapore
+64,60,2,1,1,1,Risiko Menengah,Malaysia
+65,24,5,0,0,2,Risiko Tinggi,India
+48,35,1,1,1,1,Risiko Menengah,Indonesia
+40,15,10,1,0,1,Risiko Menengah,South Korea
+54,21,1,1,0,1,Risiko Menengah,China
+60,25,4,1,0,1,Risiko Menengah,South Korea
+63,15,4,1,0,1,Risiko Menengah,Philippines
+61,11,1,0,1,2,Risiko Tinggi,Thailand
+69,100,6,1,3,0,Risiko Rendah,Thailand
+45,52,2,1,0,1,Risiko Menengah,Singapore
+45,24,4,1,0,1,Risiko Menengah,Malaysia
+49,14,1,1,3,0,Risiko Rendah,China
+69,55,1,1,3,0,Risiko Rendah,South Korea
+42,45,17,0,1,2,Risiko Tinggi,Singapore
+54,25,1,1,0,1,Risiko Menengah,Philippines
+64,25,1,1,3,0,Risiko Rendah,China
+49,32,4,0,1,2,Risiko Tinggi,Philippines
+44,41,2,1,0,1,Risiko Menengah,Malaysia
+52,40,2,0,0,2,Risiko Tinggi,Vietnam
+47,32,2,1,1,1,Risiko Menengah,Japan
+59,12,2,1,1,1,Risiko Menengah,Malaysia
+67,7,1,1,0,1,Risiko Menengah,Thailand
+63,30,8,1,0,1,Risiko Menengah,Singapore
+68,22,6,0,1,2,Risiko Tinggi,South Korea
+52,30,7,1,0,1,Risiko Menengah,Philippines
+61,17,2,1,3,0,Risiko Rendah,South Korea
+39,21,2,1,1,1,Risiko Menengah,South Korea
+66,15,3,1,0,1,Risiko Menengah,Vietnam
+53,22,1,1,0,1,Risiko Menengah,China
+51,15,3,1,1,1,Risiko Menengah,Indonesia
+40,9,1,1,0,1,Risiko Menengah,Indonesia
+56,49,4,1,0,1,Risiko Menengah,Philippines
+33,57,1,1,1,1,Risiko Menengah,Vietnam
+67,20,2,1,0,1,Risiko Menengah,Indonesia
+55,27,1,0,0,2,Risiko Tinggi,India
+45,30,1,1,1,1,Risiko Menengah,Malaysia
+60,30,2,1,0,1,Risiko Menengah,Indonesia
+47,5,1,1,0,1,Risiko Menengah,Vietnam
+45,22,1,1,0,1,Risiko Menengah,Indonesia
+56,55,1,1,0,1,Risiko Menengah,Japan
+41,45,1,1,0,1,Risiko Menengah,China
+65,25,8,0,0,2,Risiko Tinggi,Malaysia
+66,25,3,1,0,1,Risiko Menengah,Thailand
+52,5,2,0,1,2,Risiko Tinggi,Vietnam
+55,55,2,1,0,1,Risiko Menengah,South Korea
+57,15,1,0,0,2,Risiko Tinggi,South Korea
+49,15,3,1,0,1,Risiko Menengah,India
+48,24,2,1,1,1,Risiko Menengah,Thailand
+31,10,1,1,1,1,Risiko Menengah,Japan
+59,14,2,1,0,1,Risiko Menengah,Singapore
+43,25,3,1,0,1,Risiko Menengah,India
+45,10,1,1,0,1,Risiko Menengah,China
+61,20,29,1,0,1,Risiko Menengah,China
+31,80,1,1,0,1,Risiko Menengah,Indonesia
+47,20,1,1,1,1,Risiko Menengah,India
+32,15,3,0,0,2,Risiko Tinggi,Japan
+49,10,1,1,0,1,Risiko Menengah,Japan
+54,40,1,1,3,0,Risiko Rendah,China
+51,15,2,1,3,0,Risiko Rendah,South Korea
+47,17,1,1,1,1,Risiko Menengah,Vietnam
+53,11,3,1,3,0,Risiko Rendah,Malaysia
+40,15,2,1,0,1,Risiko Menengah,India
+59,17,3,0,3,2,Risiko Tinggi,South Korea
+65,19,1,1,0,1,Risiko Menengah,Philippines
+47,26,5,1,0,1,Risiko Menengah,Philippines
+59,22,1,1,0,1,Risiko Menengah,Singapore
+39,8,2,1,0,1,Risiko Menengah,China
+54,120,2,1,1,1,Risiko Menengah,Japan
+36,24,13,1,3,0,Risiko Rendah,Singapore
+46,23,2,1,0,1,Risiko Menengah,Japan
+41,90,10,1,0,1,Risiko Menengah,Singapore
+62,61,3,1,1,1,Risiko Menengah,Indonesia
+45,17,1,1,1,1,Risiko Menengah,Vietnam
+41,40,1,1,1,1,Risiko Menengah,Japan
+43,1,1,1,0,1,Risiko Menengah,Thailand
+69,34,15,1,1,1,Risiko Menengah,Malaysia
+56,10,1,1,3,0,Risiko Rendah,Thailand
+62,27,2,1,0,1,Risiko Menengah,Philippines
+65,30,4,1,0,1,Risiko Menengah,Indonesia
+32,50,2,1,1,1,Risiko Menengah,Singapore
+66,25,3,1,3,0,Risiko Rendah,China
+62,63,7,1,0,1,Risiko Menengah,Singapore
+32,17,1,1,1,1,Risiko Menengah,Vietnam
+32,18,2,1,0,1,Risiko Menengah,India
+50,20,3,1,1,1,Risiko Menengah,India
+53,45,13,1,0,1,Risiko Menengah,Philippines
+60,25,9,1,0,1,Risiko Menengah,Vietnam
+59,70,1,1,0,1,Risiko Menengah,Thailand
+46,3,2,1,3,0,Risiko Rendah,Vietnam
+49,26,1,1,0,1,Risiko Menengah,Singapore
+39,32,1,1,0,1,Risiko Menengah,India
+50,60,3,1,1,1,Risiko Menengah,Japan
+59,18,4,1,0,1,Risiko Menengah,Thailand
+60,70,2,1,1,1,Risiko Menengah,India
+63,35,5,1,0,1,Risiko Menengah,Philippines
+61,8,1,1,3,0,Risiko Rendah,Vietnam
+63,65,25,1,3,0,Risiko Rendah,South Korea
+49,70,9,1,3,0,Risiko Rendah,Philippines
+42,45,3,0,0,2,Risiko Tinggi,India
+46,35,5,1,0,1,Risiko Menengah,Malaysia
+51,28,3,1,0,1,Risiko Menengah,Vietnam
+43,75,5,0,2,2,Risiko Tinggi,Japan
+49,20,1,1,0,1,Risiko Menengah,Japan
+45,15,1,1,1,1,Risiko Menengah,South Korea
+46,15,1,1,0,1,Risiko Menengah,China
+69,18,1,1,0,1,Risiko Menengah,Indonesia
+50,30,2,1,0,1,Risiko Menengah,Malaysia
+66,10,1,1,3,0,Risiko Rendah,Japan
+43,15,2,1,3,0,Risiko Rendah,Malaysia
+56,35,2,1,0,1,Risiko Menengah,Malaysia
+37,35,2,1,0,1,Risiko Menengah,Japan
+52,13,2,1,1,1,Risiko Menengah,South Korea
+53,15,2,1,1,1,Risiko Menengah,China
+55,19,6,1,0,1,Risiko Menengah,Thailand
+43,25,4,1,0,1,Risiko Menengah,Philippines
+52,23,1,0,0,2,Risiko Tinggi,India
+61,47,21,1,1,1,Risiko Menengah,India
+45,17,1,1,0,1,Risiko Menengah,Malaysia
+42,14,1,1,3,0,Risiko Rendah,Malaysia
+50,47,1,1,0,1,Risiko Menengah,Vietnam
+66,8,1,1,3,0,Risiko Rendah,China
+62,12,1,1,0,1,Risiko Menengah,Indonesia
+67,38,1,0,1,2,Risiko Tinggi,India
+60,16,1,1,0,1,Risiko Menengah,Vietnam
+57,90,1,0,1,2,Risiko Tinggi,Japan
+69,17,1,1,0,1,Risiko Menengah,Indonesia
+60,70,11,0,1,2,Risiko Tinggi,Vietnam
+48,18,1,1,0,1,Risiko Menengah,China
+50,21,7,1,0,1,Risiko Menengah,Thailand
+53,32,5,1,1,1,Risiko Menengah,Thailand
+63,30,1,1,0,1,Risiko Menengah,India
+52,50,18,0,0,2,Risiko Tinggi,Philippines
+57,14,1,1,0,1,Risiko Menengah,South Korea
+55,19,2,0,0,2,Risiko Tinggi,Philippines
+63,11,1,1,1,1,Risiko Menengah,China
+51,18,1,1,0,1,Risiko Menengah,India
+46,19,1,1,0,1,Risiko Menengah,Indonesia
+50,20,1,1,3,0,Risiko Rendah,Malaysia
+56,28,8,1,0,1,Risiko Menengah,Singapore
+57,15,17,0,1,2,Risiko Tinggi,China
+31,65,4,1,1,1,Risiko Menengah,Philippines
+59,19,3,1,0,1,Risiko Menengah,Japan
+53,15,2,1,0,1,Risiko Menengah,Malaysia
+66,23,2,1,0,1,Risiko Menengah,India
+46,16,1,1,0,1,Risiko Menengah,Singapore
+67,30,2,1,0,1,Risiko Menengah,India
+61,60,3,0,3,2,Risiko Tinggi,Thailand
+42,15,5,1,0,1,Risiko Menengah,Malaysia
+36,22,6,1,1,1,Risiko Menengah,Thailand
+49,30,1,1,3,0,Risiko Rendah,Indonesia
+68,18,2,1,3,0,Risiko Rendah,Singapore
+55,20,2,1,0,1,Risiko Menengah,Indonesia
+68,45,1,1,1,1,Risiko Menengah,India
+52,17,1,1,0,1,Risiko Menengah,India
+63,20,3,1,0,1,Risiko Menengah,Thailand
+45,21,2,1,1,1,Risiko Menengah,Singapore
+53,25,2,1,3,0,Risiko Rendah,South Korea
+46,6,2,1,3,0,Risiko Rendah,Vietnam
+59,14,1,1,0,1,Risiko Menengah,Malaysia
+53,20,2,1,0,1,Risiko Menengah,China
+53,15,8,1,1,1,Risiko Menengah,Singapore
+42,17,1,0,0,2,Risiko Tinggi,Indonesia
+53,10,6,1,0,1,Risiko Menengah,China
+51,25,1,1,0,1,Risiko Menengah,South Korea
+40,30,2,0,1,2,Risiko Tinggi,Indonesia
+44,8,3,0,0,2,Risiko Tinggi,China
+60,18,1,1,0,1,Risiko Menengah,China
+63,18,1,0,0,2,Risiko Tinggi,Vietnam
+66,21,1,1,0,1,Risiko Menengah,Philippines
+57,15,1,1,0,1,Risiko Menengah,South Korea
+58,78,11,0,1,2,Risiko Tinggi,South Korea
+61,20,3,1,3,0,Risiko Rendah,South Korea
+46,18,7,1,3,0,Risiko Rendah,India
+59,18,2,1,0,1,Risiko Menengah,China
+57,52,10,1,0,1,Risiko Menengah,Philippines
+55,20,21,1,0,1,Risiko Menengah,Philippines
+61,25,3,1,0,1,Risiko Menengah,Philippines
+44,12,1,1,0,1,Risiko Menengah,Vietnam
+55,15,3,1,3,0,Risiko Rendah,Malaysia
+53,6,1,1,0,1,Risiko Menengah,Thailand
+69,18,2,1,1,1,Risiko Menengah,China
+55,35,1,0,1,2,Risiko Tinggi,South Korea
+38,21,3,1,1,1,Risiko Menengah,India
+48,60,1,1,3,0,Risiko Rendah,South Korea
+67,97,12,0,3,2,Risiko Tinggi,India
+51,45,5,1,0,1,Risiko Menengah,Japan
+55,35,10,0,0,2,Risiko Tinggi,Thailand
+47,13,4,1,0,1,Risiko Menengah,China
+37,17,1,0,0,2,Risiko Tinggi,Japan
+54,14,2,1,1,1,Risiko Menengah,Thailand
+61,25,5,1,0,1,Risiko Menengah,Malaysia
+50,17,1,1,0,1,Risiko Menengah,South Korea
+54,21,12,0,1,2,Risiko Tinggi,Thailand
+47,35,9,1,1,1,Risiko Menengah,China
+62,8,1,1,0,1,Risiko Menengah,Malaysia
+57,13,5,1,1,1,Risiko Menengah,India
+59,38,1,0,1,2,Risiko Tinggi,Philippines
+49,88,9,1,1,1,Risiko Menengah,South Korea
+45,18,1,1,0,1,Risiko Menengah,Malaysia
+69,40,2,1,0,1,Risiko Menengah,Japan
+55,20,1,1,1,1,Risiko Menengah,Japan
+69,7,1,1,0,1,Risiko Menengah,South Korea
+45,27,1,0,1,2,Risiko Tinggi,India
+57,60,3,1,0,1,Risiko Menengah,Singapore
+54,28,7,1,0,1,Risiko Menengah,Japan
+49,38,2,1,3,0,Risiko Rendah,Vietnam
+56,45,3,0,0,2,Risiko Tinggi,India
+69,21,3,1,3,0,Risiko Rendah,Philippines
+60,42,4,1,1,1,Risiko Menengah,Thailand
+35,19,4,1,3,0,Risiko Rendah,Singapore
+58,60,1,1,1,1,Risiko Menengah,Philippines
+69,43,4,0,1,2,Risiko Tinggi,Malaysia
+65,6,5,1,3,0,Risiko Rendah,Thailand
+67,40,6,0,1,2,Risiko Tinggi,Japan
+51,50,6,1,1,1,Risiko Menengah,Thailand
+40,14,1,1,1,1,Risiko Menengah,India
+33,45,2,0,0,2,Risiko Tinggi,Japan
+56,20,1,1,0,1,Risiko Menengah,China
+59,28,19,0,0,2,Risiko Tinggi,Vietnam
+61,12,1,1,0,1,Risiko Menengah,Indonesia
+46,20,11,1,1,1,Risiko Menengah,Vietnam
+67,42,2,1,0,1,Risiko Menengah,South Korea
+69,14,2,1,0,1,Risiko Menengah,India
+52,2,1,0,0,2,Risiko Tinggi,Vietnam
+41,35,4,1,0,1,Risiko Menengah,Philippines
+57,11,1,0,0,2,Risiko Tinggi,Thailand
+54,5,1,1,3,0,Risiko Rendah,Indonesia
+60,20,1,0,0,2,Risiko Tinggi,Philippines
+36,29,2,0,0,2,Risiko Tinggi,Philippines
+52,24,4,1,3,0,Risiko Rendah,China
+35,18,1,0,1,2,Risiko Tinggi,Singapore
+57,10,2,0,0,2,Risiko Tinggi,Indonesia
+68,30,11,1,0,1,Risiko Menengah,India
+64,15,1,1,0,1,Risiko Menengah,Singapore
+49,15,1,1,1,1,Risiko Menengah,South Korea
+57,60,4,1,0,1,Risiko Menengah,Vietnam
+49,26,3,1,0,1,Risiko Menengah,Japan
+53,40,9,0,1,2,Risiko Tinggi,Philippines
+52,40,3,1,3,0,Risiko Rendah,Singapore
+46,25,1,0,1,2,Risiko Tinggi,China
+54,27,3,1,0,1,Risiko Menengah,Thailand
+60,22,1,0,0,2,Risiko Tinggi,Thailand
+46,23,1,1,0,1,Risiko Menengah,Indonesia
+66,12,2,1,0,1,Risiko Menengah,Malaysia
+55,30,2,1,1,1,Risiko Menengah,Thailand
+47,2,1,1,3,0,Risiko Rendah,South Korea
+49,40,16,0,1,2,Risiko Tinggi,Japan
+44,30,1,1,0,1,Risiko Menengah,South Korea
+49,60,7,1,1,1,Risiko Menengah,South Korea
+60,9,2,1,0,1,Risiko Menengah,Thailand
+46,70,1,1,0,1,Risiko Menengah,Japan
+49,17,2,1,0,1,Risiko Menengah,Vietnam
+50,45,2,1,3,0,Risiko Rendah,Vietnam
+49,51,1,1,1,1,Risiko Menengah,South Korea
+51,10,1,1,0,1,Risiko Menengah,Philippines
+52,85,4,1,3,0,Risiko Rendah,Japan
+46,30,1,0,1,2,Risiko Tinggi,Japan
+68,14,26,1,1,1,Risiko Menengah,China
+48,15,4,1,3,0,Risiko Rendah,India
+48,10,1,1,3,0,Risiko Rendah,Vietnam
+53,27,2,0,1,2,Risiko Tinggi,Indonesia
+54,15,1,1,0,1,Risiko Menengah,South Korea
+50,35,5,1,3,0,Risiko Rendah,Japan
+56,20,7,1,0,1,Risiko Menengah,Singapore
+56,90,10,1,0,1,Risiko Menengah,Thailand
+54,10,1,1,1,1,Risiko Menengah,Thailand
+45,100,3,1,3,0,Risiko Rendah,Thailand
+55,55,1,1,0,1,Risiko Menengah,Philippines
+64,35,11,1,3,0,Risiko Rendah,Singapore
+46,18,2,1,1,1,Risiko Menengah,South Korea
+56,21,1,1,0,1,Risiko Menengah,Indonesia
+58,15,2,1,1,1,Risiko Menengah,Indonesia
+45,74,5,1,0,1,Risiko Menengah,Malaysia
+30,50,1,0,1,2,Risiko Tinggi,Thailand
+67,70,4,0,0,2,Risiko Tinggi,Vietnam
+46,24,1,1,0,1,Risiko Menengah,Philippines
+49,28,1,0,1,2,Risiko Tinggi,South Korea
+63,15,1,0,0,2,Risiko Tinggi,Japan
+49,38,3,0,0,2,Risiko Tinggi,South Korea
+67,16,1,1,1,1,Risiko Menengah,Vietnam
+60,35,1,1,0,1,Risiko Menengah,South Korea
+46,19,2,1,0,1,Risiko Menengah,Philippines
+37,52,3,1,0,1,Risiko Menengah,Indonesia
+65,10,5,1,3,0,Risiko Rendah,South Korea
+43,39,3,1,1,1,Risiko Menengah,Vietnam
+61,30,5,1,1,1,Risiko Menengah,India
+64,8,2,1,0,1,Risiko Menengah,India
+52,19,2,0,0,2,Risiko Tinggi,Indonesia
+43,11,2,1,0,1,Risiko Menengah,South Korea
+67,22,1,0,1,2,Risiko Tinggi,Philippines
+51,23,5,1,3,0,Risiko Rendah,Thailand
+69,14,1,1,0,1,Risiko Menengah,China
+67,25,16,1,0,1,Risiko Menengah,Philippines
+59,55,11,1,0,1,Risiko Menengah,India
+50,40,1,1,3,0,Risiko Rendah,Malaysia
+65,35,4,1,1,1,Risiko Menengah,Philippines
+47,17,2,1,1,1,Risiko Menengah,Philippines
+51,35,4,1,0,1,Risiko Menengah,Indonesia
+46,15,1,1,1,1,Risiko Menengah,Malaysia
+53,15,2,1,1,1,Risiko Menengah,Singapore
+57,80,3,1,3,0,Risiko Rendah,India
+53,40,9,1,0,1,Risiko Menengah,China
+63,42,5,0,0,2,Risiko Tinggi,Singapore
+60,14,1,1,3,0,Risiko Rendah,Malaysia
+47,26,1,1,0,1,Risiko Menengah,Philippines
+46,42,1,0,0,2,Risiko Tinggi,Indonesia
+43,25,9,1,0,1,Risiko Menengah,Indonesia
+46,70,1,1,0,1,Risiko Menengah,China
+60,40,2,1,0,1,Risiko Menengah,Vietnam
+53,60,2,1,0,1,Risiko Menengah,Malaysia
+62,25,1,1,1,1,Risiko Menengah,Vietnam
+47,5,1,1,0,1,Risiko Menengah,Thailand
+65,30,3,0,0,2,Risiko Tinggi,China
+59,45,18,1,1,1,Risiko Menengah,South Korea
+61,11,1,1,3,0,Risiko Rendah,Vietnam
+69,22,3,1,0,1,Risiko Menengah,Vietnam
+55,25,5,1,3,0,Risiko Rendah,Vietnam
+53,14,1,1,1,1,Risiko Menengah,South Korea
+54,19,1,1,0,1,Risiko Menengah,Philippines
+49,20,2,1,0,1,Risiko Menengah,Indonesia
+61,12,23,0,0,2,Risiko Tinggi,Philippines
+62,16,2,1,0,1,Risiko Menengah,China
+40,60,5,1,0,1,Risiko Menengah,South Korea
+45,46,4,1,0,1,Risiko Menengah,Thailand
+47,53,5,1,0,1,Risiko Menengah,China
+59,6,1,0,0,2,Risiko Tinggi,Malaysia
+42,18,1,1,0,1,Risiko Menengah,Thailand
+66,5,5,1,0,1,Risiko Menengah,Philippines
+34,25,6,1,0,1,Risiko Menengah,Vietnam
+65,35,2,1,1,1,Risiko Menengah,Singapore
+43,10,2,0,1,2,Risiko Tinggi,Indonesia
+50,60,2,1,1,1,Risiko Menengah,Philippines
+56,16,1,1,3,0,Risiko Rendah,Philippines
+61,12,1,1,0,1,Risiko Menengah,Malaysia
+55,31,1,0,1,2,Risiko Tinggi,Vietnam
+45,51,3,1,1,1,Risiko Menengah,Indonesia
+52,50,3,0,1,2,Risiko Tinggi,Indonesia
+42,25,5,1,0,1,Risiko Menengah,Singapore
+65,15,2,1,0,1,Risiko Menengah,Indonesia
+65,33,4,1,3,0,Risiko Rendah,India
+39,80,10,1,3,0,Risiko Rendah,Vietnam
+44,25,5,1,3,0,Risiko Rendah,Vietnam
+50,9,1,1,0,1,Risiko Menengah,Japan
+67,27,1,1,0,1,Risiko Menengah,Philippines
+61,15,1,1,0,1,Risiko Menengah,South Korea
+61,8,3,1,1,1,Risiko Menengah,Vietnam
+60,70,1,1,0,1,Risiko Menengah,Indonesia
+64,35,1,1,0,1,Risiko Menengah,Japan
+45,18,9,1,3,0,Risiko Rendah,Malaysia
+60,20,4,1,1,1,Risiko Menengah,Philippines
+56,48,1,1,0,1,Risiko Menengah,South Korea
+49,18,1,1,0,1,Risiko Menengah,Thailand
+51,35,5,1,0,1,Risiko Menengah,Vietnam
+61,42,6,1,1,1,Risiko Menengah,Japan
+53,15,1,1,0,1,Risiko Menengah,Indonesia
+59,15,3,1,0,1,Risiko Menengah,Philippines
+38,45,3,1,0,1,Risiko Menengah,Vietnam
+64,36,17,1,0,1,Risiko Menengah,Japan
+53,40,1,1,1,1,Risiko Menengah,Singapore
+67,40,3,1,0,1,Risiko Menengah,Vietnam
+69,50,11,1,1,1,Risiko Menengah,Philippines
+63,15,1,1,0,1,Risiko Menengah,Thailand
+58,16,2,1,0,1,Risiko Menengah,Indonesia
+44,14,1,0,0,2,Risiko Tinggi,Indonesia
+67,10,13,1,0,1,Risiko Menengah,Malaysia
+53,15,2,1,0,1,Risiko Menengah,Indonesia
+48,18,2,1,0,1,Risiko Menengah,Singapore
+58,24,1,1,3,0,Risiko Rendah,Philippines
+47,50,1,1,0,1,Risiko Menengah,Philippines
+68,50,4,1,1,1,Risiko Menengah,Thailand
+69,20,3,1,1,1,Risiko Menengah,Malaysia
+60,25,7,1,3,0,Risiko Rendah,Malaysia
+60,25,1,0,1,2,Risiko Tinggi,China
+50,25,3,1,0,1,Risiko Menengah,Thailand
+50,30,6,1,1,1,Risiko Menengah,India
+59,52,2,1,3,0,Risiko Rendah,Indonesia
+63,62,1,1,1,1,Risiko Menengah,Singapore
+62,80,15,1,1,1,Risiko Menengah,China
+40,17,1,1,0,1,Risiko Menengah,Singapore
+48,36,12,0,1,2,Risiko Tinggi,Thailand
+60,23,4,0,0,2,Risiko Tinggi,Vietnam
+46,53,1,1,0,1,Risiko Menengah,China
+50,10,1,1,0,1,Risiko Menengah,India
+46,24,2,1,1,1,Risiko Menengah,Philippines
+64,65,1,1,0,1,Risiko Menengah,Vietnam
+64,15,1,1,0,1,Risiko Menengah,Japan
+68,40,7,1,1,1,Risiko Menengah,Thailand
+68,12,1,1,0,1,Risiko Menengah,Malaysia
+65,20,2,1,3,0,Risiko Rendah,India
+64,21,1,1,0,1,Risiko Menengah,Thailand
+55,17,1,1,0,1,Risiko Menengah,Indonesia
+65,56,7,0,0,2,Risiko Tinggi,China
+50,80,3,1,0,1,Risiko Menengah,Malaysia
+40,16,1,1,0,1,Risiko Menengah,Thailand
+35,30,1,1,1,1,Risiko Menengah,Thailand
+50,45,2,1,3,0,Risiko Rendah,Philippines
+52,20,1,1,0,1,Risiko Menengah,Vietnam
+39,20,1,0,0,2,Risiko Tinggi,China
+55,22,1,1,1,1,Risiko Menengah,Vietnam
+69,50,14,1,0,1,Risiko Menengah,Japan
+55,16,1,1,0,1,Risiko Menengah,China
+60,35,2,0,0,2,Risiko Tinggi,Malaysia
+50,31,3,1,3,0,Risiko Rendah,China
+62,29,2,1,1,1,Risiko Menengah,Indonesia
+64,10,1,1,1,1,Risiko Menengah,Malaysia
+47,55,1,1,0,1,Risiko Menengah,Singapore
+41,8,1,1,0,1,Risiko Menengah,Philippines
+60,40,1,1,0,1,Risiko Menengah,Philippines
+69,15,1,0,1,2,Risiko Tinggi,South Korea
+38,70,14,1,1,1,Risiko Menengah,Malaysia
+41,25,12,1,1,1,Risiko Menengah,Thailand
+62,35,2,1,1,1,Risiko Menengah,Singapore
+54,69,1,0,0,2,Risiko Tinggi,India
+67,85,29,1,1,1,Risiko Menengah,Singapore
+63,20,1,1,1,1,Risiko Menengah,China
+50,18,3,1,0,1,Risiko Menengah,Singapore
+53,28,27,1,0,1,Risiko Menengah,Singapore
+46,50,22,1,1,1,Risiko Menengah,India
+46,12,2,1,1,1,Risiko Menengah,India
+64,44,1,1,0,1,Risiko Menengah,Indonesia
+47,42,3,1,0,1,Risiko Menengah,Japan
+68,17,19,0,1,2,Risiko Tinggi,Vietnam
+51,63,14,1,0,1,Risiko Menengah,Vietnam
+61,80,12,1,1,1,Risiko Menengah,Thailand
+55,90,3,1,1,1,Risiko Menengah,South Korea
+50,34,2,1,0,1,Risiko Menengah,Philippines
+52,18,2,1,3,0,Risiko Rendah,Japan
+47,35,4,1,0,1,Risiko Menengah,Japan
+37,40,8,1,0,1,Risiko Menengah,China
+57,20,2,0,0,2,Risiko Tinggi,Indonesia
+47,110,4,1,0,1,Risiko Menengah,Indonesia
+48,10,1,1,3,0,Risiko Rendah,Japan
+47,23,3,1,0,1,Risiko Menengah,Philippines
+45,20,1,1,0,1,Risiko Menengah,Singapore
+37,13,1,1,1,1,Risiko Menengah,Thailand
+58,25,1,1,0,1,Risiko Menengah,India
+43,36,2,1,0,1,Risiko Menengah,China
+56,25,2,1,3,0,Risiko Rendah,China
+64,3,1,1,0,1,Risiko Menengah,India
+40,3,6,0,0,2,Risiko Tinggi,South Korea
+58,83,1,1,0,1,Risiko Menengah,Philippines
+56,12,3,1,1,1,Risiko Menengah,South Korea
+42,14,1,1,1,1,Risiko Menengah,Thailand
+63,80,18,1,1,1,Risiko Menengah,Malaysia
+59,15,1,1,1,1,Risiko Menengah,Philippines
+62,15,4,1,0,1,Risiko Menengah,Japan
+69,25,2,1,1,1,Risiko Menengah,China
+58,15,1,1,1,1,Risiko Menengah,Malaysia
+64,15,5,1,0,1,Risiko Menengah,India
+47,17,1,0,0,2,Risiko Tinggi,Indonesia
+59,15,2,1,1,1,Risiko Menengah,Indonesia
+48,21,1,1,1,1,Risiko Menengah,Singapore
+44,17,15,1,3,0,Risiko Rendah,Philippines
+49,80,6,1,0,1,Risiko Menengah,Indonesia
+46,45,3,0,0,2,Risiko Tinggi,Indonesia
+48,17,1,1,1,1,Risiko Menengah,Thailand
+53,20,6,1,0,1,Risiko Menengah,India
+63,34,5,1,1,1,Risiko Menengah,Thailand
+47,25,1,1,0,1,Risiko Menengah,Philippines
+52,60,2,1,0,1,Risiko Menengah,Indonesia
+62,25,2,1,1,1,Risiko Menengah,Japan
+42,20,2,1,0,1,Risiko Menengah,South Korea
+47,24,1,1,0,1,Risiko Menengah,India
+43,30,3,1,0,1,Risiko Menengah,Vietnam
+58,15,1,1,3,0,Risiko Rendah,Malaysia
+59,17,1,1,1,1,Risiko Menengah,Singapore
+35,16,1,1,3,0,Risiko Rendah,Thailand
+64,20,1,1,3,0,Risiko Rendah,Thailand
+43,42,1,0,1,2,Risiko Tinggi,Philippines
+56,25,1,1,0,1,Risiko Menengah,Vietnam
+60,75,3,1,0,1,Risiko Menengah,South Korea
+67,36,1,1,0,1,Risiko Menengah,Vietnam
+57,12,2,1,0,1,Risiko Menengah,Malaysia
+67,4,4,0,0,2,Risiko Tinggi,Philippines
+36,35,4,1,3,0,Risiko Rendah,Indonesia
+40,34,2,1,3,0,Risiko Rendah,Indonesia
+49,22,5,1,3,0,Risiko Rendah,India
+51,35,6,1,3,0,Risiko Rendah,Singapore
+63,30,1,1,1,1,Risiko Menengah,Thailand
+38,81,10,1,1,1,Risiko Menengah,Malaysia
+44,40,7,1,1,1,Risiko Menengah,Singapore
+56,30,8,1,0,1,Risiko Menengah,China
+44,60,5,1,0,1,Risiko Menengah,South Korea
+61,13,1,1,1,1,Risiko Menengah,Malaysia
+38,15,1,1,1,1,Risiko Menengah,Vietnam
+68,15,1,1,0,1,Risiko Menengah,Singapore
+65,20,1,1,0,1,Risiko Menengah,Indonesia
+55,40,4,1,3,0,Risiko Rendah,Thailand
+66,15,1,1,0,1,Risiko Menengah,China
+43,30,7,1,0,1,Risiko Menengah,South Korea
+57,25,3,1,1,1,Risiko Menengah,South Korea
+66,65,6,1,0,1,Risiko Menengah,Philippines
+59,78,8,1,1,1,Risiko Menengah,Singapore
+57,14,1,0,0,2,Risiko Tinggi,India
+68,5,8,1,0,1,Risiko Menengah,India
+51,13,1,1,1,1,Risiko Menengah,Philippines
+68,15,1,1,0,1,Risiko Menengah,Philippines
+47,15,1,1,0,1,Risiko Menengah,China
+62,7,7,1,0,1,Risiko Menengah,Singapore
+50,14,4,1,0,1,Risiko Menengah,Thailand
+69,13,1,1,3,0,Risiko Rendah,Japan
+66,22,1,1,0,1,Risiko Menengah,Philippines
+67,14,1,1,0,1,Risiko Menengah,Thailand
+62,25,12,1,0,1,Risiko Menengah,Singapore
+67,10,2,1,0,1,Risiko Menengah,Philippines
+66,11,1,1,0,1,Risiko Menengah,Japan
+48,14,1,1,0,1,Risiko Menengah,China
+44,13,1,0,1,2,Risiko Tinggi,Malaysia
+50,10,1,1,0,1,Risiko Menengah,Philippines
+56,6,1,1,0,1,Risiko Menengah,China
+49,21,2,1,1,1,Risiko Menengah,Philippines
+46,40,5,1,1,1,Risiko Menengah,Philippines
+50,16,1,1,0,1,Risiko Menengah,Thailand
+62,5,1,1,0,1,Risiko Menengah,Philippines
+40,18,2,0,1,2,Risiko Tinggi,Singapore
+69,14,3,0,3,2,Risiko Tinggi,China
+64,42,4,1,0,1,Risiko Menengah,Singapore
+36,32,1,1,0,1,Risiko Menengah,Indonesia
+50,28,10,1,0,1,Risiko Menengah,Thailand
+49,28,6,1,1,1,Risiko Menengah,Malaysia
+65,60,1,0,0,2,Risiko Tinggi,Japan
+40,35,16,1,3,0,Risiko Rendah,Japan
+64,85,1,0,0,2,Risiko Tinggi,China
+50,12,2,1,3,0,Risiko Rendah,Vietnam
+51,20,7,1,1,1,Risiko Menengah,Vietnam
+67,27,2,1,0,1,Risiko Menengah,South Korea
+51,36,1,1,0,1,Risiko Menengah,Vietnam
+62,33,32,1,0,1,Risiko Menengah,Singapore
+62,23,2,1,0,1,Risiko Menengah,China
+55,13,1,0,0,2,Risiko Tinggi,Japan
+63,4,4,1,0,1,Risiko Menengah,Indonesia
+42,25,1,1,0,1,Risiko Menengah,Singapore
+56,80,1,1,0,1,Risiko Menengah,Vietnam
+31,55,14,1,0,1,Risiko Menengah,Indonesia
+56,45,11,1,0,1,Risiko Menengah,Japan
+59,11,2,1,0,1,Risiko Menengah,Japan
+48,37,10,1,0,1,Risiko Menengah,Singapore
+66,30,2,1,1,1,Risiko Menengah,Thailand
+51,18,1,1,3,0,Risiko Rendah,Indonesia
+69,16,1,1,3,0,Risiko Rendah,Thailand
+63,15,2,1,1,1,Risiko Menengah,China
+48,42,6,1,1,1,Risiko Menengah,Philippines
+46,75,2,1,0,1,Risiko Menengah,India
+69,15,1,1,3,0,Risiko Rendah,Japan
+60,35,2,1,1,1,Risiko Menengah,South Korea
+61,28,2,0,1,2,Risiko Tinggi,China
+60,15,1,1,1,1,Risiko Menengah,South Korea
+58,24,2,1,0,1,Risiko Menengah,Singapore
+44,23,5,1,0,1,Risiko Menengah,Japan
+48,61,3,1,3,0,Risiko Rendah,Indonesia
+45,75,4,0,0,2,Risiko Tinggi,Japan
+52,10,2,1,0,1,Risiko Menengah,China
+58,21,7,1,0,1,Risiko Menengah,China
+48,12,4,1,0,1,Risiko Menengah,South Korea
+58,22,3,0,3,2,Risiko Tinggi,Indonesia
+45,32,2,1,0,1,Risiko Menengah,China
+66,28,1,1,0,1,Risiko Menengah,Japan
+62,70,10,1,2,0,Risiko Rendah,Thailand
+60,65,2,0,1,2,Risiko Tinggi,Philippines
+54,16,4,1,0,1,Risiko Menengah,India
+63,10,1,1,0,1,Risiko Menengah,Singapore
+57,110,2,1,0,1,Risiko Menengah,China
+63,25,2,1,2,0,Risiko Rendah,Malaysia
+49,24,3,1,3,0,Risiko Rendah,Malaysia
+45,8,1,1,3,0,Risiko Rendah,India
+67,25,1,1,0,1,Risiko Menengah,Malaysia
+54,9,14,1,3,0,Risiko Rendah,China
+59,14,41,1,1,1,Risiko Menengah,India
+51,40,15,1,1,1,Risiko Menengah,Vietnam
+46,10,1,1,1,1,Risiko Menengah,India
+64,40,5,1,0,1,Risiko Menengah,Thailand
+68,10,1,1,3,0,Risiko Rendah,South Korea
+47,8,2,0,1,2,Risiko Tinggi,Malaysia
+52,38,4,1,0,1,Risiko Menengah,Indonesia
+69,18,1,1,0,1,Risiko Menengah,Indonesia
+59,12,1,1,0,1,Risiko Menengah,Singapore
+65,30,6,1,0,1,Risiko Menengah,Japan
+56,23,1,1,1,1,Risiko Menengah,Philippines
+45,70,8,1,1,1,Risiko Menengah,Indonesia
+48,15,2,0,1,2,Risiko Tinggi,South Korea
+43,36,2,1,0,1,Risiko Menengah,Thailand
+67,26,1,1,1,1,Risiko Menengah,Malaysia
+65,25,1,1,0,1,Risiko Menengah,Singapore
+57,25,12,1,1,1,Risiko Menengah,Indonesia
+48,15,1,1,3,0,Risiko Rendah,Singapore
+45,6,1,1,0,1,Risiko Menengah,Malaysia
+64,14,1,1,0,1,Risiko Menengah,Philippines
+65,19,2,1,0,1,Risiko Menengah,Vietnam
+53,8,1,1,0,1,Risiko Menengah,China
+63,17,2,1,0,1,Risiko Menengah,Malaysia
+60,35,1,1,0,1,Risiko Menengah,Thailand
+45,70,6,1,1,1,Risiko Menengah,India
+51,15,1,1,0,1,Risiko Menengah,Philippines
+54,50,11,0,0,2,Risiko Tinggi,India
+54,14,1,1,3,0,Risiko Rendah,India
+49,21,2,1,0,1,Risiko Menengah,Malaysia
+49,30,1,1,0,1,Risiko Menengah,China
+41,30,1,1,3,0,Risiko Rendah,South Korea
+51,20,2,1,0,1,Risiko Menengah,Thailand
+68,34,1,1,3,0,Risiko Rendah,Thailand
+44,14,1,1,1,1,Risiko Menengah,Singapore
+68,25,9,1,1,1,Risiko Menengah,Thailand
+67,18,1,1,0,1,Risiko Menengah,South Korea
+62,101,6,0,0,2,Risiko Tinggi,Singapore
+45,20,3,1,0,1,Risiko Menengah,Thailand
+46,35,1,1,1,1,Risiko Menengah,Vietnam
+48,20,1,1,3,0,Risiko Rendah,China
+61,16,1,1,0,1,Risiko Menengah,Malaysia
+52,75,1,1,3,0,Risiko Rendah,Thailand
+48,70,1,1,0,1,Risiko Menengah,Thailand
+61,29,1,0,1,2,Risiko Tinggi,Thailand
+47,84,1,1,0,1,Risiko Menengah,Vietnam
+54,22,3,1,0,1,Risiko Menengah,China
+55,90,1,0,0,2,Risiko Tinggi,Indonesia
+48,20,2,1,0,1,Risiko Menengah,Malaysia
+47,45,9,1,0,1,Risiko Menengah,China
+62,22,2,1,0,1,Risiko Menengah,South Korea
+51,37,1,1,0,1,Risiko Menengah,Vietnam
+49,50,1,1,0,1,Risiko Menengah,China
+46,22,1,1,0,1,Risiko Menengah,Malaysia
+56,25,4,1,0,1,Risiko Menengah,India
+35,10,1,1,1,1,Risiko Menengah,Singapore
+66,40,2,1,3,0,Risiko Rendah,Singapore
+47,32,12,0,1,2,Risiko Tinggi,Malaysia
+63,60,3,1,1,1,Risiko Menengah,Singapore
+41,100,2,1,0,1,Risiko Menengah,Singapore
+46,55,16,1,3,0,Risiko Rendah,India
+68,60,12,0,0,2,Risiko Tinggi,Japan
+49,11,5,1,0,1,Risiko Menengah,Vietnam
+61,70,16,1,0,1,Risiko Menengah,South Korea
+43,20,4,1,0,1,Risiko Menengah,Malaysia
+50,55,1,1,2,0,Risiko Rendah,China
+54,19,1,1,3,0,Risiko Rendah,India
+42,17,3,1,0,1,Risiko Menengah,South Korea
+68,90,5,1,0,1,Risiko Menengah,Japan
+48,35,1,1,0,1,Risiko Menengah,India
+49,17,1,1,3,0,Risiko Rendah,Vietnam
+46,35,1,1,0,1,Risiko Menengah,Philippines
+38,27,2,1,1,1,Risiko Menengah,Japan
+63,26,2,1,0,1,Risiko Menengah,India
+65,23,2,1,0,1,Risiko Menengah,Philippines
+46,19,4,0,1,2,Risiko Tinggi,Singapore
+59,35,2,1,0,1,Risiko Menengah,Thailand
+61,50,4,0,0,2,Risiko Tinggi,Indonesia
+47,12,1,1,3,0,Risiko Rendah,Japan
+58,11,2,1,0,1,Risiko Menengah,Thailand
+55,15,4,1,1,1,Risiko Menengah,Philippines
+48,39,1,1,1,1,Risiko Menengah,Philippines
+50,60,1,1,3,0,Risiko Rendah,Singapore
+59,11,1,1,0,1,Risiko Menengah,Vietnam
+50,90,9,1,3,0,Risiko Rendah,South Korea
+47,27,3,1,0,1,Risiko Menengah,India
+58,14,1,1,0,1,Risiko Menengah,Malaysia
+51,25,2,1,1,1,Risiko Menengah,Indonesia
+67,19,1,1,0,1,Risiko Menengah,South Korea
+44,50,8,1,0,1,Risiko Menengah,Malaysia
+48,60,4,1,0,1,Risiko Menengah,Vietnam
+56,11,1,1,0,1,Risiko Menengah,Singapore
+48,90,2,1,3,0,Risiko Rendah,Japan
+55,65,1,0,0,2,Risiko Tinggi,Japan
+45,11,9,1,3,0,Risiko Rendah,Vietnam
+51,30,9,1,0,1,Risiko Menengah,Singapore
+60,30,3,1,0,1,Risiko Menengah,Malaysia
+52,95,15,1,0,1,Risiko Menengah,Malaysia
+62,50,12,1,0,1,Risiko Menengah,Philippines
+69,12,3,1,1,1,Risiko Menengah,China
+38,55,18,1,1,1,Risiko Menengah,Malaysia
+57,28,1,1,1,1,Risiko Menengah,Philippines
+53,100,1,1,3,0,Risiko Rendah,Malaysia
+49,22,2,1,0,1,Risiko Menengah,Indonesia
+58,20,17,1,0,1,Risiko Menengah,South Korea
+44,35,3,0,0,2,Risiko Tinggi,Singapore
+33,20,26,0,1,2,Risiko Tinggi,China
+46,4,4,1,0,1,Risiko Menengah,South Korea
+68,12,1,1,1,1,Risiko Menengah,China
+53,17,3,0,1,2,Risiko Tinggi,Philippines
+49,20,4,1,0,1,Risiko Menengah,Japan
+57,25,4,1,0,1,Risiko Menengah,India
+53,40,28,0,1,2,Risiko Tinggi,Philippines
+67,25,1,1,0,1,Risiko Menengah,India
+47,15,6,1,1,1,Risiko Menengah,China
+50,50,4,1,0,1,Risiko Menengah,Indonesia
+60,30,1,1,0,1,Risiko Menengah,Singapore
+48,30,1,1,3,0,Risiko Rendah,China
+42,24,1,1,0,1,Risiko Menengah,China
+56,75,1,1,1,1,Risiko Menengah,China
+56,19,6,1,1,1,Risiko Menengah,India
+55,15,4,1,0,1,Risiko Menengah,Philippines
+46,55,3,1,0,1,Risiko Menengah,India
+43,92,6,1,0,1,Risiko Menengah,India
+52,12,3,1,0,1,Risiko Menengah,Malaysia
+64,14,2,0,0,2,Risiko Tinggi,China
+54,40,2,1,0,1,Risiko Menengah,Singapore
+40,14,4,1,1,1,Risiko Menengah,Malaysia
+58,35,4,1,0,1,Risiko Menengah,Vietnam
+62,25,6,1,0,1,Risiko Menengah,Indonesia
+67,17,2,1,0,1,Risiko Menengah,Thailand
+66,60,6,0,1,2,Risiko Tinggi,China
+68,22,2,1,0,1,Risiko Menengah,India
+58,30,1,0,1,2,Risiko Tinggi,Philippines
+54,12,6,1,0,1,Risiko Menengah,China
+69,55,2,1,0,1,Risiko Menengah,Philippines
+56,16,2,1,0,1,Risiko Menengah,Singapore
+61,60,13,1,1,1,Risiko Menengah,Singapore
+42,18,1,1,0,1,Risiko Menengah,Thailand
+38,30,3,1,1,1,Risiko Menengah,South Korea
+57,15,2,1,3,0,Risiko Rendah,Malaysia
+39,45,18,0,1,2,Risiko Tinggi,Philippines
+66,13,7,1,3,0,Risiko Rendah,Japan
+59,40,4,1,1,1,Risiko Menengah,Philippines
+31,30,10,1,1,1,Risiko Menengah,Japan
+46,20,1,0,0,2,Risiko Tinggi,Japan
+53,20,1,1,1,1,Risiko Menengah,South Korea
+49,12,1,0,3,2,Risiko Tinggi,Vietnam
+68,12,1,1,0,1,Risiko Menengah,Philippines
+45,11,2,1,1,1,Risiko Menengah,South Korea
+63,22,2,1,0,1,Risiko Menengah,Philippines
+41,22,1,1,0,1,Risiko Menengah,India
+61,12,2,1,0,1,Risiko Menengah,Singapore
+69,55,10,1,3,0,Risiko Rendah,Japan
+56,20,1,0,0,2,Risiko Tinggi,Vietnam
+45,4,2,1,0,1,Risiko Menengah,Vietnam
+37,50,2,1,0,1,Risiko Menengah,Thailand
+62,25,2,1,0,1,Risiko Menengah,India
+69,130,12,1,1,1,Risiko Menengah,Indonesia
+44,75,5,0,1,2,Risiko Tinggi,Indonesia
+54,11,2,1,1,1,Risiko Menengah,Japan
+53,33,1,1,0,1,Risiko Menengah,India
+60,32,3,1,0,1,Risiko Menengah,Singapore
+45,24,14,1,0,1,Risiko Menengah,Indonesia
+42,35,1,1,1,1,Risiko Menengah,Philippines
+47,21,3,1,0,1,Risiko Menengah,China
+48,21,7,1,0,1,Risiko Menengah,Thailand
+49,25,2,1,0,1,Risiko Menengah,Vietnam
+51,24,4,1,0,1,Risiko Menengah,Japan
+51,19,12,1,1,1,Risiko Menengah,Vietnam
+55,22,4,1,1,1,Risiko Menengah,South Korea
+64,60,3,0,1,2,Risiko Tinggi,India
+64,12,3,1,3,0,Risiko Rendah,China
+58,16,5,1,0,1,Risiko Menengah,South Korea
+69,85,1,1,0,1,Risiko Menengah,India
+69,12,1,1,0,1,Risiko Menengah,Philippines
+61,60,1,1,3,0,Risiko Rendah,South Korea
+52,17,17,0,1,2,Risiko Tinggi,Malaysia
+54,83,21,1,1,1,Risiko Menengah,Vietnam
+64,20,1,1,3,0,Risiko Rendah,China
+45,20,2,0,1,2,Risiko Tinggi,Vietnam
+37,35,18,1,1,1,Risiko Menengah,Thailand
+56,50,5,1,0,1,Risiko Menengah,Philippines
+54,10,4,1,0,1,Risiko Menengah,China
+55,39,5,1,0,1,Risiko Menengah,Philippines
+56,18,20,1,0,1,Risiko Menengah,Singapore
+58,76,3,1,0,1,Risiko Menengah,Malaysia
+44,25,1,1,1,1,Risiko Menengah,Thailand
+51,9,1,1,3,0,Risiko Rendah,Japan
+55,9,2,0,0,2,Risiko Tinggi,China
+57,4,1,1,0,1,Risiko Menengah,Singapore
+50,33,4,0,1,2,Risiko Tinggi,Vietnam
+66,9,1,1,3,0,Risiko Rendah,South Korea
+62,15,1,1,0,1,Risiko Menengah,India
+62,23,9,1,0,1,Risiko Menengah,Singapore
+62,12,1,0,1,2,Risiko Tinggi,Vietnam
+49,18,2,1,0,1,Risiko Menengah,Singapore
+49,70,14,0,1,2,Risiko Tinggi,South Korea
+55,16,1,1,3,0,Risiko Rendah,Singapore
+38,97,5,0,1,2,Risiko Tinggi,Indonesia
+63,35,1,1,3,0,Risiko Rendah,Thailand
+47,17,5,1,0,1,Risiko Menengah,Vietnam
+65,2,1,0,1,2,Risiko Tinggi,Vietnam
+63,20,1,1,1,1,Risiko Menengah,Philippines
+32,8,1,1,0,1,Risiko Menengah,India
+48,19,1,1,3,0,Risiko Rendah,Philippines
+60,15,1,1,0,1,Risiko Menengah,China
+45,27,3,1,1,1,Risiko Menengah,South Korea
+55,18,7,0,0,2,Risiko Tinggi,South Korea
+42,25,6,1,0,1,Risiko Menengah,India
+67,23,2,1,0,1,Risiko Menengah,Vietnam
+66,17,1,1,3,0,Risiko Rendah,Vietnam
+44,11,1,1,3,0,Risiko Rendah,South Korea
+59,24,1,1,0,1,Risiko Menengah,Indonesia
+68,25,1,1,1,1,Risiko Menengah,Indonesia
+44,20,1,1,0,1,Risiko Menengah,South Korea
+49,12,1,0,0,2,Risiko Tinggi,Indonesia
+63,12,5,1,0,1,Risiko Menengah,Thailand
+63,35,1,1,3,0,Risiko Rendah,Singapore
+60,60,6,1,0,1,Risiko Menengah,Philippines
+49,22,3,1,3,0,Risiko Rendah,Indonesia
+46,30,2,1,0,1,Risiko Menengah,Malaysia
+62,15,1,1,3,0,Risiko Rendah,Japan
+50,22,1,1,1,1,Risiko Menengah,Japan
+48,23,1,1,0,1,Risiko Menengah,Singapore
+60,35,4,1,1,1,Risiko Menengah,China
+55,18,1,1,0,1,Risiko Menengah,Indonesia
+66,30,1,1,0,1,Risiko Menengah,Indonesia
+59,25,5,1,0,1,Risiko Menengah,Philippines
+69,12,1,0,0,2,Risiko Tinggi,Singapore
+57,18,1,1,2,0,Risiko Rendah,India
+45,75,2,1,0,1,Risiko Menengah,Indonesia
+55,15,3,1,0,1,Risiko Menengah,Japan
+36,24,5,1,0,1,Risiko Menengah,Thailand
+46,15,2,1,3,0,Risiko Rendah,South Korea
+67,60,4,1,1,1,Risiko Menengah,Malaysia
+59,45,1,1,0,1,Risiko Menengah,China
+50,13,1,1,0,1,Risiko Menengah,South Korea
+60,45,1,0,3,2,Risiko Tinggi,India
+63,21,1,1,0,1,Risiko Menengah,Japan
+50,11,6,0,0,2,Risiko Tinggi,Singapore
+64,30,8,1,1,1,Risiko Menengah,Thailand
+55,29,10,0,1,2,Risiko Tinggi,Philippines
+47,14,1,1,0,1,Risiko Menengah,Indonesia
+64,60,28,1,1,1,Risiko Menengah,Malaysia
+64,68,3,1,0,1,Risiko Menengah,Singapore
+50,30,4,1,0,1,Risiko Menengah,India
+46,7,1,1,0,1,Risiko Menengah,Philippines
+61,16,2,1,0,1,Risiko Menengah,Malaysia
+61,6,2,1,0,1,Risiko Menengah,Indonesia
+69,20,2,1,0,1,Risiko Menengah,Singapore
+69,10,4,1,0,1,Risiko Menengah,Thailand
+48,17,1,1,0,1,Risiko Menengah,India
+42,30,3,1,0,1,Risiko Menengah,China
+45,1,1,1,0,1,Risiko Menengah,Malaysia
+43,18,4,1,1,1,Risiko Menengah,Philippines
+59,12,3,1,0,1,Risiko Menengah,Indonesia
+62,16,2,1,3,0,Risiko Rendah,South Korea
+62,7,1,1,3,0,Risiko Rendah,China
+38,2,2,0,1,2,Risiko Tinggi,Philippines
+69,21,1,1,0,1,Risiko Menengah,Singapore
+42,115,4,1,3,0,Risiko Rendah,India
+59,24,2,1,0,1,Risiko Menengah,Vietnam
+66,15,1,1,0,1,Risiko Menengah,Malaysia
+63,40,4,0,1,2,Risiko Tinggi,Malaysia
+56,24,2,1,0,1,Risiko Menengah,China
+37,29,5,1,0,1,Risiko Menengah,Vietnam
+50,55,10,0,0,2,Risiko Tinggi,Indonesia
+52,6,1,0,0,2,Risiko Tinggi,Japan
+54,20,2,1,0,1,Risiko Menengah,Malaysia
+58,12,1,1,1,1,Risiko Menengah,Vietnam
+42,30,5,1,0,1,Risiko Menengah,Japan
+59,30,2,1,3,0,Risiko Rendah,South Korea
+56,24,1,0,0,2,Risiko Tinggi,China
+50,70,3,1,3,0,Risiko Rendah,Japan
+42,30,2,1,0,1,Risiko Menengah,Japan
+47,31,1,1,1,1,Risiko Menengah,Thailand
+45,10,1,0,0,2,Risiko Tinggi,China
+41,15,1,1,0,1,Risiko Menengah,Malaysia
+47,15,2,1,0,1,Risiko Menengah,South Korea
+56,12,1,1,0,1,Risiko Menengah,Singapore
+51,40,14,1,1,1,Risiko Menengah,India
+45,34,4,1,0,1,Risiko Menengah,Thailand
+43,20,5,1,1,1,Risiko Menengah,Malaysia
+54,30,10,0,1,2,Risiko Tinggi,Singapore
+65,9,1,1,0,1,Risiko Menengah,South Korea
+48,35,6,1,0,1,Risiko Menengah,Thailand
+49,13,1,1,0,1,Risiko Menengah,Thailand
+51,21,1,1,1,1,Risiko Menengah,Philippines
+52,12,1,1,1,1,Risiko Menengah,Singapore
+54,51,5,1,0,1,Risiko Menengah,Singapore
+41,31,1,1,0,1,Risiko Menengah,China
+63,60,2,0,1,2,Risiko Tinggi,Singapore
+54,25,11,1,0,1,Risiko Menengah,South Korea
+69,28,1,1,0,1,Risiko Menengah,Indonesia
+64,10,1,1,0,1,Risiko Menengah,India
+69,30,11,0,1,2,Risiko Tinggi,Japan
+66,23,11,1,0,1,Risiko Menengah,Philippines
+64,11,1,1,0,1,Risiko Menengah,India
+46,100,5,0,1,2,Risiko Tinggi,Malaysia
+50,28,2,1,3,0,Risiko Rendah,Indonesia
+46,45,2,0,0,2,Risiko Tinggi,Philippines
+60,10,3,1,0,1,Risiko Menengah,Singapore
+39,73,6,0,0,2,Risiko Tinggi,Philippines
+60,11,5,0,1,2,Risiko Tinggi,Japan
+48,30,2,1,1,1,Risiko Menengah,Indonesia
+51,12,4,0,0,2,Risiko Tinggi,Indonesia
+55,17,3,1,0,1,Risiko Menengah,India
+62,38,16,1,1,1,Risiko Menengah,Japan
+56,28,5,1,1,1,Risiko Menengah,China
+36,15,1,1,0,1,Risiko Menengah,Philippines
+65,17,4,1,0,1,Risiko Menengah,Vietnam
+58,46,9,1,0,1,Risiko Menengah,Singapore
+62,25,2,1,0,1,Risiko Menengah,Malaysia
+52,25,19,0,1,2,Risiko Tinggi,Japan
+66,15,2,1,0,1,Risiko Menengah,Vietnam
+56,20,2,1,3,0,Risiko Rendah,Thailand
+54,15,1,1,0,1,Risiko Menengah,India
+56,40,1,1,0,1,Risiko Menengah,Thailand
+62,40,7,1,1,1,Risiko Menengah,China
+54,25,1,1,1,1,Risiko Menengah,Indonesia
+65,85,1,0,0,2,Risiko Tinggi,Malaysia
+59,33,3,1,3,0,Risiko Rendah,South Korea
+51,16,5,0,1,2,Risiko Tinggi,South Korea
+65,25,5,1,1,1,Risiko Menengah,Indonesia
+54,120,10,1,1,1,Risiko Menengah,Japan
+57,60,9,1,0,1,Risiko Menengah,Thailand
+60,17,5,1,3,0,Risiko Rendah,Singapore
+60,16,1,0,0,2,Risiko Tinggi,Singapore
+48,30,5,1,1,1,Risiko Menengah,China
+53,13,1,1,1,1,Risiko Menengah,India
+48,15,3,1,0,1,Risiko Menengah,Vietnam
+68,18,2,1,0,1,Risiko Menengah,Thailand
+49,20,5,1,0,1,Risiko Menengah,China
+54,24,3,1,1,1,Risiko Menengah,India
+49,56,1,1,0,1,Risiko Menengah,South Korea
+55,25,1,1,0,1,Risiko Menengah,Philippines
+46,28,2,1,3,0,Risiko Rendah,China
+41,45,1,1,1,1,Risiko Menengah,South Korea
+53,29,2,1,0,1,Risiko Menengah,India
+52,15,1,1,0,1,Risiko Menengah,Vietnam
+55,45,7,1,0,1,Risiko Menengah,Vietnam
+63,13,6,1,0,1,Risiko Menengah,Thailand
+53,21,2,1,0,1,Risiko Menengah,China
+66,45,15,1,3,0,Risiko Rendah,Vietnam
+56,19,2,1,0,1,Risiko Menengah,Indonesia
+58,45,3,0,0,2,Risiko Tinggi,Indonesia
+50,27,15,0,1,2,Risiko Tinggi,Singapore
+52,23,1,1,3,0,Risiko Rendah,Vietnam
+56,30,2,1,0,1,Risiko Menengah,Malaysia
+53,40,1,1,1,1,Risiko Menengah,Vietnam
+47,80,6,1,3,0,Risiko Rendah,Indonesia
+52,40,13,1,3,0,Risiko Rendah,Malaysia
+55,15,9,1,0,1,Risiko Menengah,South Korea
+62,25,2,1,0,1,Risiko Menengah,Malaysia
+51,12,2,0,0,2,Risiko Tinggi,Japan
+63,20,3,0,3,2,Risiko Tinggi,Malaysia
+47,37,2,1,0,1,Risiko Menengah,Thailand
+50,21,3,1,0,1,Risiko Menengah,Thailand
+60,17,2,1,0,1,Risiko Menengah,Philippines
+61,37,2,0,3,2,Risiko Tinggi,Indonesia
+67,19,1,1,0,1,Risiko Menengah,Singapore
+59,8,1,1,3,0,Risiko Rendah,India
+66,17,1,0,0,2,Risiko Tinggi,South Korea
+44,35,1,0,1,2,Risiko Tinggi,China
+44,40,21,0,1,2,Risiko Tinggi,Vietnam
+56,11,1,1,0,1,Risiko Menengah,Japan
+38,47,3,0,1,2,Risiko Tinggi,Singapore
+49,21,2,1,0,1,Risiko Menengah,South Korea
+57,18,1,1,1,1,Risiko Menengah,South Korea
+59,22,1,0,1,2,Risiko Tinggi,Philippines
+49,20,2,0,1,2,Risiko Tinggi,China
+48,55,5,1,0,1,Risiko Menengah,South Korea
+51,25,1,0,0,2,Risiko Tinggi,Vietnam
+54,11,1,1,3,0,Risiko Rendah,South Korea
+59,12,1,1,3,0,Risiko Rendah,China
+56,14,3,1,0,1,Risiko Menengah,China
+52,42,18,1,0,1,Risiko Menengah,Vietnam
+49,9,2,1,0,1,Risiko Menengah,Singapore
+55,25,5,0,0,2,Risiko Tinggi,Thailand
+60,35,5,1,1,1,Risiko Menengah,Singapore
+63,40,1,1,3,0,Risiko Rendah,South Korea
+58,90,4,1,1,1,Risiko Menengah,Vietnam
+39,20,3,0,1,2,Risiko Tinggi,China
+62,45,8,0,0,2,Risiko Tinggi,Singapore
+60,30,3,1,3,0,Risiko Rendah,Thailand
+45,35,7,1,0,1,Risiko Menengah,Japan
+45,62,26,1,0,1,Risiko Menengah,India
+62,12,1,1,3,0,Risiko Rendah,Singapore
+65,8,1,1,3,0,Risiko Rendah,China
+68,56,1,1,0,1,Risiko Menengah,Vietnam
+43,15,6,1,0,1,Risiko Menengah,Philippines
+36,29,2,1,1,1,Risiko Menengah,India
+63,66,6,1,1,1,Risiko Menengah,China
+36,11,6,1,0,1,Risiko Menengah,Singapore
+47,50,7,1,0,1,Risiko Menengah,South Korea
+51,35,2,1,3,0,Risiko Rendah,Philippines
+61,45,3,1,0,1,Risiko Menengah,Malaysia
+66,65,2,0,0,2,Risiko Tinggi,Malaysia
+47,50,4,1,0,1,Risiko Menengah,Singapore
+41,17,1,1,0,1,Risiko Menengah,India
+48,38,1,1,1,1,Risiko Menengah,Thailand
+45,20,2,1,0,1,Risiko Menengah,India
+67,42,1,1,0,1,Risiko Menengah,Philippines
+58,60,5,1,0,1,Risiko Menengah,Philippines
+50,5,2,1,1,1,Risiko Menengah,Malaysia
+47,35,2,1,1,1,Risiko Menengah,Philippines
+59,24,2,1,1,1,Risiko Menengah,Japan
+67,12,1,1,1,1,Risiko Menengah,Japan
+63,29,10,1,1,1,Risiko Menengah,Philippines
+62,7,1,1,0,1,Risiko Menengah,Malaysia
+52,35,4,1,0,1,Risiko Menengah,Vietnam
+65,15,1,1,3,0,Risiko Rendah,Philippines
+35,85,2,1,0,1,Risiko Menengah,China
+51,12,5,1,0,1,Risiko Menengah,South Korea
+54,35,2,1,1,1,Risiko Menengah,Malaysia
+44,22,1,1,0,1,Risiko Menengah,Philippines
+57,25,3,1,3,0,Risiko Rendah,India
+57,35,4,1,0,1,Risiko Menengah,Malaysia
+36,80,1,0,1,2,Risiko Tinggi,South Korea
+45,15,6,1,0,1,Risiko Menengah,Singapore
+50,30,10,1,1,1,Risiko Menengah,South Korea
+43,39,1,1,0,1,Risiko Menengah,India
+36,40,2,1,0,1,Risiko Menengah,Vietnam
+54,60,5,1,1,1,Risiko Menengah,Thailand
+65,32,1,1,3,0,Risiko Rendah,Japan
+41,28,4,1,1,1,Risiko Menengah,Singapore
+65,15,6,0,0,2,Risiko Tinggi,Malaysia
+59,25,16,1,1,1,Risiko Menengah,India
+61,40,11,1,0,1,Risiko Menengah,Thailand
+45,13,1,1,1,1,Risiko Menengah,Japan
+69,74,1,1,0,1,Risiko Menengah,Malaysia
+54,35,7,1,1,1,Risiko Menengah,South Korea
+50,18,11,0,0,2,Risiko Tinggi,India
+53,25,3,1,0,1,Risiko Menengah,Philippines
+50,38,3,0,1,2,Risiko Tinggi,Singapore
+67,22,8,0,0,2,Risiko Tinggi,Thailand
+43,20,1,1,0,1,Risiko Menengah,Thailand
+39,7,1,1,0,1,Risiko Menengah,Thailand
+45,13,1,1,3,0,Risiko Rendah,Philippines
+46,15,1,1,0,1,Risiko Menengah,Thailand
+65,33,1,1,1,1,Risiko Menengah,Malaysia
+42,80,11,1,0,1,Risiko Menengah,China
+68,6,1,0,0,2,Risiko Tinggi,Indonesia
+69,30,1,1,0,1,Risiko Menengah,Japan
+47,22,12,1,1,1,Risiko Menengah,Singapore
+48,34,5,1,1,1,Risiko Menengah,Thailand
+48,27,1,1,1,1,Risiko Menengah,China
+51,10,1,1,0,1,Risiko Menengah,Philippines
+68,60,4,1,1,1,Risiko Menengah,South Korea
+48,34,1,1,0,1,Risiko Menengah,Philippines
+35,28,4,1,1,1,Risiko Menengah,Philippines
+49,13,2,1,0,1,Risiko Menengah,Malaysia
+60,17,3,1,3,0,Risiko Rendah,Philippines
+64,15,1,0,3,2,Risiko Tinggi,India
+55,20,6,1,0,1,Risiko Menengah,Vietnam
+52,18,3,1,0,1,Risiko Menengah,Japan
+60,75,28,1,0,1,Risiko Menengah,Thailand
+68,26,2,1,0,1,Risiko Menengah,Malaysia
+49,70,2,1,1,1,Risiko Menengah,Vietnam
+45,52,4,0,1,2,Risiko Tinggi,South Korea
+46,14,2,1,0,1,Risiko Menengah,Philippines
+49,25,5,1,3,0,Risiko Rendah,India
+67,50,10,1,1,1,Risiko Menengah,Indonesia
+62,17,1,1,0,1,Risiko Menengah,Philippines
+62,25,4,0,0,2,Risiko Tinggi,Japan
+54,22,1,1,1,1,Risiko Menengah,Japan
+50,18,5,1,1,1,Risiko Menengah,South Korea
+53,20,5,0,1,2,Risiko Tinggi,Thailand
+51,68,4,0,0,2,Risiko Tinggi,Vietnam
+57,5,1,1,1,1,Risiko Menengah,Japan
+48,20,1,1,0,1,Risiko Menengah,India
+53,55,5,1,0,1,Risiko Menengah,Japan
+54,15,1,1,3,0,Risiko Rendah,Vietnam
+49,25,1,1,1,1,Risiko Menengah,China
+66,35,3,1,0,1,Risiko Menengah,South Korea
+65,15,1,1,3,0,Risiko Rendah,Singapore
+55,21,1,1,0,1,Risiko Menengah,Singapore
+49,15,8,0,0,2,Risiko Tinggi,China
+47,35,4,0,1,2,Risiko Tinggi,China
+58,65,11,0,3,2,Risiko Tinggi,Indonesia
+58,25,1,1,0,1,Risiko Menengah,South Korea
+47,65,5,1,0,1,Risiko Menengah,South Korea
+37,40,1,1,1,1,Risiko Menengah,China
+61,14,2,1,0,1,Risiko Menengah,Philippines
+58,12,2,1,3,0,Risiko Rendah,Indonesia
+68,35,1,1,0,1,Risiko Menengah,Thailand
+63,14,1,1,3,0,Risiko Rendah,Malaysia
+57,75,4,1,0,1,Risiko Menengah,Indonesia
+36,90,4,1,1,1,Risiko Menengah,Thailand
+47,16,2,1,1,1,Risiko Menengah,Thailand
+59,120,9,1,0,1,Risiko Menengah,China
+55,15,3,1,3,0,Risiko Rendah,Thailand
+41,55,4,1,0,1,Risiko Menengah,Thailand
+44,35,4,1,0,1,Risiko Menengah,Malaysia
+61,21,3,1,0,1,Risiko Menengah,Malaysia
+49,40,2,0,1,2,Risiko Tinggi,Philippines
+65,19,1,1,3,0,Risiko Rendah,China
+69,18,1,1,3,0,Risiko Rendah,Indonesia
+52,30,2,0,0,2,Risiko Tinggi,Singapore
+64,21,4,1,0,1,Risiko Menengah,India
+69,60,2,0,1,2,Risiko Tinggi,Indonesia
+44,17,1,0,1,2,Risiko Tinggi,Vietnam
+49,77,1,1,0,1,Risiko Menengah,China
+64,20,1,1,0,1,Risiko Menengah,Vietnam
+43,35,14,1,1,1,Risiko Menengah,Vietnam
+55,12,1,1,3,0,Risiko Rendah,Singapore
+51,25,2,1,0,1,Risiko Menengah,Thailand
+39,16,2,1,0,1,Risiko Menengah,Thailand
+37,10,2,1,0,1,Risiko Menengah,Philippines
+61,15,1,1,0,1,Risiko Menengah,Malaysia
+54,24,5,1,0,1,Risiko Menengah,India
+59,34,3,1,0,1,Risiko Menengah,India
+45,125,9,1,0,1,Risiko Menengah,South Korea
+61,45,5,1,1,1,Risiko Menengah,China
+50,57,4,1,0,1,Risiko Menengah,Malaysia
+49,75,1,1,1,1,Risiko Menengah,Vietnam
+40,60,5,1,3,0,Risiko Rendah,Thailand
+48,20,7,1,1,1,Risiko Menengah,Philippines
+49,90,19,0,1,2,Risiko Tinggi,Thailand
+53,14,1,1,3,0,Risiko Rendah,China
+44,4,1,1,3,0,Risiko Rendah,South Korea
+53,60,2,0,1,2,Risiko Tinggi,Thailand
+52,21,2,1,0,1,Risiko Menengah,Indonesia
+53,27,1,1,0,1,Risiko Menengah,Japan
+48,50,1,1,0,1,Risiko Menengah,South Korea
+57,25,1,1,0,1,Risiko Menengah,Indonesia
+44,17,1,1,0,1,Risiko Menengah,India
+59,60,1,1,0,1,Risiko Menengah,Vietnam
+49,19,3,1,0,1,Risiko Menengah,Malaysia
+53,50,1,1,0,1,Risiko Menengah,Thailand
+55,40,12,0,1,2,Risiko Tinggi,Indonesia
+62,10,1,1,1,1,Risiko Menengah,South Korea
+38,30,5,0,1,2,Risiko Tinggi,Malaysia
+56,60,13,0,1,2,Risiko Tinggi,Philippines
+53,70,4,1,0,1,Risiko Menengah,Vietnam
+40,52,9,1,2,0,Risiko Rendah,Singapore
+43,15,1,1,0,1,Risiko Menengah,China
+67,17,8,1,0,1,Risiko Menengah,South Korea
+43,13,1,1,1,1,Risiko Menengah,Thailand
+50,20,1,1,0,1,Risiko Menengah,Thailand
+61,28,5,0,0,2,Risiko Tinggi,South Korea
+62,15,1,0,0,2,Risiko Tinggi,China
+53,9,1,1,0,1,Risiko Menengah,China
+55,30,7,1,1,1,Risiko Menengah,China
+58,11,2,1,0,1,Risiko Menengah,China
+69,15,3,1,1,1,Risiko Menengah,Japan
+52,5,4,1,1,1,Risiko Menengah,Japan
+62,20,4,1,3,0,Risiko Rendah,China
+64,15,2,1,0,1,Risiko Menengah,Vietnam
+68,25,2,1,3,0,Risiko Rendah,China
+48,23,1,1,0,1,Risiko Menengah,Vietnam
+51,18,4,1,0,1,Risiko Menengah,India
+67,30,1,1,0,1,Risiko Menengah,China
+58,25,3,1,0,1,Risiko Menengah,South Korea
+62,38,1,1,3,0,Risiko Rendah,Thailand
+69,60,9,1,1,1,Risiko Menengah,Singapore
+57,37,6,1,0,1,Risiko Menengah,India
+53,100,15,1,1,1,Risiko Menengah,Vietnam
+47,35,1,1,1,1,Risiko Menengah,Philippines
+58,18,2,1,1,1,Risiko Menengah,Thailand
+46,15,1,1,3,0,Risiko Rendah,Singapore
+53,35,7,1,1,1,Risiko Menengah,India
+49,85,4,1,3,0,Risiko Rendah,Malaysia
+65,15,2,0,1,2,Risiko Tinggi,South Korea
+50,26,6,1,0,1,Risiko Menengah,Philippines
+39,35,2,1,0,1,Risiko Menengah,Singapore
+42,80,2,1,0,1,Risiko Menengah,Vietnam
+45,15,1,1,0,1,Risiko Menengah,Japan
+47,25,1,1,3,0,Risiko Rendah,Thailand
+53,20,7,1,1,1,Risiko Menengah,Japan
+55,20,8,1,0,1,Risiko Menengah,Singapore
+63,32,2,0,1,2,Risiko Tinggi,Indonesia
+62,40,3,0,1,2,Risiko Tinggi,Indonesia
+51,35,26,1,0,1,Risiko Menengah,Vietnam
+57,25,3,1,3,0,Risiko Rendah,India
+46,24,1,1,0,1,Risiko Menengah,Thailand
+42,26,1,1,1,1,Risiko Menengah,South Korea
+63,104,1,1,0,1,Risiko Menengah,China
+57,51,17,1,0,1,Risiko Menengah,Vietnam
+52,30,16,1,1,1,Risiko Menengah,South Korea
+56,35,5,1,0,1,Risiko Menengah,Philippines
+58,25,15,1,0,1,Risiko Menengah,Indonesia
+66,16,5,1,0,1,Risiko Menengah,Philippines
+36,16,3,1,0,1,Risiko Menengah,Japan
+36,25,17,1,0,1,Risiko Menengah,South Korea
+55,100,17,1,0,1,Risiko Menengah,India
+44,60,3,1,0,1,Risiko Menengah,Malaysia
+59,52,3,1,0,1,Risiko Menengah,China
+38,23,1,1,0,1,Risiko Menengah,Singapore
+40,16,2,0,0,2,Risiko Tinggi,Thailand
+68,25,3,1,0,1,Risiko Menengah,Thailand
+47,30,2,1,1,1,Risiko Menengah,Indonesia
+57,17,3,1,0,1,Risiko Menengah,Thailand
+42,19,2,1,0,1,Risiko Menengah,Singapore
+43,10,1,1,0,1,Risiko Menengah,Singapore
+52,18,3,1,1,1,Risiko Menengah,Thailand
+65,10,1,1,0,1,Risiko Menengah,Philippines
+57,10,1,1,0,1,Risiko Menengah,Malaysia
+47,12,1,1,0,1,Risiko Menengah,Malaysia
+41,18,2,1,1,1,Risiko Menengah,Vietnam
+51,60,4,1,0,1,Risiko Menengah,Philippines
+60,45,7,1,0,1,Risiko Menengah,South Korea
+53,10,1,1,0,1,Risiko Menengah,Indonesia
+47,25,1,0,0,2,Risiko Tinggi,China
+52,22,1,1,0,1,Risiko Menengah,Malaysia
+63,17,1,0,0,2,Risiko Tinggi,South Korea
+55,15,5,1,0,1,Risiko Menengah,Vietnam
+69,30,16,1,1,1,Risiko Menengah,Malaysia
+40,37,1,1,0,1,Risiko Menengah,Singapore
+44,55,3,1,0,1,Risiko Menengah,Vietnam
+40,65,7,1,0,1,Risiko Menengah,Thailand
+33,75,3,1,0,1,Risiko Menengah,China
+51,14,2,1,1,1,Risiko Menengah,Thailand
+41,11,1,1,0,1,Risiko Menengah,Singapore
+61,52,2,0,1,2,Risiko Tinggi,Japan
+53,27,5,1,1,1,Risiko Menengah,Vietnam
+61,49,5,1,1,1,Risiko Menengah,Japan
+46,46,2,1,1,1,Risiko Menengah,South Korea
+46,22,2,1,0,1,Risiko Menengah,Japan
+42,40,1,1,0,1,Risiko Menengah,Thailand
+44,25,1,1,0,1,Risiko Menengah,Singapore
+44,50,5,1,0,1,Risiko Menengah,Singapore
+52,50,7,0,1,2,Risiko Tinggi,Japan
+63,30,1,1,0,1,Risiko Menengah,South Korea
+56,13,12,0,0,2,Risiko Tinggi,Indonesia
+53,21,19,1,1,1,Risiko Menengah,Vietnam
+43,40,2,0,0,2,Risiko Tinggi,Vietnam
+62,7,1,1,1,1,Risiko Menengah,South Korea
+49,25,5,1,0,1,Risiko Menengah,India
+56,51,3,1,0,1,Risiko Menengah,Philippines
+58,26,1,0,1,2,Risiko Tinggi,Malaysia
+62,20,1,1,1,1,Risiko Menengah,Indonesia
+61,8,1,1,3,0,Risiko Rendah,Thailand
+62,40,7,1,0,1,Risiko Menengah,Philippines
+54,10,1,1,3,0,Risiko Rendah,India
+51,17,1,0,0,2,Risiko Tinggi,Thailand
+52,2,1,1,0,1,Risiko Menengah,Malaysia
+38,63,2,1,0,1,Risiko Menengah,Malaysia
+44,70,6,1,0,1,Risiko Menengah,Indonesia
+59,45,2,1,0,1,Risiko Menengah,China
+52,21,3,1,0,1,Risiko Menengah,Singapore
+48,14,1,1,0,1,Risiko Menengah,Thailand
+34,13,21,1,1,1,Risiko Menengah,India
+67,13,2,1,0,1,Risiko Menengah,Singapore
+47,12,1,1,3,0,Risiko Rendah,South Korea
+62,19,1,1,0,1,Risiko Menengah,Singapore
+49,20,1,1,1,1,Risiko Menengah,Indonesia
+53,27,11,1,1,1,Risiko Menengah,China
+47,100,16,1,0,1,Risiko Menengah,Japan
+54,16,6,1,0,1,Risiko Menengah,China
+46,12,1,1,3,0,Risiko Rendah,India
+54,35,2,1,0,1,Risiko Menengah,Philippines
+48,4,1,1,3,0,Risiko Rendah,Philippines
+57,40,1,1,1,1,Risiko Menengah,South Korea
+49,17,5,1,3,0,Risiko Rendah,China
+48,32,5,1,0,1,Risiko Menengah,India
+50,12,8,1,0,1,Risiko Menengah,Japan
+51,27,1,1,1,1,Risiko Menengah,India
+42,8,1,1,3,0,Risiko Rendah,China
+55,22,1,1,0,1,Risiko Menengah,Thailand
+63,52,3,1,0,1,Risiko Menengah,Vietnam
+62,9,13,0,0,2,Risiko Tinggi,Philippines
+58,18,9,1,1,1,Risiko Menengah,Thailand
+54,15,1,1,0,1,Risiko Menengah,China
+62,13,4,1,0,1,Risiko Menengah,South Korea
+68,20,1,1,0,1,Risiko Menengah,Vietnam
+47,16,1,1,0,1,Risiko Menengah,Indonesia
+52,16,2,1,0,1,Risiko Menengah,Indonesia
+37,25,2,1,0,1,Risiko Menengah,Vietnam
+55,3,1,1,0,1,Risiko Menengah,Singapore
+65,32,4,1,1,1,Risiko Menengah,India
+46,40,19,1,0,1,Risiko Menengah,China
+63,10,9,1,0,1,Risiko Menengah,Malaysia
+62,35,1,1,1,1,Risiko Menengah,Thailand
+65,35,6,1,0,1,Risiko Menengah,Thailand
+68,23,1,1,0,1,Risiko Menengah,Vietnam
+58,47,3,0,3,2,Risiko Tinggi,Singapore
+66,60,11,0,0,2,Risiko Tinggi,Japan
+62,70,9,1,1,1,Risiko Menengah,India
+68,50,4,1,1,1,Risiko Menengah,South Korea
+32,48,6,0,0,2,Risiko Tinggi,Japan
+43,17,3,1,0,1,Risiko Menengah,India
+62,25,1,1,0,1,Risiko Menengah,Japan
+40,25,2,1,0,1,Risiko Menengah,Malaysia
+61,25,6,0,1,2,Risiko Tinggi,Japan
+46,63,3,1,0,1,Risiko Menengah,Malaysia
+48,12,1,1,3,0,Risiko Rendah,Thailand
+64,14,1,1,0,1,Risiko Menengah,Indonesia
+60,12,1,1,0,1,Risiko Menengah,Philippines
+57,14,3,1,0,1,Risiko Menengah,Singapore
+64,83,2,1,0,1,Risiko Menengah,Malaysia
+54,28,3,1,0,1,Risiko Menengah,South Korea
+48,35,1,1,0,1,Risiko Menengah,India
+65,5,2,0,1,2,Risiko Tinggi,India
+35,14,3,0,1,2,Risiko Tinggi,Singapore
+54,25,3,0,0,2,Risiko Tinggi,Malaysia
+54,25,13,0,1,2,Risiko Tinggi,China
+69,12,1,0,0,2,Risiko Tinggi,Malaysia
+44,22,2,1,1,1,Risiko Menengah,Malaysia
+48,60,5,0,0,2,Risiko Tinggi,Vietnam
+69,80,23,1,0,1,Risiko Menengah,China
+55,32,3,1,1,1,Risiko Menengah,Thailand
+49,15,1,0,1,2,Risiko Tinggi,India
+65,63,6,1,3,0,Risiko Rendah,South Korea
+47,17,1,1,3,0,Risiko Rendah,Philippines
+64,62,4,1,0,1,Risiko Menengah,South Korea
+52,16,2,1,0,1,Risiko Menengah,Malaysia
+64,25,1,1,0,1,Risiko Menengah,Philippines
+69,20,1,1,0,1,Risiko Menengah,Vietnam
+48,11,1,1,0,1,Risiko Menengah,Singapore
+65,14,4,0,1,2,Risiko Tinggi,China
+68,50,6,0,0,2,Risiko Tinggi,South Korea
+49,18,1,1,0,1,Risiko Menengah,China
+54,51,1,1,0,1,Risiko Menengah,Japan
+63,12,1,1,0,1,Risiko Menengah,China
+57,7,1,1,0,1,Risiko Menengah,Indonesia
+39,70,3,1,1,1,Risiko Menengah,South Korea
+45,27,5,0,1,2,Risiko Tinggi,Singapore
+54,19,16,0,1,2,Risiko Tinggi,South Korea
+65,37,1,1,1,1,Risiko Menengah,Japan
+51,20,9,1,0,1,Risiko Menengah,Vietnam
+64,25,16,1,0,1,Risiko Menengah,South Korea
+48,23,2,1,0,1,Risiko Menengah,South Korea
+68,11,1,1,0,1,Risiko Menengah,Vietnam
+49,80,11,0,1,2,Risiko Tinggi,China
+57,23,1,1,3,0,Risiko Rendah,Vietnam
+35,50,1,1,1,1,Risiko Menengah,Thailand
+66,90,20,1,1,1,Risiko Menengah,South Korea
+48,80,3,1,3,0,Risiko Rendah,Singapore
+67,5,1,1,0,1,Risiko Menengah,Thailand
+53,20,1,1,0,1,Risiko Menengah,Japan
+66,46,1,0,0,2,Risiko Tinggi,Vietnam
+40,25,4,1,0,1,Risiko Menengah,Malaysia
+59,15,1,1,1,1,Risiko Menengah,Japan
+69,13,1,1,3,0,Risiko Rendah,South Korea
+67,15,1,1,0,1,Risiko Menengah,Philippines
+60,70,1,1,0,1,Risiko Menengah,China
+64,35,1,1,0,1,Risiko Menengah,Japan
+48,11,1,1,0,1,Risiko Menengah,Philippines
+63,16,1,1,1,1,Risiko Menengah,Philippines
+49,30,2,1,0,1,Risiko Menengah,China
+53,18,1,1,0,1,Risiko Menengah,Vietnam
+50,25,1,1,0,1,Risiko Menengah,Thailand
+53,32,1,1,0,1,Risiko Menengah,South Korea
+63,22,1,1,1,1,Risiko Menengah,Singapore
+44,40,1,1,0,1,Risiko Menengah,Thailand
+45,22,30,1,1,1,Risiko Menengah,Indonesia
+51,22,7,1,0,1,Risiko Menengah,Singapore
+54,45,1,1,3,0,Risiko Rendah,Thailand
+47,29,1,1,0,1,Risiko Menengah,India
+56,60,12,1,0,1,Risiko Menengah,Vietnam
+54,60,1,1,0,1,Risiko Menengah,Philippines
+51,11,34,1,3,0,Risiko Rendah,China
+63,18,1,1,0,1,Risiko Menengah,South Korea
+59,18,6,1,0,1,Risiko Menengah,Philippines
+62,16,1,1,1,1,Risiko Menengah,Philippines
+57,25,1,1,1,1,Risiko Menengah,Japan
+50,75,2,1,0,1,Risiko Menengah,China
+51,12,1,1,3,0,Risiko Rendah,Malaysia
+48,25,3,1,1,1,Risiko Menengah,Indonesia
+48,60,2,1,0,1,Risiko Menengah,Indonesia
+54,4,4,0,1,2,Risiko Tinggi,Japan
+46,9,1,1,0,1,Risiko Menengah,Japan
+69,25,2,0,3,2,Risiko Tinggi,South Korea
+39,20,1,0,1,2,Risiko Tinggi,China
+40,60,1,1,0,1,Risiko Menengah,Philippines
+56,42,2,0,1,2,Risiko Tinggi,Japan
+57,40,2,1,1,1,Risiko Menengah,Thailand
+51,13,8,1,0,1,Risiko Menengah,Singapore
+49,14,4,1,0,1,Risiko Menengah,Thailand
+62,25,6,0,3,2,Risiko Tinggi,India
+59,58,10,1,0,1,Risiko Menengah,Malaysia
+53,30,3,1,0,1,Risiko Menengah,Malaysia
+45,54,3,1,1,1,Risiko Menengah,Malaysia
+53,30,1,1,0,1,Risiko Menengah,Singapore
+65,20,10,1,0,1,Risiko Menengah,Philippines
+39,63,2,1,1,1,Risiko Menengah,Vietnam
+48,25,4,1,1,1,Risiko Menengah,Singapore
+53,3,6,1,3,0,Risiko Rendah,Japan
+53,60,2,1,0,1,Risiko Menengah,Indonesia
+67,35,1,1,1,1,Risiko Menengah,Vietnam
+62,15,1,1,0,1,Risiko Menengah,Thailand
+68,40,4,1,0,1,Risiko Menengah,Japan
+38,25,1,1,1,1,Risiko Menengah,Japan
+64,65,21,1,1,1,Risiko Menengah,South Korea
+47,45,1,1,0,1,Risiko Menengah,Malaysia
+63,15,2,0,0,2,Risiko Tinggi,Malaysia
+61,24,1,1,0,1,Risiko Menengah,India
+68,15,2,0,0,2,Risiko Tinggi,Thailand
+58,23,5,1,0,1,Risiko Menengah,Indonesia
+41,30,1,1,1,1,Risiko Menengah,Vietnam
+47,24,2,1,1,1,Risiko Menengah,Indonesia
+56,35,3,1,0,1,Risiko Menengah,South Korea
+56,5,3,0,0,2,Risiko Tinggi,Malaysia
+56,46,2,0,1,2,Risiko Tinggi,Vietnam
+46,50,1,0,1,2,Risiko Tinggi,China
+53,38,3,1,0,1,Risiko Menengah,Malaysia
+45,36,2,1,0,1,Risiko Menengah,Singapore
+66,4,1,0,1,2,Risiko Tinggi,Japan
+61,25,8,1,1,1,Risiko Menengah,Japan
+53,15,1,1,0,1,Risiko Menengah,Singapore
+51,25,2,1,0,1,Risiko Menengah,Vietnam
+68,30,10,0,0,2,Risiko Tinggi,Singapore
+67,35,1,0,0,2,Risiko Tinggi,Singapore
+59,18,1,0,0,2,Risiko Tinggi,Japan
+64,23,1,0,0,2,Risiko Tinggi,China
+57,60,14,0,0,2,Risiko Tinggi,India
+54,11,1,1,3,0,Risiko Rendah,Indonesia
+41,21,1,1,0,1,Risiko Menengah,Vietnam
+49,42,3,1,0,1,Risiko Menengah,Indonesia
+51,30,4,1,0,1,Risiko Menengah,Philippines
+42,37,3,0,1,2,Risiko Tinggi,Philippines
+46,20,5,1,0,1,Risiko Menengah,Thailand
+61,55,19,1,0,1,Risiko Menengah,Singapore
+44,78,1,1,3,0,Risiko Rendah,Japan
+55,45,14,0,1,2,Risiko Tinggi,China
+50,11,2,1,0,1,Risiko Menengah,Philippines
+62,15,11,0,1,2,Risiko Tinggi,Thailand
+62,21,5,1,0,1,Risiko Menengah,Philippines
+46,30,2,1,3,0,Risiko Rendah,Indonesia
+56,36,1,1,0,1,Risiko Menengah,Vietnam
+57,15,14,1,0,1,Risiko Menengah,Vietnam
+47,3,2,1,0,1,Risiko Menengah,Singapore
+42,25,2,1,0,1,Risiko Menengah,Singapore
+56,44,2,1,1,1,Risiko Menengah,Japan
+50,17,15,1,0,1,Risiko Menengah,Indonesia
+43,57,4,1,0,1,Risiko Menengah,Singapore
+46,30,2,1,3,0,Risiko Rendah,Philippines
+46,15,3,1,0,1,Risiko Menengah,South Korea
+60,80,2,1,1,1,Risiko Menengah,Thailand
+44,26,3,0,1,2,Risiko Tinggi,South Korea
+47,25,1,1,0,1,Risiko Menengah,Singapore
+46,80,12,1,0,1,Risiko Menengah,Malaysia
+60,30,5,1,0,1,Risiko Menengah,Philippines
+60,20,3,1,0,1,Risiko Menengah,China
+61,13,34,1,0,1,Risiko Menengah,Philippines
+67,12,1,1,0,1,Risiko Menengah,Malaysia
+61,90,1,1,0,1,Risiko Menengah,China
+43,45,8,1,1,1,Risiko Menengah,Philippines
+66,50,4,1,0,1,Risiko Menengah,South Korea
+51,27,1,1,3,0,Risiko Rendah,Malaysia
+56,30,3,0,0,2,Risiko Tinggi,Japan
+67,15,2,1,0,1,Risiko Menengah,India
+51,12,2,1,0,1,Risiko Menengah,India
+50,60,5,1,0,1,Risiko Menengah,Malaysia
+52,11,1,1,1,1,Risiko Menengah,China
+56,18,2,0,0,2,Risiko Tinggi,China
+61,10,1,1,0,1,Risiko Menengah,India
+53,21,17,1,0,1,Risiko Menengah,India
+63,22,3,1,3,0,Risiko Rendah,Japan
+59,28,9,0,0,2,Risiko Tinggi,Malaysia
+65,65,12,1,0,1,Risiko Menengah,Malaysia
+66,24,1,1,0,1,Risiko Menengah,Indonesia
+57,33,1,1,0,1,Risiko Menengah,Philippines
+44,50,2,1,3,0,Risiko Rendah,Indonesia
+61,51,4,1,3,0,Risiko Rendah,Thailand
+41,5,2,1,3,0,Risiko Rendah,Vietnam
+40,40,8,1,1,1,Risiko Menengah,Thailand
+53,24,4,1,0,1,Risiko Menengah,Japan
+51,25,2,1,0,1,Risiko Menengah,Malaysia
+55,21,1,1,0,1,Risiko Menengah,Vietnam
+50,9,2,1,0,1,Risiko Menengah,Thailand
+60,10,1,1,0,1,Risiko Menengah,South Korea
+55,43,3,1,0,1,Risiko Menengah,India
+58,13,1,1,3,0,Risiko Rendah,Singapore
+41,10,1,1,0,1,Risiko Menengah,South Korea
+50,8,7,1,0,1,Risiko Menengah,India
+59,45,5,1,1,1,Risiko Menengah,Malaysia
+60,14,1,1,3,0,Risiko Rendah,Malaysia
+48,25,2,1,0,1,Risiko Menengah,Singapore
+50,45,8,1,0,1,Risiko Menengah,China
+67,18,1,1,0,1,Risiko Menengah,Thailand
+62,21,1,1,0,1,Risiko Menengah,Malaysia
+65,25,1,1,3,0,Risiko Rendah,Singapore
+54,20,1,1,0,1,Risiko Menengah,South Korea
+61,30,11,1,0,1,Risiko Menengah,Thailand
+49,35,3,1,0,1,Risiko Menengah,Malaysia
+54,44,2,1,0,1,Risiko Menengah,Indonesia
+59,47,1,1,1,1,Risiko Menengah,Thailand
+48,20,2,1,1,1,Risiko Menengah,South Korea
+42,55,5,1,0,1,Risiko Menengah,Japan
+64,6,2,1,0,1,Risiko Menengah,Philippines
+59,13,2,1,3,0,Risiko Rendah,Thailand
+53,12,1,1,1,1,Risiko Menengah,Singapore
+51,25,2,0,1,2,Risiko Tinggi,Japan
+34,35,5,1,1,1,Risiko Menengah,India
+49,50,12,0,1,2,Risiko Tinggi,Singapore
+56,17,1,0,0,2,Risiko Tinggi,Philippines
+53,33,2,0,1,2,Risiko Tinggi,Malaysia
+59,20,6,1,0,1,Risiko Menengah,South Korea
+55,13,3,0,3,2,Risiko Tinggi,Thailand
+43,59,10,1,2,0,Risiko Rendah,China
+69,42,2,1,0,1,Risiko Menengah,China
+49,3,1,1,0,1,Risiko Menengah,Thailand
+57,16,1,1,0,1,Risiko Menengah,South Korea
+48,60,13,1,1,1,Risiko Menengah,Thailand
+64,14,1,0,1,2,Risiko Tinggi,Singapore
+59,15,1,1,0,1,Risiko Menengah,Malaysia
+64,34,7,1,3,0,Risiko Rendah,Philippines
+43,11,9,1,0,1,Risiko Menengah,South Korea
+49,27,22,1,3,0,Risiko Rendah,South Korea
+41,35,12,1,1,1,Risiko Menengah,China
+58,35,3,1,3,0,Risiko Rendah,Malaysia
+48,10,4,1,0,1,Risiko Menengah,South Korea
+40,22,1,1,3,0,Risiko Rendah,China
+55,16,1,1,0,1,Risiko Menengah,Philippines
+47,20,7,1,0,1,Risiko Menengah,Thailand
+63,26,9,1,0,1,Risiko Menengah,South Korea
+63,38,3,1,1,1,Risiko Menengah,Malaysia
+61,28,1,1,0,1,Risiko Menengah,Indonesia
+46,14,1,0,0,2,Risiko Tinggi,Thailand
+50,23,3,1,1,1,Risiko Menengah,India
+65,9,1,1,3,0,Risiko Rendah,China
+52,20,8,0,1,2,Risiko Tinggi,South Korea
+56,20,6,0,1,2,Risiko Tinggi,India
+60,19,5,1,1,1,Risiko Menengah,Malaysia
+46,60,11,0,0,2,Risiko Tinggi,India
+62,70,3,1,0,1,Risiko Menengah,China
+61,40,3,1,0,1,Risiko Menengah,Philippines
+52,60,3,0,1,2,Risiko Tinggi,China
+49,20,5,1,1,1,Risiko Menengah,Japan
+67,12,2,0,0,2,Risiko Tinggi,Philippines
+50,25,3,1,3,0,Risiko Rendah,Vietnam
+54,35,7,1,0,1,Risiko Menengah,Malaysia
+69,40,3,1,0,1,Risiko Menengah,India
+42,15,1,1,0,1,Risiko Menengah,India
+61,40,16,0,1,2,Risiko Tinggi,Japan
+47,19,1,1,1,1,Risiko Menengah,Thailand
+40,100,1,0,1,2,Risiko Tinggi,South Korea
+65,31,2,1,0,1,Risiko Menengah,Thailand
+52,48,1,1,3,0,Risiko Rendah,India
+48,37,3,1,0,1,Risiko Menengah,Indonesia
+64,20,1,1,1,1,Risiko Menengah,South Korea
+50,28,5,1,0,1,Risiko Menengah,South Korea
+69,26,1,1,1,1,Risiko Menengah,Philippines
+46,16,1,1,0,1,Risiko Menengah,Singapore
+61,21,3,1,0,1,Risiko Menengah,Singapore
+66,25,12,1,1,1,Risiko Menengah,Indonesia
+65,19,1,1,0,1,Risiko Menengah,Malaysia
+41,31,4,1,0,1,Risiko Menengah,Thailand
+50,22,1,1,0,1,Risiko Menengah,India
+68,9,1,1,0,1,Risiko Menengah,India
+49,19,1,1,0,1,Risiko Menengah,Japan
+43,50,6,1,0,1,Risiko Menengah,Malaysia
+50,35,1,1,0,1,Risiko Menengah,South Korea
+58,65,2,1,0,1,Risiko Menengah,Malaysia
+60,22,4,0,1,2,Risiko Tinggi,Singapore
+43,40,2,1,1,1,Risiko Menengah,Indonesia
+43,20,2,1,1,1,Risiko Menengah,India
+53,25,1,1,0,1,Risiko Menengah,South Korea
+42,50,2,1,1,1,Risiko Menengah,Vietnam
+55,55,1,0,0,2,Risiko Tinggi,South Korea
+43,30,1,1,1,1,Risiko Menengah,Malaysia
+40,90,6,1,1,1,Risiko Menengah,China
+69,12,2,0,3,2,Risiko Tinggi,Philippines
+49,35,7,0,0,2,Risiko Tinggi,Malaysia
+59,47,8,1,1,1,Risiko Menengah,Vietnam
+60,30,1,1,0,1,Risiko Menengah,Vietnam
+63,17,3,1,0,1,Risiko Menengah,South Korea
+50,20,1,0,1,2,Risiko Tinggi,India
+59,14,2,1,0,1,Risiko Menengah,South Korea
+56,20,3,1,0,1,Risiko Menengah,Singapore
+66,37,1,1,0,1,Risiko Menengah,India
+61,21,1,1,1,1,Risiko Menengah,Japan
+54,24,1,1,0,1,Risiko Menengah,Indonesia
+51,20,1,0,0,2,Risiko Tinggi,Philippines
+63,18,1,1,0,1,Risiko Menengah,India
+40,15,8,1,1,1,Risiko Menengah,India
+48,25,1,1,0,1,Risiko Menengah,South Korea
+49,35,2,0,1,2,Risiko Tinggi,Singapore
+61,15,1,1,0,1,Risiko Menengah,Philippines
+60,45,2,1,0,1,Risiko Menengah,China
+49,24,1,1,3,0,Risiko Rendah,Vietnam
+52,15,4,1,0,1,Risiko Menengah,Philippines
+59,16,12,0,1,2,Risiko Tinggi,India
+57,24,1,1,1,1,Risiko Menengah,Thailand
+65,11,1,1,0,1,Risiko Menengah,Singapore
+58,7,1,1,3,0,Risiko Rendah,South Korea
+55,60,5,1,3,0,Risiko Rendah,Thailand
+63,27,7,1,3,0,Risiko Rendah,Vietnam
+59,40,11,1,0,1,Risiko Menengah,China
+57,16,2,0,0,2,Risiko Tinggi,South Korea
+61,9,1,1,3,0,Risiko Rendah,Malaysia
+56,32,5,0,1,2,Risiko Tinggi,China
+68,35,6,1,0,1,Risiko Menengah,Thailand
+62,17,1,1,0,1,Risiko Menengah,Philippines
+63,10,1,1,1,1,Risiko Menengah,India
+61,22,5,1,0,1,Risiko Menengah,South Korea
+65,35,2,1,0,1,Risiko Menengah,Vietnam
+63,18,2,1,0,1,Risiko Menengah,Indonesia
+64,35,17,1,0,1,Risiko Menengah,China
+68,15,2,1,0,1,Risiko Menengah,Indonesia
+53,27,2,1,1,1,Risiko Menengah,China
+67,14,2,1,0,1,Risiko Menengah,Thailand
+40,15,1,1,0,1,Risiko Menengah,Japan
+49,27,12,1,1,1,Risiko Menengah,Philippines
+49,32,1,1,1,1,Risiko Menengah,India
+53,25,4,0,1,2,Risiko Tinggi,Singapore
+66,16,2,1,0,1,Risiko Menengah,Malaysia
+52,26,7,1,0,1,Risiko Menengah,Malaysia
+43,20,1,0,0,2,Risiko Tinggi,Indonesia
+60,70,8,1,0,1,Risiko Menengah,China
+40,24,2,1,0,1,Risiko Menengah,Singapore
+46,21,1,1,0,1,Risiko Menengah,Vietnam
+62,30,3,1,0,1,Risiko Menengah,Japan
+50,22,1,1,0,1,Risiko Menengah,Thailand
+66,11,2,1,3,0,Risiko Rendah,Vietnam
+67,18,1,1,1,1,Risiko Menengah,Singapore
+52,90,7,0,0,2,Risiko Tinggi,South Korea
+55,16,3,1,3,0,Risiko Rendah,South Korea
+68,45,4,1,1,1,Risiko Menengah,Singapore
+63,24,8,0,1,2,Risiko Tinggi,Malaysia
+59,30,6,1,0,1,Risiko Menengah,Thailand
+44,32,3,1,1,1,Risiko Menengah,Thailand
+63,42,6,1,1,1,Risiko Menengah,Indonesia
+65,24,4,1,0,1,Risiko Menengah,Indonesia
+55,24,1,1,0,1,Risiko Menengah,Singapore
+61,90,1,1,0,1,Risiko Menengah,South Korea
+59,40,6,1,1,1,Risiko Menengah,Japan
+66,22,3,1,0,1,Risiko Menengah,South Korea
+60,27,1,1,1,1,Risiko Menengah,India
+63,16,1,1,0,1,Risiko Menengah,Vietnam
+49,72,11,0,1,2,Risiko Tinggi,Malaysia
+52,15,1,0,0,2,Risiko Tinggi,Vietnam
+33,40,17,0,1,2,Risiko Tinggi,China
+69,28,1,1,1,1,Risiko Menengah,Indonesia
+51,8,2,1,3,0,Risiko Rendah,Singapore
+48,12,1,1,0,1,Risiko Menengah,Malaysia
+47,15,1,1,1,1,Risiko Menengah,China
+43,55,2,1,0,1,Risiko Menengah,Thailand
+54,16,2,0,2,2,Risiko Tinggi,Philippines
+46,14,3,1,1,1,Risiko Menengah,Thailand
+68,21,1,1,0,1,Risiko Menengah,Malaysia
+62,18,1,0,0,2,Risiko Tinggi,Philippines
+69,18,8,1,0,1,Risiko Menengah,Malaysia
+59,63,2,1,0,1,Risiko Menengah,India
+48,48,6,1,0,1,Risiko Menengah,South Korea
+61,20,1,1,3,0,Risiko Rendah,India
+46,101,9,1,3,0,Risiko Rendah,Indonesia
+51,28,18,0,1,2,Risiko Tinggi,Philippines
+58,40,2,1,0,1,Risiko Menengah,Singapore
+49,15,1,1,1,1,Risiko Menengah,India
+43,11,1,1,0,1,Risiko Menengah,Indonesia
+54,21,13,1,0,1,Risiko Menengah,Malaysia
+46,7,1,1,1,1,Risiko Menengah,Philippines
+47,35,2,1,1,1,Risiko Menengah,Vietnam
+58,22,1,1,0,1,Risiko Menengah,South Korea
+60,18,2,1,3,0,Risiko Rendah,Singapore
+38,34,14,0,1,2,Risiko Tinggi,Malaysia
+47,100,1,1,1,1,Risiko Menengah,China
+58,30,4,1,0,1,Risiko Menengah,Vietnam
+45,18,2,1,0,1,Risiko Menengah,Japan
+46,29,4,1,0,1,Risiko Menengah,Vietnam
+42,45,7,0,1,2,Risiko Tinggi,India
+67,18,1,1,0,1,Risiko Menengah,Philippines
+64,60,2,0,1,2,Risiko Tinggi,Singapore
+67,6,2,1,0,1,Risiko Menengah,Malaysia
+50,30,3,1,0,1,Risiko Menengah,Malaysia
+48,20,1,1,0,1,Risiko Menengah,China
+57,50,3,0,0,2,Risiko Tinggi,Japan
+56,17,1,1,0,1,Risiko Menengah,Japan
+62,30,1,1,3,0,Risiko Rendah,India
+55,25,12,0,1,2,Risiko Tinggi,India
+58,48,21,0,1,2,Risiko Tinggi,China
+57,70,3,1,1,1,Risiko Menengah,Indonesia
+65,55,8,1,0,1,Risiko Menengah,China
+45,13,1,1,2,0,Risiko Rendah,Vietnam
+39,45,1,0,1,2,Risiko Tinggi,Japan
+56,9,3,0,0,2,Risiko Tinggi,Philippines
+51,25,1,1,1,1,Risiko Menengah,Indonesia
+66,47,1,1,0,1,Risiko Menengah,Thailand
+58,80,7,1,0,1,Risiko Menengah,Japan
+57,25,2,1,0,1,Risiko Menengah,India
+60,9,1,1,3,0,Risiko Rendah,India
+48,7,2,1,3,0,Risiko Rendah,Malaysia
+63,80,4,1,0,1,Risiko Menengah,China
+42,9,2,1,3,0,Risiko Rendah,China
+40,53,5,1,0,1,Risiko Menengah,South Korea
+67,30,1,1,0,1,Risiko Menengah,Indonesia
+66,12,3,1,0,1,Risiko Menengah,Philippines
+42,10,1,1,3,0,Risiko Rendah,Singapore
+49,20,1,1,1,1,Risiko Menengah,Japan
+53,40,2,1,3,0,Risiko Rendah,Vietnam
+51,42,33,1,0,1,Risiko Menengah,Vietnam
+48,17,1,1,0,1,Risiko Menengah,South Korea
+67,21,21,1,0,1,Risiko Menengah,Philippines
+50,18,8,1,0,1,Risiko Menengah,Vietnam
+48,35,3,0,0,2,Risiko Tinggi,Singapore
+37,18,1,1,0,1,Risiko Menengah,China
+55,17,2,1,3,0,Risiko Rendah,Singapore
+49,30,4,1,0,1,Risiko Menengah,Malaysia
+63,39,5,1,0,1,Risiko Menengah,Indonesia
+55,18,6,0,0,2,Risiko Tinggi,China
+64,45,1,1,0,1,Risiko Menengah,India
+51,11,2,1,0,1,Risiko Menengah,China
+47,20,2,0,1,2,Risiko Tinggi,China
+64,50,5,1,3,0,Risiko Rendah,China
+42,55,4,1,0,1,Risiko Menengah,Thailand
+50,10,2,1,3,0,Risiko Rendah,Vietnam
+41,13,6,1,0,1,Risiko Menengah,Vietnam
+43,28,1,1,0,1,Risiko Menengah,China
+56,16,2,1,0,1,Risiko Menengah,China
+59,27,15,1,0,1,Risiko Menengah,Japan
+68,15,1,1,0,1,Risiko Menengah,Vietnam
+54,31,9,0,1,2,Risiko Tinggi,Japan
+53,94,5,1,1,1,Risiko Menengah,Indonesia
+63,29,1,1,1,1,Risiko Menengah,India
+58,70,7,1,0,1,Risiko Menengah,Japan
+50,14,5,1,0,1,Risiko Menengah,Thailand
+49,36,1,1,0,1,Risiko Menengah,Vietnam
+57,25,2,1,1,1,Risiko Menengah,Thailand
+56,27,1,0,0,2,Risiko Tinggi,India
+60,30,5,1,0,1,Risiko Menengah,Thailand
+63,40,1,1,0,1,Risiko Menengah,Malaysia
+47,40,4,1,0,1,Risiko Menengah,Thailand
+50,11,2,1,3,0,Risiko Rendah,Japan
+54,36,1,0,0,2,Risiko Tinggi,China
+53,50,3,1,0,1,Risiko Menengah,China
+49,10,1,1,1,1,Risiko Menengah,Malaysia
+46,68,7,1,0,1,Risiko Menengah,Malaysia
+56,35,2,1,0,1,Risiko Menengah,Thailand
+68,32,4,1,1,1,Risiko Menengah,China
+43,14,1,1,0,1,Risiko Menengah,Japan
+46,13,3,1,0,1,Risiko Menengah,India
+62,70,4,1,1,1,Risiko Menengah,Vietnam
+66,23,1,1,0,1,Risiko Menengah,India
+68,19,1,0,3,2,Risiko Tinggi,China
+54,80,6,1,0,1,Risiko Menengah,Singapore
+30,25,3,1,0,1,Risiko Menengah,Indonesia
+62,15,2,1,0,1,Risiko Menengah,Thailand
+48,15,6,0,1,2,Risiko Tinggi,Indonesia
+65,50,3,1,0,1,Risiko Menengah,Vietnam
+51,24,1,1,1,1,Risiko Menengah,South Korea
+65,27,3,1,1,1,Risiko Menengah,China
+67,43,4,0,0,2,Risiko Tinggi,Thailand
+42,15,3,1,1,1,Risiko Menengah,Japan
+68,70,2,1,0,1,Risiko Menengah,Vietnam
+32,20,6,1,0,1,Risiko Menengah,China
+53,28,4,1,1,1,Risiko Menengah,Indonesia
+49,17,3,1,1,1,Risiko Menengah,China
+50,38,2,1,0,1,Risiko Menengah,India
+55,35,5,1,0,1,Risiko Menengah,Thailand
+47,7,14,1,1,1,Risiko Menengah,Vietnam
+67,34,1,1,0,1,Risiko Menengah,Singapore
+42,40,20,1,0,1,Risiko Menengah,Vietnam
+60,30,23,1,0,1,Risiko Menengah,Japan
+62,40,1,0,0,2,Risiko Tinggi,Indonesia
+59,25,1,1,0,1,Risiko Menengah,Vietnam
+67,50,19,1,3,0,Risiko Rendah,Malaysia
+44,33,2,0,1,2,Risiko Tinggi,China
+49,52,10,1,1,1,Risiko Menengah,China
+67,50,12,0,0,2,Risiko Tinggi,Singapore
+67,42,5,1,0,1,Risiko Menengah,Indonesia
+64,38,11,1,0,1,Risiko Menengah,India
+43,45,4,0,0,2,Risiko Tinggi,South Korea
+69,19,2,1,0,1,Risiko Menengah,Indonesia
+55,17,1,1,0,1,Risiko Menengah,Philippines
+46,40,1,1,0,1,Risiko Menengah,Singapore
+47,21,1,1,0,1,Risiko Menengah,Vietnam
+60,13,3,1,0,1,Risiko Menengah,Thailand
+47,15,3,1,1,1,Risiko Menengah,Philippines
+58,10,1,1,0,1,Risiko Menengah,South Korea
+66,12,1,1,3,0,Risiko Rendah,China
+61,22,1,1,0,1,Risiko Menengah,Vietnam
+33,25,14,1,0,1,Risiko Menengah,South Korea
+55,3,1,0,3,2,Risiko Tinggi,China
+41,23,2,1,3,0,Risiko Rendah,China
+50,35,2,1,0,1,Risiko Menengah,China
+63,10,3,1,0,1,Risiko Menengah,Vietnam
+47,32,4,0,0,2,Risiko Tinggi,Vietnam
+57,18,3,1,1,1,Risiko Menengah,Vietnam
+42,17,2,1,0,1,Risiko Menengah,India
+33,16,8,1,0,1,Risiko Menengah,Thailand
+57,12,1,0,1,2,Risiko Tinggi,India
+56,39,2,1,0,1,Risiko Menengah,Indonesia
+47,18,1,1,0,1,Risiko Menengah,Thailand
+63,23,1,1,3,0,Risiko Rendah,Vietnam
+53,25,2,1,3,0,Risiko Rendah,Vietnam
+42,36,1,0,1,2,Risiko Tinggi,China
+50,26,3,1,0,1,Risiko Menengah,South Korea
+44,17,1,1,1,1,Risiko Menengah,Philippines
+58,14,2,1,0,1,Risiko Menengah,Indonesia
+65,7,1,1,1,1,Risiko Menengah,Malaysia
+44,10,12,1,0,1,Risiko Menengah,South Korea
+59,13,14,0,1,2,Risiko Tinggi,Malaysia
+57,15,2,1,0,1,Risiko Menengah,China
+57,22,5,1,0,1,Risiko Menengah,Vietnam
+53,2,1,1,0,1,Risiko Menengah,Vietnam
+44,22,1,1,0,1,Risiko Menengah,India
+46,70,2,1,0,1,Risiko Menengah,Vietnam
+59,50,2,1,0,1,Risiko Menengah,Vietnam
+62,20,1,1,0,1,Risiko Menengah,Thailand
+48,84,7,1,0,1,Risiko Menengah,Indonesia
+44,20,10,1,1,1,Risiko Menengah,Indonesia
+62,23,2,0,0,2,Risiko Tinggi,Philippines
+65,41,2,1,0,1,Risiko Menengah,Thailand
+58,25,1,1,1,1,Risiko Menengah,Vietnam
+47,10,1,1,3,0,Risiko Rendah,South Korea
+42,13,1,1,3,0,Risiko Rendah,India
+49,30,2,1,0,1,Risiko Menengah,Malaysia
+57,30,1,1,0,1,Risiko Menengah,Malaysia
+44,35,1,1,0,1,Risiko Menengah,Indonesia
+66,25,1,0,0,2,Risiko Tinggi,South Korea
+53,19,1,0,1,2,Risiko Tinggi,Singapore
+45,35,1,1,1,1,Risiko Menengah,India
+47,35,11,1,0,1,Risiko Menengah,Thailand
+49,30,2,1,0,1,Risiko Menengah,South Korea
+47,21,2,0,1,2,Risiko Tinggi,Thailand
+49,18,5,1,0,1,Risiko Menengah,Malaysia
+57,15,1,1,0,1,Risiko Menengah,Vietnam
+59,74,16,1,0,1,Risiko Menengah,Thailand
+61,50,12,1,0,1,Risiko Menengah,Philippines
+58,76,1,0,1,2,Risiko Tinggi,Thailand
+48,17,1,1,3,0,Risiko Rendah,China
+48,20,1,1,0,1,Risiko Menengah,Japan
+50,50,7,1,3,0,Risiko Rendah,Vietnam
+48,30,5,1,0,1,Risiko Menengah,Thailand
+67,120,6,1,0,1,Risiko Menengah,Vietnam
+51,15,1,1,0,1,Risiko Menengah,Philippines
+50,24,24,1,1,1,Risiko Menengah,Japan
+69,15,1,1,0,1,Risiko Menengah,China
+63,5,11,1,0,1,Risiko Menengah,Thailand
+52,25,4,1,0,1,Risiko Menengah,Indonesia
+57,13,1,1,0,1,Risiko Menengah,Indonesia
+46,10,1,1,0,1,Risiko Menengah,Singapore
+63,21,1,1,0,1,Risiko Menengah,Japan
+68,17,1,1,0,1,Risiko Menengah,Malaysia
+62,34,2,0,0,2,Risiko Tinggi,Malaysia
+38,22,7,1,0,1,Risiko Menengah,Singapore
+58,15,1,1,0,1,Risiko Menengah,Indonesia
+48,24,3,1,0,1,Risiko Menengah,China
+49,28,1,1,0,1,Risiko Menengah,Singapore
+41,23,3,0,0,2,Risiko Tinggi,Indonesia
+62,42,2,0,1,2,Risiko Tinggi,Philippines
+46,30,2,1,0,1,Risiko Menengah,Singapore
+66,16,1,1,0,1,Risiko Menengah,India
+47,30,5,0,0,2,Risiko Tinggi,Singapore
+51,50,3,1,0,1,Risiko Menengah,Malaysia
+53,22,3,1,0,1,Risiko Menengah,India
+65,15,2,1,0,1,Risiko Menengah,Malaysia
+53,15,1,1,3,0,Risiko Rendah,Indonesia
+57,25,2,1,0,1,Risiko Menengah,India
+53,13,2,0,1,2,Risiko Tinggi,Thailand
+49,25,4,1,1,1,Risiko Menengah,Philippines
+67,29,1,1,0,1,Risiko Menengah,Vietnam
+51,14,3,1,0,1,Risiko Menengah,Philippines
+55,14,1,0,1,2,Risiko Tinggi,Thailand
+55,24,6,1,0,1,Risiko Menengah,Indonesia
+59,35,2,1,0,1,Risiko Menengah,China
+65,23,9,1,0,1,Risiko Menengah,Singapore
+42,30,3,1,0,1,Risiko Menengah,Japan
+50,24,1,1,0,1,Risiko Menengah,China
+52,52,1,1,3,0,Risiko Rendah,Indonesia
+59,15,2,1,0,1,Risiko Menengah,India
+55,27,1,1,3,0,Risiko Rendah,India
+46,30,3,1,1,1,Risiko Menengah,Malaysia
+51,30,4,1,1,1,Risiko Menengah,Vietnam
+47,54,6,1,1,1,Risiko Menengah,Malaysia
+62,12,1,0,0,2,Risiko Tinggi,Malaysia
+56,30,4,0,0,2,Risiko Tinggi,Philippines
+63,25,5,1,1,1,Risiko Menengah,Indonesia
+48,21,3,1,1,1,Risiko Menengah,Singapore
+59,7,1,0,3,2,Risiko Tinggi,Singapore
+67,18,1,1,0,1,Risiko Menengah,China
+35,40,12,1,0,1,Risiko Menengah,South Korea
+55,18,1,1,1,1,Risiko Menengah,Japan
+59,25,4,1,0,1,Risiko Menengah,South Korea
+61,31,5,1,3,0,Risiko Rendah,Japan
+48,23,2,1,1,1,Risiko Menengah,Singapore
+66,15,2,1,0,1,Risiko Menengah,South Korea
+49,25,5,1,1,1,Risiko Menengah,South Korea
+58,27,3,0,0,2,Risiko Tinggi,Singapore
+58,52,9,1,1,1,Risiko Menengah,India
+55,21,5,1,0,1,Risiko Menengah,Philippines
+57,26,5,0,1,2,Risiko Tinggi,China
+60,32,3,1,0,1,Risiko Menengah,Philippines
+54,15,11,1,0,1,Risiko Menengah,China
+35,21,5,1,1,1,Risiko Menengah,Malaysia
+69,26,11,1,1,1,Risiko Menengah,South Korea
+55,14,1,1,0,1,Risiko Menengah,Philippines
+63,22,2,1,0,1,Risiko Menengah,Thailand
+52,34,7,1,0,1,Risiko Menengah,South Korea
+49,30,7,1,1,1,Risiko Menengah,China
+68,15,3,0,0,2,Risiko Tinggi,Japan
+48,15,2,1,3,0,Risiko Rendah,China
+61,30,3,1,1,1,Risiko Menengah,South Korea
+68,13,1,1,0,1,Risiko Menengah,Thailand
+43,50,3,1,0,1,Risiko Menengah,Singapore
+62,28,1,1,0,1,Risiko Menengah,South Korea
+57,25,1,1,0,1,Risiko Menengah,Thailand
+65,26,1,1,3,0,Risiko Rendah,India
+66,7,1,1,3,0,Risiko Rendah,Thailand
+58,2,4,0,0,2,Risiko Tinggi,South Korea
+49,22,2,1,1,1,Risiko Menengah,Indonesia
+62,59,12,1,1,1,Risiko Menengah,South Korea
+54,25,1,0,0,2,Risiko Tinggi,India
+47,14,1,1,1,1,Risiko Menengah,Malaysia
+46,43,1,1,3,0,Risiko Rendah,Philippines
+52,8,1,1,3,0,Risiko Rendah,Indonesia
+51,70,9,1,0,1,Risiko Menengah,Japan
+60,28,2,1,0,1,Risiko Menengah,Vietnam
+59,18,1,1,0,1,Risiko Menengah,Philippines
+64,12,2,1,0,1,Risiko Menengah,India
+46,20,1,1,3,0,Risiko Rendah,Indonesia
+59,20,3,1,0,1,Risiko Menengah,Singapore
+56,11,1,1,0,1,Risiko Menengah,Thailand
+68,17,4,1,0,1,Risiko Menengah,India
+65,17,1,1,0,1,Risiko Menengah,Malaysia
+53,26,1,1,0,1,Risiko Menengah,Indonesia
+66,12,6,1,1,1,Risiko Menengah,Thailand
+41,35,1,1,0,1,Risiko Menengah,India
+53,6,9,1,0,1,Risiko Menengah,Japan
+63,22,6,1,0,1,Risiko Menengah,Japan
+65,22,2,1,3,0,Risiko Rendah,Singapore
+50,19,1,1,3,0,Risiko Rendah,Malaysia
+62,50,13,1,0,1,Risiko Menengah,Thailand
+52,15,4,1,0,1,Risiko Menengah,China
+65,15,1,0,0,2,Risiko Tinggi,India
+43,72,4,0,1,2,Risiko Tinggi,India
+63,45,7,1,0,1,Risiko Menengah,Vietnam
+64,20,1,1,1,1,Risiko Menengah,Thailand
+69,90,2,1,1,1,Risiko Menengah,Thailand
+65,35,4,0,0,2,Risiko Tinggi,South Korea
+43,31,6,0,0,2,Risiko Tinggi,Philippines
+66,10,1,1,0,1,Risiko Menengah,Indonesia
+48,28,1,1,1,1,Risiko Menengah,Malaysia
+57,30,3,1,3,0,Risiko Rendah,Indonesia
+60,86,7,0,0,2,Risiko Tinggi,Singapore
+59,25,2,0,1,2,Risiko Tinggi,Philippines
+59,70,1,0,1,2,Risiko Tinggi,South Korea
+44,30,3,1,1,1,Risiko Menengah,Thailand
+54,40,7,1,0,1,Risiko Menengah,Thailand
+55,20,7,1,0,1,Risiko Menengah,India
+62,40,11,1,0,1,Risiko Menengah,India
+65,13,1,1,3,0,Risiko Rendah,Japan
+55,30,1,0,1,2,Risiko Tinggi,India
+63,40,1,1,3,0,Risiko Rendah,Thailand
+41,48,5,1,1,1,Risiko Menengah,South Korea
+58,50,13,1,0,1,Risiko Menengah,Philippines
+68,21,1,0,0,2,Risiko Tinggi,Philippines
+54,18,4,1,0,1,Risiko Menengah,South Korea
+43,18,1,1,0,1,Risiko Menengah,Thailand
+40,58,7,1,0,1,Risiko Menengah,Japan
+62,37,1,1,3,0,Risiko Rendah,China
+49,28,3,1,2,0,Risiko Rendah,Philippines
+54,18,4,1,3,0,Risiko Rendah,South Korea
+66,18,1,1,3,0,Risiko Rendah,China
+47,32,1,1,0,1,Risiko Menengah,Singapore
+52,22,2,0,0,2,Risiko Tinggi,China
+56,18,2,1,0,1,Risiko Menengah,South Korea
+50,22,1,1,0,1,Risiko Menengah,Philippines
+57,39,3,1,1,1,Risiko Menengah,South Korea
+45,24,6,1,0,1,Risiko Menengah,Malaysia
+69,30,5,0,0,2,Risiko Tinggi,Vietnam
+41,25,18,1,0,1,Risiko Menengah,Vietnam
+55,15,1,1,3,0,Risiko Rendah,Singapore
+59,35,14,1,1,1,Risiko Menengah,Philippines
+67,10,19,1,0,1,Risiko Menengah,Indonesia
+53,40,1,1,3,0,Risiko Rendah,Singapore
+61,9,1,1,0,1,Risiko Menengah,Indonesia
+45,40,1,1,0,1,Risiko Menengah,China
+61,30,4,1,0,1,Risiko Menengah,Thailand
+69,50,5,1,0,1,Risiko Menengah,Vietnam
+43,20,1,1,0,1,Risiko Menengah,Indonesia
+61,15,1,1,0,1,Risiko Menengah,Thailand
+51,30,1,1,1,1,Risiko Menengah,Malaysia
+61,17,8,1,1,1,Risiko Menengah,China
+57,15,1,1,0,1,Risiko Menengah,Vietnam
+58,48,2,1,1,1,Risiko Menengah,Indonesia
+52,62,2,1,0,1,Risiko Menengah,Japan
+43,7,2,1,0,1,Risiko Menengah,Indonesia
+63,15,1,1,0,1,Risiko Menengah,Singapore
+65,95,14,1,1,1,Risiko Menengah,China
+35,15,1,1,1,1,Risiko Menengah,Singapore
+51,9,1,1,0,1,Risiko Menengah,Thailand
+50,25,1,1,0,1,Risiko Menengah,Philippines
+50,11,2,1,3,0,Risiko Rendah,Singapore
+51,14,2,1,0,1,Risiko Menengah,India
+68,14,2,1,1,1,Risiko Menengah,Thailand
+51,15,2,1,0,1,Risiko Menengah,Malaysia
+38,15,11,1,1,1,Risiko Menengah,Philippines
+54,25,1,1,0,1,Risiko Menengah,Indonesia
+51,18,1,1,0,1,Risiko Menengah,India
+69,60,6,1,0,1,Risiko Menengah,Japan
+62,15,9,1,1,1,Risiko Menengah,Philippines
+52,45,8,1,1,1,Risiko Menengah,Singapore
+59,35,9,1,0,1,Risiko Menengah,South Korea
+61,40,14,1,0,1,Risiko Menengah,Malaysia
+43,30,3,1,0,1,Risiko Menengah,Indonesia
+61,12,1,1,0,1,Risiko Menengah,Thailand
+68,13,1,1,0,1,Risiko Menengah,Malaysia
+50,43,1,1,0,1,Risiko Menengah,Japan
+60,75,6,1,0,1,Risiko Menengah,Malaysia
+47,100,3,0,1,2,Risiko Tinggi,Japan
+60,17,1,1,1,1,Risiko Menengah,Malaysia
+60,12,1,1,0,1,Risiko Menengah,India
+47,75,7,1,0,1,Risiko Menengah,Philippines
+65,12,1,1,0,1,Risiko Menengah,Malaysia
+64,37,1,1,1,1,Risiko Menengah,Vietnam
+45,54,3,1,0,1,Risiko Menengah,China
+57,85,18,1,1,1,Risiko Menengah,China
+47,20,1,1,0,1,Risiko Menengah,Indonesia
+65,46,1,1,0,1,Risiko Menengah,India
+60,21,1,1,0,1,Risiko Menengah,Vietnam
+59,33,3,1,0,1,Risiko Menengah,Indonesia
+41,33,3,1,1,1,Risiko Menengah,Indonesia
+50,29,5,1,1,1,Risiko Menengah,Malaysia
+64,20,1,0,1,2,Risiko Tinggi,India
+59,65,8,1,0,1,Risiko Menengah,South Korea
+58,120,5,0,1,2,Risiko Tinggi,Japan
+46,30,3,1,0,1,Risiko Menengah,Malaysia
+69,16,1,1,1,1,Risiko Menengah,Malaysia
+60,90,4,0,1,2,Risiko Tinggi,Vietnam
+69,25,2,1,0,1,Risiko Menengah,India
+54,32,3,1,3,0,Risiko Rendah,Indonesia
+47,29,3,1,0,1,Risiko Menengah,Thailand
+46,12,1,1,0,1,Risiko Menengah,Indonesia
+47,32,1,1,3,0,Risiko Rendah,Singapore
+61,35,2,1,1,1,Risiko Menengah,Singapore
+55,22,24,1,1,1,Risiko Menengah,Philippines
+49,40,2,1,0,1,Risiko Menengah,South Korea
+49,7,2,1,3,0,Risiko Rendah,China
+51,23,10,1,0,1,Risiko Menengah,Japan
+47,30,4,1,0,1,Risiko Menengah,Japan
+68,15,1,1,0,1,Risiko Menengah,Indonesia
+58,17,2,1,0,1,Risiko Menengah,Singapore
+56,15,14,1,0,1,Risiko Menengah,Philippines
+59,40,1,1,0,1,Risiko Menengah,China
+51,17,1,1,0,1,Risiko Menengah,China
+51,15,1,1,3,0,Risiko Rendah,Japan
+37,16,1,1,1,1,Risiko Menengah,China
+67,9,6,1,0,1,Risiko Menengah,Malaysia
+44,25,3,1,0,1,Risiko Menengah,Singapore
+68,20,1,1,0,1,Risiko Menengah,Vietnam
+57,90,10,0,0,2,Risiko Tinggi,China
+66,10,3,1,3,0,Risiko Rendah,Singapore
+65,23,1,1,0,1,Risiko Menengah,India
+52,30,6,1,0,1,Risiko Menengah,Malaysia
+47,82,14,0,0,2,Risiko Tinggi,Thailand
+43,40,8,1,0,1,Risiko Menengah,India
+53,15,3,1,0,1,Risiko Menengah,Japan
+56,30,7,0,1,2,Risiko Tinggi,South Korea
+49,30,3,1,0,1,Risiko Menengah,Japan
+46,16,3,1,3,0,Risiko Rendah,India
+41,19,1,1,0,1,Risiko Menengah,Vietnam
+38,80,1,1,0,1,Risiko Menengah,Japan
+54,30,2,0,1,2,Risiko Tinggi,Malaysia
+58,50,2,1,0,1,Risiko Menengah,South Korea
+54,66,9,1,1,1,Risiko Menengah,Malaysia
+44,40,2,1,1,1,Risiko Menengah,Thailand
+59,45,5,1,0,1,Risiko Menengah,Malaysia
+63,25,2,1,0,1,Risiko Menengah,Japan
+57,13,1,1,0,1,Risiko Menengah,Thailand
+49,37,4,1,3,0,Risiko Rendah,South Korea
+56,20,4,0,0,2,Risiko Tinggi,China
+41,42,13,1,1,1,Risiko Menengah,Malaysia
+55,35,4,0,3,2,Risiko Tinggi,Indonesia
+58,20,1,1,0,1,Risiko Menengah,Malaysia
+64,60,1,0,0,2,Risiko Tinggi,Thailand
+44,60,3,1,3,0,Risiko Rendah,Japan
+51,45,1,1,3,0,Risiko Rendah,Japan
+67,20,1,1,1,1,Risiko Menengah,Indonesia
+57,19,1,1,0,1,Risiko Menengah,China
+54,23,1,1,0,1,Risiko Menengah,Vietnam
+55,55,26,1,0,1,Risiko Menengah,India
+61,23,1,1,3,0,Risiko Rendah,Philippines
+39,30,3,1,0,1,Risiko Menengah,Singapore
+57,51,1,1,0,1,Risiko Menengah,Malaysia
+50,22,1,1,1,1,Risiko Menengah,Indonesia
+56,21,2,1,1,1,Risiko Menengah,Indonesia
+42,16,4,1,0,1,Risiko Menengah,Indonesia
+51,53,5,1,0,1,Risiko Menengah,Vietnam
+46,23,1,1,1,1,Risiko Menengah,South Korea
+42,25,1,1,0,1,Risiko Menengah,Malaysia
+38,18,2,1,1,1,Risiko Menengah,Singapore
+45,20,2,0,1,2,Risiko Tinggi,Indonesia
+56,26,5,1,0,1,Risiko Menengah,Indonesia
+46,65,4,1,3,0,Risiko Rendah,China
+61,21,8,1,0,1,Risiko Menengah,Indonesia
+46,55,2,1,3,0,Risiko Rendah,Indonesia
+48,7,1,1,0,1,Risiko Menengah,Singapore
+60,14,16,1,3,0,Risiko Rendah,Philippines
+66,50,1,1,0,1,Risiko Menengah,Japan
+49,10,2,0,3,2,Risiko Tinggi,Malaysia
+46,8,1,1,0,1,Risiko Menengah,Vietnam
+39,20,2,1,0,1,Risiko Menengah,Singapore
+61,40,1,1,0,1,Risiko Menengah,Philippines
+46,33,4,0,1,2,Risiko Tinggi,Malaysia
+52,20,4,1,0,1,Risiko Menengah,Vietnam
+60,26,1,1,0,1,Risiko Menengah,China
+42,17,1,0,3,2,Risiko Tinggi,Indonesia
+47,51,1,0,1,2,Risiko Tinggi,China
+42,30,1,1,0,1,Risiko Menengah,China
+43,30,2,1,0,1,Risiko Menengah,Vietnam
+63,15,1,1,0,1,Risiko Menengah,South Korea
+55,18,26,1,0,1,Risiko Menengah,Philippines
+52,43,5,0,1,2,Risiko Tinggi,India
+40,15,6,1,0,1,Risiko Menengah,Thailand
+38,15,1,1,0,1,Risiko Menengah,Singapore
+33,28,6,1,1,1,Risiko Menengah,Vietnam
+59,32,4,0,3,2,Risiko Tinggi,Singapore
+63,32,7,1,0,1,Risiko Menengah,China
+44,25,2,1,3,0,Risiko Rendah,South Korea
+58,18,2,1,0,1,Risiko Menengah,South Korea
+69,19,19,1,0,1,Risiko Menengah,South Korea
+57,30,3,1,0,1,Risiko Menengah,Indonesia
+50,30,4,1,0,1,Risiko Menengah,India
+36,25,1,1,0,1,Risiko Menengah,Malaysia
+37,36,3,1,0,1,Risiko Menengah,Japan
+63,40,4,1,0,1,Risiko Menengah,Indonesia
+45,26,2,1,0,1,Risiko Menengah,Japan
+42,40,4,1,0,1,Risiko Menengah,Malaysia
+40,31,3,1,0,1,Risiko Menengah,China
+45,15,2,1,0,1,Risiko Menengah,Thailand
+54,12,1,1,0,1,Risiko Menengah,Japan
+55,20,1,1,1,1,Risiko Menengah,India
+47,32,6,0,0,2,Risiko Tinggi,Vietnam
+51,28,21,1,1,1,Risiko Menengah,Singapore
+63,13,2,1,0,1,Risiko Menengah,Japan
+65,47,7,1,3,0,Risiko Rendah,Vietnam
+34,40,6,1,0,1,Risiko Menengah,Indonesia
+47,30,5,0,1,2,Risiko Tinggi,Thailand
+69,23,9,1,1,1,Risiko Menengah,Singapore
+66,40,1,1,0,1,Risiko Menengah,South Korea
+41,26,7,1,0,1,Risiko Menengah,Indonesia
+58,100,4,1,0,1,Risiko Menengah,Malaysia
+64,50,21,1,1,1,Risiko Menengah,Singapore
+53,18,1,1,0,1,Risiko Menengah,Thailand
+43,13,2,1,0,1,Risiko Menengah,Japan
+31,30,4,0,1,2,Risiko Tinggi,Japan
+43,50,1,1,0,1,Risiko Menengah,South Korea
+54,33,2,1,0,1,Risiko Menengah,Singapore
+60,44,7,1,0,1,Risiko Menengah,Japan
+59,45,6,1,0,1,Risiko Menengah,South Korea
+47,30,1,1,1,1,Risiko Menengah,Malaysia
+41,23,1,0,1,2,Risiko Tinggi,India
+69,13,1,1,3,0,Risiko Rendah,South Korea
+48,18,1,1,0,1,Risiko Menengah,China
+40,28,1,0,1,2,Risiko Tinggi,Vietnam
+68,50,11,1,1,1,Risiko Menengah,Singapore
+56,11,15,1,1,1,Risiko Menengah,India
+46,15,1,1,0,1,Risiko Menengah,Malaysia
+59,25,1,1,3,0,Risiko Rendah,China
+46,27,1,1,0,1,Risiko Menengah,Thailand
+46,65,10,1,0,1,Risiko Menengah,Singapore
+57,55,4,1,1,1,Risiko Menengah,Malaysia
+51,40,5,1,0,1,Risiko Menengah,Indonesia
+55,14,4,0,1,2,Risiko Tinggi,China
+53,50,5,1,0,1,Risiko Menengah,Philippines
+64,30,1,0,3,2,Risiko Tinggi,Philippines
+68,21,1,1,1,1,Risiko Menengah,Vietnam
+51,55,3,1,0,1,Risiko Menengah,Philippines
+36,120,14,0,1,2,Risiko Tinggi,Malaysia
+68,40,1,1,1,1,Risiko Menengah,Japan
+47,25,3,1,1,1,Risiko Menengah,South Korea
+40,55,4,1,0,1,Risiko Menengah,Malaysia
+65,12,1,1,0,1,Risiko Menengah,South Korea
+64,65,1,0,0,2,Risiko Tinggi,Philippines
+52,34,1,1,3,0,Risiko Rendah,South Korea
+41,22,22,1,1,1,Risiko Menengah,Thailand
+66,35,2,1,1,1,Risiko Menengah,Singapore
+69,17,2,1,3,0,Risiko Rendah,Philippines
+56,20,1,1,0,1,Risiko Menengah,Malaysia
+54,70,15,1,1,1,Risiko Menengah,China
+60,40,4,1,0,1,Risiko Menengah,Indonesia
+49,22,11,1,0,1,Risiko Menengah,Philippines
+60,14,2,1,3,0,Risiko Rendah,South Korea
+65,13,1,0,3,2,Risiko Tinggi,Indonesia
+55,15,1,1,0,1,Risiko Menengah,South Korea
+54,23,1,0,0,2,Risiko Tinggi,Malaysia
+60,55,2,1,0,1,Risiko Menengah,China
+46,18,1,1,0,1,Risiko Menengah,India
+62,75,7,1,0,1,Risiko Menengah,Singapore
+49,47,3,0,1,2,Risiko Tinggi,Japan
+52,14,9,1,1,1,Risiko Menengah,Japan
+46,38,2,1,0,1,Risiko Menengah,Singapore
+57,23,4,1,1,1,Risiko Menengah,Japan
+50,9,1,1,3,0,Risiko Rendah,India
+68,12,12,1,0,1,Risiko Menengah,Japan
+50,25,4,1,1,1,Risiko Menengah,South Korea
+50,26,2,1,3,0,Risiko Rendah,South Korea
+48,5,9,0,3,2,Risiko Tinggi,South Korea
+48,18,5,1,0,1,Risiko Menengah,Malaysia
+63,25,10,0,1,2,Risiko Tinggi,Singapore
+67,30,1,0,3,2,Risiko Tinggi,Thailand
+56,15,6,1,0,1,Risiko Menengah,China
+47,15,2,1,3,0,Risiko Rendah,Thailand
+55,25,6,0,0,2,Risiko Tinggi,Indonesia
+40,64,8,1,0,1,Risiko Menengah,Vietnam
+69,40,23,0,0,2,Risiko Tinggi,Philippines
+41,20,1,1,1,1,Risiko Menengah,Thailand
+41,31,1,1,0,1,Risiko Menengah,Philippines
+49,30,2,1,0,1,Risiko Menengah,India
+69,120,7,1,0,1,Risiko Menengah,China
+54,31,6,1,3,0,Risiko Rendah,Indonesia
+52,15,1,1,3,0,Risiko Rendah,Malaysia
+54,24,2,1,0,1,Risiko Menengah,Philippines
+57,25,1,1,3,0,Risiko Rendah,Malaysia
+42,35,2,1,0,1,Risiko Menengah,Philippines
+37,7,2,1,0,1,Risiko Menengah,Malaysia
+45,20,1,1,1,1,Risiko Menengah,India
+56,19,2,1,0,1,Risiko Menengah,Vietnam
+54,45,1,1,0,1,Risiko Menengah,Singapore
+55,25,1,0,0,2,Risiko Tinggi,Singapore
+57,11,1,1,0,1,Risiko Menengah,China
+51,15,12,1,0,1,Risiko Menengah,China
+48,30,3,1,0,1,Risiko Menengah,Philippines
+58,17,4,1,1,1,Risiko Menengah,South Korea
+57,37,2,0,1,2,Risiko Tinggi,South Korea
+62,13,1,0,1,2,Risiko Tinggi,China
+55,38,10,1,0,1,Risiko Menengah,Singapore
+60,25,1,1,1,1,Risiko Menengah,South Korea
+65,20,1,1,0,1,Risiko Menengah,Philippines
+66,9,1,1,0,1,Risiko Menengah,Japan
+60,33,4,1,0,1,Risiko Menengah,India
+58,16,1,1,0,1,Risiko Menengah,Vietnam
+66,30,7,1,0,1,Risiko Menengah,Japan
+66,27,2,1,0,1,Risiko Menengah,India
+69,22,1,1,0,1,Risiko Menengah,Indonesia
+49,15,1,1,0,1,Risiko Menengah,Singapore
+67,11,4,1,3,0,Risiko Rendah,China
+53,17,1,1,0,1,Risiko Menengah,Philippines
+39,44,2,1,0,1,Risiko Menengah,Japan
+56,54,1,1,0,1,Risiko Menengah,Vietnam
+62,8,1,0,0,2,Risiko Tinggi,Malaysia
+47,9,1,1,1,1,Risiko Menengah,China
+37,25,1,0,1,2,Risiko Tinggi,Singapore
+56,25,2,1,0,1,Risiko Menengah,Malaysia
+53,15,2,1,0,1,Risiko Menengah,Japan
+53,25,1,0,1,2,Risiko Tinggi,South Korea
+48,55,22,1,1,1,Risiko Menengah,Malaysia
+54,41,2,1,0,1,Risiko Menengah,South Korea
+41,15,1,0,0,2,Risiko Tinggi,South Korea
+32,15,3,0,0,2,Risiko Tinggi,Indonesia
+44,25,1,1,0,1,Risiko Menengah,Singapore
+46,25,3,1,1,1,Risiko Menengah,India
+47,32,1,1,0,1,Risiko Menengah,Vietnam
+58,30,2,0,0,2,Risiko Tinggi,Thailand
+63,14,1,1,0,1,Risiko Menengah,Japan
+67,58,1,0,1,2,Risiko Tinggi,Japan
+55,30,26,0,0,2,Risiko Tinggi,South Korea
+51,12,6,1,0,1,Risiko Menengah,Vietnam
+44,24,1,1,0,1,Risiko Menengah,India
+51,47,4,1,1,1,Risiko Menengah,South Korea
+63,18,3,1,3,0,Risiko Rendah,Philippines
+66,55,13,1,0,1,Risiko Menengah,Japan
+45,25,1,1,1,1,Risiko Menengah,Japan
+63,53,9,1,0,1,Risiko Menengah,Indonesia
+60,23,8,1,0,1,Risiko Menengah,Malaysia
+50,22,2,1,3,0,Risiko Rendah,South Korea
+67,12,1,1,3,0,Risiko Rendah,Vietnam
+56,32,2,1,0,1,Risiko Menengah,Japan
+52,40,9,1,0,1,Risiko Menengah,Malaysia
+53,60,3,1,0,1,Risiko Menengah,Malaysia
+57,25,12,0,1,2,Risiko Tinggi,Singapore
+65,11,1,1,0,1,Risiko Menengah,China
+66,65,19,1,0,1,Risiko Menengah,Indonesia
+47,80,11,1,0,1,Risiko Menengah,Malaysia
+44,55,24,1,3,0,Risiko Rendah,Thailand
+62,16,6,1,1,1,Risiko Menengah,Indonesia
+50,18,1,1,1,1,Risiko Menengah,Indonesia
+68,17,1,1,0,1,Risiko Menengah,Vietnam
+47,18,2,1,3,0,Risiko Rendah,Indonesia
+52,50,5,1,0,1,Risiko Menengah,Malaysia
+69,21,2,1,3,0,Risiko Rendah,Philippines
+61,50,2,1,0,1,Risiko Menengah,Japan
+54,13,1,1,3,0,Risiko Rendah,Indonesia
+37,51,3,1,0,1,Risiko Menengah,China
+58,25,3,1,1,1,Risiko Menengah,Vietnam
+58,30,1,1,0,1,Risiko Menengah,Philippines
+40,15,15,1,1,1,Risiko Menengah,Thailand
+66,40,2,1,1,1,Risiko Menengah,China
+69,10,5,1,3,0,Risiko Rendah,India
+47,34,2,1,1,1,Risiko Menengah,India
+44,70,4,1,1,1,Risiko Menengah,Indonesia
+61,27,1,0,1,2,Risiko Tinggi,Japan
+42,21,1,1,1,1,Risiko Menengah,India
+34,15,1,1,1,1,Risiko Menengah,Indonesia
+59,15,4,1,0,1,Risiko Menengah,Vietnam
+55,46,4,1,0,1,Risiko Menengah,Malaysia
+59,4,5,1,0,1,Risiko Menengah,Japan
+51,5,1,0,0,2,Risiko Tinggi,Philippines
+49,40,1,0,1,2,Risiko Tinggi,Singapore
+68,19,1,1,0,1,Risiko Menengah,South Korea
+62,33,1,1,0,1,Risiko Menengah,Vietnam
+56,11,1,1,3,0,Risiko Rendah,China
+64,34,14,1,0,1,Risiko Menengah,Indonesia
+44,16,1,1,0,1,Risiko Menengah,Vietnam
+45,21,2,1,1,1,Risiko Menengah,Thailand
+35,80,12,1,1,1,Risiko Menengah,Philippines
+56,55,6,1,0,1,Risiko Menengah,China
+50,9,1,1,0,1,Risiko Menengah,South Korea
+45,21,1,1,1,1,Risiko Menengah,India
+61,25,7,1,1,1,Risiko Menengah,Japan
+57,18,1,0,3,2,Risiko Tinggi,Indonesia
+50,41,1,0,1,2,Risiko Tinggi,Malaysia
+43,23,1,1,0,1,Risiko Menengah,Indonesia
+60,15,1,1,0,1,Risiko Menengah,India
+69,13,13,1,0,1,Risiko Menengah,Vietnam
+40,35,2,1,0,1,Risiko Menengah,Philippines
+69,33,19,1,3,0,Risiko Rendah,India
+62,11,1,1,0,1,Risiko Menengah,Thailand
+59,35,2,1,1,1,Risiko Menengah,China
+36,30,1,1,1,1,Risiko Menengah,India
+54,25,3,1,0,1,Risiko Menengah,Singapore
+59,27,12,1,1,1,Risiko Menengah,Japan
+65,96,3,0,1,2,Risiko Tinggi,Thailand
+39,40,1,1,1,1,Risiko Menengah,Thailand
+65,11,1,0,0,2,Risiko Tinggi,Indonesia
+54,20,1,1,0,1,Risiko Menengah,Thailand
+59,50,2,1,0,1,Risiko Menengah,India
+52,75,32,1,0,1,Risiko Menengah,China
+50,24,9,0,1,2,Risiko Tinggi,India
+62,32,5,1,0,1,Risiko Menengah,India
+58,16,9,0,0,2,Risiko Tinggi,Malaysia
+53,27,5,1,0,1,Risiko Menengah,South Korea
+57,15,29,1,0,1,Risiko Menengah,India
+59,19,2,1,3,0,Risiko Rendah,China
+55,20,1,1,0,1,Risiko Menengah,Vietnam
+49,35,4,1,0,1,Risiko Menengah,Singapore
+49,80,2,1,0,1,Risiko Menengah,Vietnam
+54,40,1,1,1,1,Risiko Menengah,Philippines
+53,18,7,0,0,2,Risiko Tinggi,Singapore
+58,12,1,1,0,1,Risiko Menengah,Malaysia
+62,25,5,0,0,2,Risiko Tinggi,Philippines
+67,19,5,1,3,0,Risiko Rendah,Singapore
+61,60,4,1,0,1,Risiko Menengah,Thailand
+47,79,3,1,1,1,Risiko Menengah,India
+48,95,12,1,3,0,Risiko Rendah,South Korea
+60,30,2,1,0,1,Risiko Menengah,Indonesia
+62,50,5,0,0,2,Risiko Tinggi,India
+50,22,1,1,0,1,Risiko Menengah,Japan
+51,33,5,1,0,1,Risiko Menengah,Philippines
+57,15,25,1,0,1,Risiko Menengah,Philippines
+64,11,9,0,0,2,Risiko Tinggi,Thailand
+64,30,4,1,1,1,Risiko Menengah,Singapore
+62,8,2,1,0,1,Risiko Menengah,Malaysia
+49,25,2,1,1,1,Risiko Menengah,Malaysia
+51,30,3,1,0,1,Risiko Menengah,Indonesia
+68,15,2,1,1,1,Risiko Menengah,Singapore
+51,30,7,1,0,1,Risiko Menengah,Japan
+47,70,14,1,0,1,Risiko Menengah,South Korea
+40,7,3,1,0,1,Risiko Menengah,India
+66,80,1,1,0,1,Risiko Menengah,Thailand
+68,6,2,0,0,2,Risiko Tinggi,Vietnam
+56,30,2,1,0,1,Risiko Menengah,Malaysia
+46,21,1,1,3,0,Risiko Rendah,Thailand
+68,17,6,1,1,1,Risiko Menengah,Malaysia
+38,120,11,1,0,1,Risiko Menengah,South Korea
+44,27,4,1,0,1,Risiko Menengah,Indonesia
+46,22,1,1,0,1,Risiko Menengah,Singapore
+56,35,13,0,0,2,Risiko Tinggi,Thailand
+39,6,3,1,0,1,Risiko Menengah,Malaysia
+54,15,1,1,0,1,Risiko Menengah,Japan
+47,20,2,1,3,0,Risiko Rendah,Indonesia
+64,11,2,1,0,1,Risiko Menengah,Malaysia
+48,30,1,1,0,1,Risiko Menengah,South Korea
+57,20,3,0,0,2,Risiko Tinggi,South Korea
+53,30,2,0,0,2,Risiko Tinggi,Philippines
+41,20,1,1,3,0,Risiko Rendah,Malaysia
+44,40,16,0,1,2,Risiko Tinggi,Indonesia
+54,30,1,1,1,1,Risiko Menengah,Thailand
+57,15,1,1,3,0,Risiko Rendah,Indonesia
+39,60,5,1,1,1,Risiko Menengah,China
+64,17,1,1,3,0,Risiko Rendah,Malaysia
+59,35,1,1,0,1,Risiko Menengah,South Korea
+63,34,1,1,1,1,Risiko Menengah,Philippines
+65,35,9,1,1,1,Risiko Menengah,India
+47,25,19,1,0,1,Risiko Menengah,India
+41,18,1,1,0,1,Risiko Menengah,Japan
+61,8,3,1,3,0,Risiko Rendah,Philippines
+64,24,3,1,0,1,Risiko Menengah,Singapore
+54,13,1,1,1,1,Risiko Menengah,China
+48,30,5,1,1,1,Risiko Menengah,Japan
+48,27,2,1,0,1,Risiko Menengah,China
+39,15,2,1,0,1,Risiko Menengah,Vietnam
+50,27,1,1,0,1,Risiko Menengah,India
+54,22,3,1,0,1,Risiko Menengah,Indonesia
+58,50,27,0,0,2,Risiko Tinggi,China
+56,22,1,1,0,1,Risiko Menengah,Malaysia
+62,25,4,1,1,1,Risiko Menengah,Singapore
+40,21,1,1,3,0,Risiko Rendah,China
+54,12,1,0,1,2,Risiko Tinggi,Thailand
+47,140,7,1,3,0,Risiko Rendah,Singapore
+67,30,8,1,0,1,Risiko Menengah,Thailand
+48,60,14,1,0,1,Risiko Menengah,Vietnam
+68,35,2,1,0,1,Risiko Menengah,Malaysia
+66,12,1,0,0,2,Risiko Tinggi,Singapore
+63,12,1,1,1,1,Risiko Menengah,Philippines
+62,21,1,1,1,1,Risiko Menengah,Japan
+62,70,1,1,0,1,Risiko Menengah,Malaysia
+57,20,2,1,0,1,Risiko Menengah,Vietnam
+66,67,13,1,1,1,Risiko Menengah,China
+68,24,4,1,1,1,Risiko Menengah,India
+55,62,3,1,0,1,Risiko Menengah,Vietnam
+66,11,4,1,0,1,Risiko Menengah,Singapore
+67,17,3,1,0,1,Risiko Menengah,Singapore
+55,32,8,0,3,2,Risiko Tinggi,South Korea
+49,65,1,1,1,1,Risiko Menengah,Japan
+38,58,3,1,0,1,Risiko Menengah,Philippines
+52,52,11,1,1,1,Risiko Menengah,China
+65,30,1,1,0,1,Risiko Menengah,Philippines
+61,12,1,1,0,1,Risiko Menengah,Thailand
+51,20,19,1,1,1,Risiko Menengah,Indonesia
+55,30,2,0,1,2,Risiko Tinggi,China
+54,7,1,1,0,1,Risiko Menengah,Singapore
+61,37,2,1,1,1,Risiko Menengah,China
+39,30,1,1,1,1,Risiko Menengah,Japan
+61,47,1,0,0,2,Risiko Tinggi,Vietnam
+51,90,10,1,1,1,Risiko Menengah,Thailand
+42,38,19,1,1,1,Risiko Menengah,China
+57,20,1,0,0,2,Risiko Tinggi,Thailand
+51,2,2,1,0,1,Risiko Menengah,South Korea
+62,25,14,0,0,2,Risiko Tinggi,South Korea
+69,19,9,1,0,1,Risiko Menengah,Indonesia
+35,19,2,1,0,1,Risiko Menengah,Philippines
+68,18,1,1,3,0,Risiko Rendah,Vietnam
+53,30,5,1,0,1,Risiko Menengah,China
+31,45,2,1,1,1,Risiko Menengah,Indonesia
+55,45,1,1,0,1,Risiko Menengah,Malaysia
+57,15,1,1,3,0,Risiko Rendah,South Korea
+66,19,7,1,0,1,Risiko Menengah,China
+58,24,9,0,0,2,Risiko Tinggi,Indonesia
+68,40,2,0,0,2,Risiko Tinggi,Vietnam
+41,35,2,0,1,2,Risiko Tinggi,Vietnam
+44,21,1,1,0,1,Risiko Menengah,Malaysia
+60,18,2,1,3,0,Risiko Rendah,Japan
+53,100,1,0,0,2,Risiko Tinggi,South Korea
+59,23,1,0,1,2,Risiko Tinggi,Philippines
+62,25,4,1,0,1,Risiko Menengah,Vietnam
+51,80,12,1,1,1,Risiko Menengah,Thailand
+68,15,1,0,3,2,Risiko Tinggi,South Korea
+40,68,2,1,0,1,Risiko Menengah,India
+65,40,4,1,0,1,Risiko Menengah,Vietnam
+54,50,2,1,3,0,Risiko Rendah,China
+46,28,1,0,0,2,Risiko Tinggi,Thailand
+64,10,1,1,0,1,Risiko Menengah,India
+62,9,1,1,0,1,Risiko Menengah,Malaysia
+56,46,8,1,0,1,Risiko Menengah,India
+68,22,3,0,0,2,Risiko Tinggi,Singapore
+58,44,1,1,0,1,Risiko Menengah,Malaysia
+46,30,2,1,0,1,Risiko Menengah,China
