@@ -1,17 +1,55 @@
 import os
 import cv2
+import matplotlib
+matplotlib.use('Agg')  # Menggunakan backend non-GUI
+import matplotlib.pyplot as plt
 import numpy as np
 import tensorflow as tf
-from flask import Flask, render_template, request, jsonify
+from flask import Flask, render_template, request, jsonify, send_from_directory
 from PIL import Image
 from modul.preprocess_image import preprocess_image
 import folium
 import pandas as pd
+from statsmodels.tsa.arima.model import ARIMA
 
 
 app = Flask(__name__)
 
-# ----- CNN -----
+# ----- FORECASTING -----
+GRAPH_FOLDER = 'static/graphs'
+if not os.path.exists(GRAPH_FOLDER):
+    os.makedirs(GRAPH_FOLDER)
+data = pd.read_csv('model/breast-cancer-cases-rate-per-100000-population-in-england-1995-2021.csv')
+# Preprocess Data
+data['Year'] = pd.to_datetime(data['Year'], format='%Y')
+data.set_index('Year', inplace=True)
+# Build ARIMA model
+p, d, q = 1, 1, 1
+model = ARIMA(data, order=(p, d, q))
+model_fit = model.fit()
+# Forecast for the next 10 years
+steps = 10
+forecast = model_fit.forecast(steps=steps)
+# Prepare Forecast DataFrame
+future_dates = pd.date_range(data.index[-1], periods=steps+1, freq='Y')[1:]  # Generate future years
+forecast_df = pd.DataFrame({'Year': future_dates, 'Forecasted Cases': forecast})
+# Round the forecasted values to 2 decimal places
+forecast_df['Forecasted Cases'] = forecast_df['Forecasted Cases'].round(1)
+forecast_df.set_index('Year', inplace=True)
+# Save Plot
+def save_plot():
+    plt.figure(figsize=(10,6))
+    plt.plot(data.index, data['Cases'], label='Original Data')
+    plt.title('Breast Cancer Cases per 100,000 Population (1995-2021)')
+    plt.xlabel('Year')
+    plt.ylabel('Cases per 100,000 Population')
+    plt.legend()
+    plot_path = os.path.join(GRAPH_FOLDER, 'breast_cancer_plot.png')
+    plt.savefig(plot_path)
+    plt.close()
+    return plot_path
+
+# ----- KLASIFIKASI IMAGE -----
 # Pastikan path model benar
 MODEL_PATH = os.path.join('model', 'CNN_model.keras')
 # Load model
@@ -23,11 +61,10 @@ try:
 except Exception as e:
     print(f"Error loading model: {str(e)}")
 
-# ----- MAPS -----
+# ----- KLASTERING MAPS -----
 # Load data
-clustering_data = pd.read_csv('modified_data.csv')
+clustering_data = pd.read_csv('model/modified_data.csv')
 # Country coordinates for visualization
-
 asia_countries = {
     'Indonesia': [-0.7893, 113.9213],
     'Malaysia': [4.2105, 101.9758],
@@ -45,19 +82,19 @@ clustering_data['Coordinates'] = clustering_data['Country'].map(asia_countries)
 
 @app.route('/', methods=['GET'])
 def index():
-    # Create map
-    m = folium.Map(location=[20.0, 100.0], zoom_start=4)
+    # Forecasting data
+    plot_path = save_plot()
+    historical_data = data.tail(10)  
 
-    # Group data by country and calculate cluster counts
+    # Klastering data
+    m = folium.Map(location=[20.0, 100.0], zoom_start=4)
     cluster_counts = clustering_data.groupby(['Country', 'differentiate']).size().unstack(fill_value=0)
 
     for country, rows in clustering_data.groupby('Country'):
         coords = rows.iloc[0]['Coordinates']
-        
         low_risk = cluster_counts.loc[country, 0] if 0 in cluster_counts.columns else 0
         medium_risk = cluster_counts.loc[country, 1] if 1 in cluster_counts.columns else 0
         high_risk = cluster_counts.loc[country, 2] if 2 in cluster_counts.columns else 0
-
         popup_text = f"""
         <b>Country:</b> {country}<br>
         <b>Low Risk:</b> {low_risk}<br>
@@ -73,14 +110,39 @@ def index():
             color = 'green'
 
         folium.Marker(location=coords, popup=popup_text, icon=folium.Icon(color=color)).add_to(m)
-
     # Convert map to HTML string
     map_html = m._repr_html_()
-
     # Render the template and pass map_html
-    return render_template('index.html', map_html=map_html)
+    return render_template('index.html', map_html=map_html,historical_data=historical_data.to_dict(),forecast_data=forecast_df.to_dict(),plot_url=plot_path)
 
-# ----- Route untuk Prediksi -----
+# ----- Route untuk Forecasting -----
+@app.route('/forecast', methods=['GET'])
+def forecast():
+    # Simpan grafik ke dalam folder static
+    plot_path = save_plot()
+    historical_data = data.tail(10)  # Last 10 rows of data for historical display
+    return render_template(
+        'layout/forecast.html',
+        historical_data=historical_data.to_dict(),
+        forecast_data=forecast_df.to_dict(),
+        plot_url=plot_path 
+    )
+
+# ----- API untuk Forecasting -----
+@app.route('/api/forecast/')
+def api_forecast():
+    forecast_json = {
+        "dates": future_dates.strftime('%Y-%m-%d').tolist(),
+        "forecasted_cases": forecast.tolist()
+    }
+    return jsonify(forecast_json)
+
+# ----- Route untuk mengakses gambar dari folder static -----
+@app.route('/static/graphs/<filename>/')
+def send_plot(filename):
+    return send_from_directory(GRAPH_FOLDER, filename)
+
+# ----- Route untuk Prediksi Image -----
 @app.route('/predict', methods=['POST'])
 def predict():
     if 'file' not in request.files:

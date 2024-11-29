@@ -1,0 +1,206 @@
+<!-- Forecasted Data Section with Chart.js -->
+<!-- <div class="fixed right-5 top-8 rounded-lg shadow-lg bg-white p-4 w-60 z-40">
+  <h2 class="text-lg font-semibold mb-2">Historical Data</h2>
+  <table class="w-full text-sm mb-4">
+    <thead>
+      <tr class="border-b border-gray-600">
+        <th class="py-1 text-left">Year</th>
+        <th class="py-1 text-right">Cases</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for year, data in historical_data['Cases'].items() %}
+      <tr class="border-b border-gray-700">
+        <td class="py-1 text-left">{{ year.year }}</td>
+        <td class="py-1 text-right">{{ data }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div> -->
+
+<style>
+  .warp-cart {
+    position: relative;
+  }
+
+  .cart {
+    display: none;
+    position: absolute;
+    bottom: 100%;
+    left: 0;
+    width: 100%;
+    background-color: white;
+    border: 1px solid #ccc;
+    box-shadow: 0 -4px 8px rgba(0, 0, 0, 0.1);
+    padding: 8px;
+    z-index: 10;
+  }
+
+  .warp-cart:hover .cart {
+    display: block;
+  }
+</style>
+
+<!-- Main modal -->
+<div
+  id="grafik-kanker"
+  tabindex="-1"
+  aria-hidden="true"
+  class="hidden overflow-y-auto overflow-x-hidden fixed top-0 right-0 left-0 z-50 justify-center items-center w-full md:inset-0 h-[calc(100%-1rem)] max-h-full"
+>
+  <div class="relative p-4 w-full max-w-2xl max-h-full">
+    <div class="relative bg-white rounded-lg shadow dark:bg-gray-700">
+      <div
+        class="flex items-center justify-between p-4 md:p-5 border-b rounded-t dark:border-gray-600"
+      >
+        <h3 class="text-xl font-semibold text-gray-900 dark:text-white">
+          Grafik Kasus Kanker
+        </h3>
+        <button
+          type="button"
+          class="text-gray-400 bg-transparent hover:bg-gray-200 hover:text-gray-900 rounded-lg text-sm w-8 h-8 ms-auto inline-flex justify-center items-center dark:hover:bg-gray-600 dark:hover:text-white"
+          data-modal-hide="grafik-kanker"
+        >
+          <svg
+            class="w-3 h-3"
+            aria-hidden="true"
+            xmlns="http://www.w3.org/2000/svg"
+            fill="none"
+            viewBox="0 0 14 14"
+          >
+            <path
+              stroke="currentColor"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+              d="m1 1 6 6m0 0 6 6M7 7l6-6M7 7l-6 6"
+            />
+          </svg>
+          <span class="sr-only">Close modal</span>
+        </button>
+      </div>
+      <!-- Modal body -->
+      <div class="p-4 md:p-5 space-y-4">
+        <img
+          src="{{ url_for('send_plot', filename='breast_cancer_plot.png') }}"
+          class="w-full"
+          alt="Breast Cancer Cases Plot"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Chart -->
+<div class="fixed flex z-20 gap-8 w-full right-0 px-8 bottom-4">
+  <!-- Grafik Kasus Historis -->
+  <div class="warp-cart bg-white p-2 w-full h-full rounded-lg shadow-xl">
+    <h2 class="text-lg font-semibold text-center">Historis</h2>
+    <div class="cart">
+      <canvas id="historicalChart" class="w-full"></canvas>
+    </div>
+  </div>
+  <!-- Grafik Prediksi Kasus -->
+  <div class="warp-cart bg-white p-2 w-full h-full rounded-lg shadow-xl">
+    <h2 class="text-lg font-semibold text-center">Grafik Prediksi Kasus</h2>
+    <div class="cart">
+      <canvas id="forecastChart" class="w-full"></canvas>
+    </div>
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+  var forecastLabels = {{ forecast_data['Forecasted Cases'].keys()|map(attribute='year')|list|tojson }};
+  var forecastValues = {{ forecast_data['Forecasted Cases'].values()|list|tojson }};
+  var historicalLabels = {{ historical_data['Cases'].keys()|map(attribute='year')|list|tojson }};
+  var historicalValues = {{ historical_data['Cases'].values()|list|tojson }};
+  var ctxForecast = document.getElementById('forecastChart').getContext('2d');
+  var forecastChart = new Chart(ctxForecast, {
+    type: 'line',
+    data: {
+      labels: forecastLabels,
+      datasets: [{
+        label: 'Forecasted Cases',
+        data: forecastValues,
+        backgroundColor: 'rgba(54, 162, 235, 0.2)',
+        borderColor: 'rgba(54, 162, 235, 1)',
+        borderWidth: 2,
+        fill: true
+      }]
+    },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      scales: {
+        y: {
+          beginAtZero: false,
+          title: {
+            display: true,
+            text: 'Number of Cases'
+          }
+        },
+        // x: {
+        //   title: {
+        //     display: true,
+        //     text: 'Year'
+        //   }
+        // }
+      },
+      plugins: {
+        tooltip: {
+          callbacks: {
+            label: function(context) {
+              return context.dataset.label + ': ' + context.parsed.y;
+            }
+          }
+        }
+      }
+    }
+  });
+
+  var ctxHistorical = document.getElementById('historicalChart').getContext('2d');
+  var historicalChart = new Chart(ctxHistorical, {
+    type: 'line',
+    data: {
+      labels: historicalLabels,
+      datasets: [{
+        label: 'Historical Cases',
+        data: historicalValues,
+        backgroundColor: 'rgba(75, 192, 192, 0.2)',
+        borderColor: 'rgba(75, 192, 192, 1)',
+        borderWidth: 2,
+        fill: true
+      }]
+    },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      scales: {
+        y: {
+          beginAtZero: false,
+          title: {
+            display: true,
+            text: 'Number of Cases'
+          }
+        },
+        // x: {
+        //   title: {
+        //     display: true,
+        //     text: 'Year'
+        //   }
+        // }
+      },
+      plugins: {
+        tooltip: {
+          callbacks: {
+            label: function(context) {
+              return context.dataset.label + ': ' + context.parsed.y;
+            }
+          }
+        }
+      }
+    }
+  });
+</script>
