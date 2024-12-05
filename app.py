@@ -11,6 +11,11 @@ from modul.preprocess_image import preprocess_image
 import folium
 import pandas as pd
 from statsmodels.tsa.arima.model import ARIMA
+from sklearn.model_selection import train_test_split
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.preprocessing import LabelEncoder
+from sklearn.datasets import load_breast_cancer
+
 
 
 app = Flask(__name__)
@@ -60,6 +65,24 @@ try:
     model.summary()
 except Exception as e:
     print(f"Error loading model: {str(e)}")
+
+# ----- KLASIFIKASI DECISION TREE -----
+data_dcs = load_breast_cancer()
+dcs_df = pd.DataFrame(data_dcs.data, columns=data_dcs.feature_names)
+dcs_df['target'] = data_dcs.target
+
+mean_features = [col for col in dcs_df.columns if "mean" in col]
+X_kls = dcs_df[mean_features]
+y_kls = dcs_df['target']
+
+label_encoder = LabelEncoder()
+y_kls = label_encoder.fit_transform(y_kls)
+
+X_train, X_test, y_train, y_test = train_test_split(X_kls, y_kls, test_size=0.2, random_state=42)
+
+model_dcs = DecisionTreeClassifier(criterion="entropy", random_state=42)
+model_dcs.fit(X_train, y_train)
+
 
 # ----- KLASTERING MAPS -----
 # Load data
@@ -113,7 +136,8 @@ def index():
     # Convert map to HTML string
     map_html = m._repr_html_()
     # Render the template and pass map_html
-    return render_template('index.html', map_html=map_html,historical_data=historical_data.to_dict(),forecast_data=forecast_df.to_dict(),plot_url=plot_path)
+    
+    return render_template('index.html', map_html=map_html,historical_data=historical_data.to_dict(),forecast_data=forecast_df.to_dict(),plot_url=plot_path, features=mean_features)
 
 # ----- Route untuk Forecasting -----
 @app.route('/forecast', methods=['GET'])
@@ -191,6 +215,37 @@ def predict():
             'success': False,
             'error': 'Terjadi kesalahan dalam pemrosesan gambar'
         })
-   
+    
+# ----- Route untuk Prediksi Decision Tree -----
+@app.route('/predict-dcs', methods=['POST'])
+def predict_dcs():
+    try:
+        # Ambil data dari form
+        inputs = [float(request.form[feature]) for feature in mean_features]
+        inputs = pd.DataFrame([inputs], columns=mean_features)
 
-app.run(debug=True)
+        # Prediksi
+        prediction = model_dcs.predict(inputs)[0]
+        result = label_encoder.inverse_transform([prediction])[0]
+        
+        # Mengonversi hasil prediksi dan pesan menjadi tipe yang bisa diserialisasi
+        result = str(result)  # pastikan result adalah string
+        message = f"Prediksi: {result} (0=Malignant, 1=Benign)"
+        
+        # Kirim hasil sebagai response JSON
+        return jsonify({
+            'success': True,
+            'prediction': result,
+            'message': message
+        })
+        
+    except Exception as e:
+        # Tangani error dan kirimkan response JSON dengan error
+        return jsonify({
+            'success': False,
+            'error': f"Terjadi kesalahan: {str(e)}"
+        })
+
+    
+if __name__ == '__main__':
+    app.run(debug=True)
