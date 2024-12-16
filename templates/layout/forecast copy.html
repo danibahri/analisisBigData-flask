@@ -19,27 +19,48 @@
   </table>
 </div> -->
 
+<style>
+  .warp-cart {
+    position: relative;
+  }
+
+  .cart {
+    display: none;
+    position: absolute;
+    bottom: 100%;
+    left: 0;
+    width: 100%;
+    background-color: white;
+    border: 1px solid #ccc;
+    box-shadow: 0 -4px 8px rgba(0, 0, 0, 0.1);
+    padding: 8px;
+    z-index: 10;
+  }
+
+  .warp-cart:hover .cart {
+    display: block;
+  }
+</style>
+
 <!-- Main modal -->
 <div
-  id="forecast"
+  id="grafik-kanker"
   tabindex="-1"
   aria-hidden="true"
   class="hidden overflow-y-auto overflow-x-hidden fixed top-0 right-0 left-0 z-50 justify-center items-center w-full md:inset-0 h-[calc(100%-1rem)] max-h-full"
 >
-  <div class="relative p-4 w-full max-w-screen-sm max-h-full">
-    <!-- Modal content -->
+  <div class="relative p-4 w-full max-w-2xl max-h-full">
     <div class="relative bg-white rounded-lg shadow dark:bg-gray-700">
-      <!-- Modal header -->
       <div
         class="flex items-center justify-between p-4 md:p-5 border-b rounded-t dark:border-gray-600"
       >
         <h3 class="text-xl font-semibold text-gray-900 dark:text-white">
-          Forecasted
+          Grafik Kasus Kanker
         </h3>
         <button
           type="button"
           class="text-gray-400 bg-transparent hover:bg-gray-200 hover:text-gray-900 rounded-lg text-sm w-8 h-8 ms-auto inline-flex justify-center items-center dark:hover:bg-gray-600 dark:hover:text-white"
-          data-modal-hide="forecast"
+          data-modal-hide="grafik-kanker"
         >
           <svg
             class="w-3 h-3"
@@ -60,31 +81,34 @@
         </button>
       </div>
       <!-- Modal body -->
-      <div class="flex p-2">
-        <!-- Grafik Kasus Historis -->
-        <div class="warp-cart bg-white p-2 flex-1 h-full w-full">
-          <h2 class="text-lg font-semibold text-center">Historis</h2>
-          <div class="cart">
-            <canvas id="historicalChart" class="w-full"></canvas>
-          </div>
-        </div>
-        <!-- Grafik Prediksi Kasus -->
-        <div class="warp-cart bg-white p-2 flex-1 h-full w-full">
-          <h2 class="text-lg font-semibold text-center">
-            Grafik Prediksi Kasus
-          </h2>
-          <div class="cart">
-            <canvas id="forecastChart" class="w-full"></canvas>
-          </div>
-        </div>
+      <div class="p-4 md:p-5 space-y-4">
+        <img
+          src="{{ url_for('send_plot', filename='breast_cancer_plot.png') }}"
+          class="w-full"
+          alt="Breast Cancer Cases Plot"
+        />
       </div>
     </div>
   </div>
 </div>
 
 <!-- Chart -->
-<!-- <div class="fixed flex z-20 gap-8 w-full right-0 px-8 bottom-4">
-</div> -->
+<div class="fixed flex z-20 gap-8 w-full right-0 px-8 bottom-4">
+  <!-- Grafik Kasus Historis -->
+  <div class="warp-cart bg-white p-2 w-full h-full rounded-lg shadow-xl">
+    <h2 class="text-lg font-semibold text-center">Historis</h2>
+    <div class="cart">
+      <canvas id="historicalChart" class="w-full"></canvas>
+    </div>
+  </div>
+  <!-- Grafik Prediksi Kasus -->
+  <div class="warp-cart bg-white p-2 w-full h-full rounded-lg shadow-xl">
+    <h2 class="text-lg font-semibold text-center">Grafik Prediksi Kasus</h2>
+    <div class="cart">
+      <canvas id="forecastChart" class="w-full"></canvas>
+    </div>
+  </div>
+</div>
 
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <script>

@@ -33,7 +33,7 @@ p, d, q = 1, 1, 1
 model = ARIMA(data, order=(p, d, q))
 model_fit = model.fit()
 # Forecast for the next 10 years
-steps = 10
+steps = 6
 forecast = model_fit.forecast(steps=steps)
 # Prepare Forecast DataFrame
 future_dates = pd.date_range(data.index[-1], periods=steps+1, freq='Y')[1:]  # Generate future years
@@ -245,7 +245,6 @@ def predict_dcs():
             'success': False,
             'error': f"Terjadi kesalahan: {str(e)}"
         })
-
     
 if __name__ == '__main__':
     app.run(debug=True)
